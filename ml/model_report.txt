@@ -1,0 +1,35 @@
+============================================================
+ML MODEL REPORT
+============================================================
+
+[Classification] Predicting Pass/Fail
+  Logistic Regression: accuracy=0.848, AUC=0.841
+  Random Forest:       accuracy=0.835, AUC=0.828
+
+  Random Forest classification report:
+              precision    recall  f1-score   support
+
+           0       0.56      0.26      0.35        70
+           1       0.86      0.96      0.91       330
+
+    accuracy                           0.83       400
+   macro avg       0.71      0.61      0.63       400
+weighted avg       0.81      0.83      0.81       400
+
+  Top 10 features driving pass/fail prediction:
+    remainder__attendance_rate          0.2804
+    remainder__study_hours_week         0.2714
+    cat__parent_education_High School   0.0360
+    cat__ethnicity_group_Group C        0.0262
+    cat__parent_education_Some College  0.0256
+    cat__extracurricular_No             0.0240
+    cat__ethnicity_group_Group B        0.0237
+    cat__ethnicity_group_Group D        0.0234
+    cat__lunch_type_Free/Reduced        0.0232
+    cat__extracurricular_Yes            0.0231
+
+[Regression] Predicting Final Grade %
+  MAE = 7.52
+  R^2 = 0.469
+
+============================================================

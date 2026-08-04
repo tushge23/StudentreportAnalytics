@@ -1,0 +1,34 @@
+============================================================
+STATISTICAL ANALYSIS REPORT
+============================================================
+
+[1] Test Prep Completed vs Not Completed (Welch's t-test)
+    Mean (Completed)     = 76.50
+    Mean (Not Completed) = 69.73
+    t = 12.140, p = 0.000000
+    -> Statistically significant
+
+[2] Tutoring Yes vs No (Welch's t-test)
+    Mean (Tutoring)    = 76.07
+    Mean (No Tutoring) = 70.21
+    t = 10.291, p = 0.000000
+    -> Statistically significant
+
+[3] One-way ANOVA: Final grade ~ Parent education level
+    F = 41.239, p = 0.000000
+    -> Significant differences across groups
+
+[4] Pearson correlation: Study hours/week vs Final grade
+    r = 0.437, p = 0.000000
+
+[5] Pearson correlation: Attendance rate vs Final grade
+    r = 0.361, p = 0.000000
+
+[6] 95% Confidence Interval for mean final grade
+    Mean = 72.05, 95% CI = (71.51, 72.59)
+
+[7] Chi-square test: Lunch type vs Pass/Fail
+    chi2 = 26.846, p = 0.000000, dof = 1
+    -> Statistically significant association
+
+============================================================

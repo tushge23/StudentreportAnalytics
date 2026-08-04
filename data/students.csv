@@ -1,0 +1,2001 @@
+student_id,gender,ethnicity_group,parent_education,lunch_type,test_preparation,study_hours_week,attendance_rate,tutoring,extracurricular,math_score,reading_score,writing_score,final_grade_pct,passed
+1,Female,Group B,Associate's,Standard,Completed,2.3,0.948,Yes,No,69.9,67.7,65.1,67.6,1
+2,Male,Group B,Bachelor's,Standard,Completed,3.0,0.824,Yes,Yes,87.9,84.9,83.9,85.6,1
+3,Male,Group E,Bachelor's,Free/Reduced,Not Completed,12.3,0.803,No,No,73.4,64.2,64.8,67.5,1
+4,Male,Group B,High School,Standard,Completed,6.4,0.932,No,No,78.6,78.5,75.1,77.4,1
+5,Female,Group B,High School,Standard,Not Completed,10.3,0.85,Yes,Yes,71.4,73.8,70.2,71.8,1
+6,Female,Group D,Some College,Free/Reduced,Not Completed,10.4,0.774,Yes,Yes,57.4,64.5,50.2,57.4,0
+7,Female,Group C,Some College,Standard,Completed,5.8,0.978,No,Yes,87.5,97.5,93.1,92.7,1
+8,Male,Group D,Some College,Standard,Not Completed,9.1,1.0,Yes,Yes,91.9,92.8,83.9,89.5,1
+9,Male,Group A,Associate's,Standard,Completed,5.6,1.0,No,Yes,90.1,94.1,81.2,88.5,1
+10,Male,Group C,High School,Standard,Not Completed,5.0,0.915,No,Yes,59.3,62.7,42.8,54.9,0
+11,Female,Group A,High School,Free/Reduced,Completed,4.2,0.95,Yes,No,75.1,76.6,68.9,73.5,1
+12,Male,Group A,Some College,Free/Reduced,Not Completed,8.8,1.0,No,No,72.9,74.7,78.9,75.5,1
+13,Male,Group E,Associate's,Free/Reduced,Not Completed,13.6,0.849,Yes,No,99.3,93.8,89.9,94.3,1
+14,Female,Group A,High School,Standard,Not Completed,12.7,0.989,No,Yes,82.8,95.9,81.5,86.7,1
+15,Female,Group C,Associate's,Standard,Completed,2.7,0.922,No,No,69.5,74.2,70.0,71.2,1
+16,Female,Group C,Some College,Free/Reduced,Completed,13.4,0.973,No,Yes,73.6,73.4,66.8,71.3,1
+17,Female,Group B,Bachelor's,Standard,Not Completed,3.6,0.915,No,Yes,79.8,85.2,75.1,80.0,1
+18,Male,Group E,Bachelor's,Standard,Not Completed,7.3,1.0,No,Yes,81.5,76.9,77.2,78.5,1
+19,Female,Group A,Some College,Standard,Not Completed,8.0,0.918,Yes,No,64.2,69.9,73.5,69.2,1
+20,Female,Group D,High School,Standard,Completed,2.3,0.781,No,No,63.1,70.6,62.1,65.3,1
+21,Male,Group E,Some College,Standard,Not Completed,6.0,1.0,Yes,Yes,67.2,63.0,65.1,65.1,1
+22,Female,Group C,High School,Free/Reduced,Completed,13.9,0.824,No,No,77.9,92.0,71.8,80.6,1
+23,Female,Group E,Associate's,Free/Reduced,Completed,1.1,1.0,Yes,No,66.7,71.0,62.7,66.8,1
+24,Female,Group A,Bachelor's,Standard,Not Completed,22.2,0.893,No,No,80.4,93.7,77.1,83.7,1
+25,Female,Group C,Associate's,Standard,Not Completed,1.4,0.994,No,No,65.9,74.2,72.6,70.9,1
+26,Male,Group B,Bachelor's,Standard,Not Completed,7.9,0.991,No,No,86.2,84.4,87.3,86.0,1
+27,Female,Group D,Some College,Free/Reduced,Completed,2.3,0.934,No,Yes,60.5,67.1,58.7,62.1,1
+28,Female,Group E,High School,Standard,Not Completed,8.7,0.941,No,Yes,65.1,83.0,80.9,76.3,1
+29,Male,Group B,Bachelor's,Free/Reduced,Not Completed,12.4,0.934,No,Yes,75.4,75.9,66.9,72.7,1
+30,Female,Group D,Some College,Standard,Completed,10.5,0.739,Yes,No,76.7,80.5,74.9,77.4,1
+31,Male,Group B,Associate's,Standard,Not Completed,11.5,0.909,Yes,Yes,87.6,76.3,83.0,82.3,1
+32,Female,Group C,Some College,Standard,Completed,5.6,0.811,Yes,Yes,67.2,65.9,62.7,65.3,1
+33,Female,Group C,High School,Free/Reduced,Not Completed,2.5,0.914,No,No,45.2,53.1,40.4,46.2,0
+34,Male,Group E,Master's,Standard,Not Completed,13.8,0.809,Yes,No,80.5,79.2,68.1,75.9,1
+35,Male,Group C,High School,Standard,Completed,19.4,0.805,Yes,No,94.1,87.3,72.8,84.7,1
+36,Male,Group B,Master's,Standard,Not Completed,7.0,1.0,No,Yes,77.4,87.9,72.8,79.4,1
+37,Female,Group A,Master's,Free/Reduced,Not Completed,5.2,0.986,No,Yes,63.7,80.9,68.6,71.1,1
+38,Female,Group B,Bachelor's,Free/Reduced,Completed,4.0,0.9,No,Yes,68.4,74.7,70.3,71.1,1
+39,Male,Group B,Associate's,Standard,Not Completed,10.1,0.915,No,No,62.0,66.3,66.4,64.9,1
+40,Female,Group B,Associate's,Free/Reduced,Completed,11.8,0.88,No,Yes,69.1,73.3,72.2,71.5,1
+41,Female,Group E,Bachelor's,Standard,Completed,5.2,0.946,No,No,75.0,80.1,70.5,75.2,1
+42,Female,Group C,Some College,Standard,Not Completed,15.5,0.846,Yes,No,78.3,85.4,76.3,80.0,1
+43,Female,Group C,Some College,Standard,Not Completed,9.7,0.979,No,Yes,79.2,78.0,72.9,76.7,1
+44,Male,Group A,Associate's,Standard,Completed,7.0,0.88,No,No,76.5,75.8,65.8,72.7,1
+45,Female,Group E,Some College,Free/Reduced,Not Completed,8.1,0.866,Yes,Yes,57.4,62.6,55.3,58.4,0
+46,Male,Group D,Some College,Free/Reduced,Not Completed,3.4,0.902,Yes,Yes,54.3,60.8,51.7,55.6,0
+47,Female,Group A,Some College,Standard,Completed,10.1,0.853,Yes,Yes,100.0,100.0,96.7,98.9,1
+48,Male,Group D,Associate's,Standard,Not Completed,3.5,0.926,No,No,61.8,51.6,54.5,56.0,0
+49,Male,Group C,Bachelor's,Free/Reduced,Completed,4.8,0.857,No,Yes,64.1,65.9,67.5,65.8,1
+50,Female,Group A,High School,Free/Reduced,Not Completed,6.4,0.937,No,Yes,65.3,63.1,62.2,63.5,1
+51,Male,Group C,Master's,Standard,Not Completed,17.7,0.997,No,Yes,95.9,100.0,90.1,95.3,1
+52,Male,Group C,Associate's,Free/Reduced,Not Completed,7.7,0.842,No,Yes,65.9,73.3,68.5,69.2,1
+53,Male,Group B,Bachelor's,Standard,Completed,3.8,0.89,No,Yes,66.4,72.8,70.6,69.9,1
+54,Male,Group E,Associate's,Standard,Completed,8.1,0.937,Yes,Yes,81.7,86.8,86.8,85.1,1
+55,Male,Group D,Bachelor's,Free/Reduced,Completed,9.3,0.865,No,No,79.9,78.3,78.1,78.8,1
+56,Male,Group D,High School,Standard,Not Completed,12.9,0.937,No,Yes,66.1,74.5,72.8,71.1,1
+57,Female,Group C,Bachelor's,Standard,Not Completed,6.6,0.944,No,Yes,74.6,75.0,75.4,75.0,1
+58,Female,Group C,High School,Standard,Not Completed,4.2,0.987,Yes,Yes,84.2,75.0,90.1,83.1,1
+59,Female,Group D,Bachelor's,Free/Reduced,Not Completed,20.4,0.852,No,Yes,80.7,74.2,75.0,76.6,1
+60,Female,Group C,Master's,Free/Reduced,Not Completed,8.1,0.825,No,No,72.0,76.2,63.9,70.7,1
+61,Female,Group A,Some College,Standard,Not Completed,3.8,0.875,No,Yes,67.1,74.5,73.8,71.8,1
+62,Female,Group C,High School,Standard,Not Completed,6.5,0.823,No,Yes,61.2,70.3,66.2,65.9,1
+63,Male,Group D,Bachelor's,Standard,Completed,4.8,0.945,No,No,83.1,99.4,93.9,92.1,1
+64,Female,Group C,Some College,Standard,Not Completed,13.4,0.807,No,No,62.4,51.5,55.6,56.5,0
+65,Female,Group A,Bachelor's,Standard,Completed,9.3,1.0,No,Yes,89.1,88.2,100.0,92.4,1
+66,Male,Group D,High School,Free/Reduced,Not Completed,5.5,1.0,Yes,No,77.7,77.9,67.9,74.5,1
+67,Female,Group B,High School,Standard,Not Completed,11.8,0.901,No,No,58.3,66.8,69.0,64.7,1
+68,Male,Group B,Master's,Standard,Not Completed,6.2,0.969,Yes,No,91.8,78.6,90.1,86.8,1
+69,Female,Group B,Associate's,Standard,Not Completed,6.4,0.769,No,Yes,79.9,72.7,61.8,71.5,1
+70,Male,Group B,Bachelor's,Standard,Not Completed,4.1,1.0,No,No,59.3,67.7,69.9,65.6,1
+71,Male,Group D,Some College,Free/Reduced,Not Completed,4.1,0.853,No,No,54.6,58.0,58.8,57.1,0
+72,Female,Group C,Associate's,Standard,Not Completed,19.6,0.89,No,Yes,95.7,92.2,87.8,91.9,1
+73,Female,Group B,Associate's,Standard,Completed,11.5,0.752,No,Yes,66.5,53.8,53.5,57.9,0
+74,Male,Group E,Associate's,Standard,Completed,1.7,0.939,No,Yes,73.8,68.9,63.9,68.9,1
+75,Male,Group E,Associate's,Standard,Completed,3.5,0.811,Yes,No,70.3,71.6,75.7,72.5,1
+76,Male,Group E,Associate's,Standard,Not Completed,3.0,0.908,Yes,Yes,73.0,67.8,66.1,69.0,1
+77,Male,Group B,Some College,Standard,Not Completed,6.9,0.856,Yes,No,62.9,63.5,60.3,62.2,1
+78,Female,Group C,Some College,Standard,Not Completed,5.1,0.814,No,Yes,52.3,63.6,61.5,59.1,0
+79,Female,Group E,Bachelor's,Standard,Not Completed,14.9,0.836,No,Yes,83.7,74.2,88.6,82.2,1
+80,Female,Group D,High School,Standard,Not Completed,5.4,0.918,No,No,62.2,66.1,68.0,65.4,1
+81,Male,Group A,Associate's,Standard,Not Completed,18.5,0.797,No,Yes,79.0,75.8,66.4,73.7,1
+82,Male,Group A,High School,Free/Reduced,Not Completed,6.3,0.84,No,No,57.5,61.3,62.0,60.3,1
+83,Female,Group C,Associate's,Standard,Not Completed,20.8,0.953,No,Yes,86.0,89.8,85.0,86.9,1
+84,Female,Group E,Bachelor's,Standard,Not Completed,5.9,1.0,Yes,No,66.4,61.8,71.2,66.5,1
+85,Female,Group C,High School,Standard,Completed,5.9,0.938,No,Yes,65.4,74.2,71.9,70.5,1
+86,Female,Group C,High School,Standard,Completed,11.4,0.827,No,No,71.3,79.7,73.1,74.7,1
+87,Male,Group A,High School,Free/Reduced,Completed,10.4,0.871,No,No,77.5,72.8,71.0,73.8,1
+88,Male,Group D,Associate's,Standard,Completed,2.7,0.903,No,Yes,76.6,77.1,59.7,71.1,1
+89,Male,Group D,Bachelor's,Free/Reduced,Not Completed,7.0,0.872,Yes,Yes,63.5,75.9,70.8,70.1,1
+90,Female,Group C,High School,Standard,Completed,5.1,0.972,No,Yes,61.6,76.5,67.3,68.5,1
+91,Female,Group D,Bachelor's,Standard,Completed,4.9,0.917,Yes,No,86.8,95.0,83.9,88.6,1
+92,Male,Group E,Some College,Free/Reduced,Not Completed,7.0,0.973,No,No,50.7,67.2,50.5,56.1,0
+93,Male,Group B,Some College,Standard,Not Completed,5.6,0.875,No,Yes,67.1,59.0,67.0,64.4,1
+94,Male,Group C,Master's,Standard,Completed,7.4,1.0,Yes,Yes,86.9,94.1,84.4,88.5,1
+95,Male,Group B,Some College,Standard,Not Completed,3.4,0.887,No,No,45.3,51.0,53.7,50.0,0
+96,Female,Group D,Some College,Free/Reduced,Completed,2.2,0.822,No,Yes,53.2,64.1,51.6,56.3,0
+97,Male,Group C,High School,Standard,Not Completed,11.6,1.0,No,No,74.2,86.9,77.4,79.5,1
+98,Female,Group C,High School,Free/Reduced,Not Completed,12.6,0.754,No,No,55.2,59.8,56.3,57.1,0
+99,Female,Group D,Some College,Standard,Not Completed,11.2,0.841,Yes,No,73.3,77.9,67.4,72.9,1
+100,Female,Group C,High School,Free/Reduced,Not Completed,6.8,0.85,Yes,Yes,42.4,50.4,60.0,50.9,0
+101,Female,Group E,Associate's,Standard,Completed,5.3,1.0,Yes,Yes,100.0,100.0,96.1,98.7,1
+102,Male,Group C,Some College,Free/Reduced,Completed,4.4,1.0,No,Yes,65.7,62.8,58.2,62.2,1
+103,Female,Group B,Associate's,Standard,Not Completed,3.9,1.0,No,Yes,66.6,66.6,70.2,67.8,1
+104,Female,Group D,High School,Free/Reduced,Not Completed,6.3,0.874,No,No,48.6,59.6,53.3,53.8,0
+105,Male,Group D,Some College,Standard,Completed,12.5,1.0,Yes,Yes,97.0,98.6,95.5,97.0,1
+106,Female,Group B,Associate's,Standard,Not Completed,4.2,0.929,Yes,Yes,78.9,80.2,71.9,77.0,1
+107,Female,Group E,Master's,Standard,Not Completed,12.5,0.978,No,Yes,82.9,77.1,72.3,77.4,1
+108,Male,Group E,High School,Standard,Not Completed,2.3,0.914,No,No,55.4,54.5,57.9,55.9,0
+109,Female,Group B,Bachelor's,Standard,Completed,7.7,0.896,No,Yes,90.3,85.0,92.2,89.2,1
+110,Female,Group E,Associate's,Free/Reduced,Completed,8.6,0.88,No,Yes,88.7,83.7,78.7,83.7,1
+111,Female,Group A,Associate's,Free/Reduced,Not Completed,4.8,0.883,No,Yes,63.7,61.0,61.7,62.1,1
+112,Female,Group B,Associate's,Standard,Not Completed,3.2,0.949,No,Yes,73.1,74.8,64.1,70.7,1
+113,Male,Group B,High School,Free/Reduced,Completed,10.8,0.929,No,Yes,87.4,98.3,88.4,91.4,1
+114,Male,Group E,High School,Standard,Completed,6.8,0.897,Yes,No,83.7,78.0,93.3,85.0,1
+115,Male,Group D,Associate's,Standard,Not Completed,24.3,1.0,Yes,Yes,94.6,96.2,95.7,95.5,1
+116,Male,Group B,Some College,Free/Reduced,Not Completed,12.6,0.663,Yes,Yes,55.9,54.6,59.0,56.5,0
+117,Male,Group C,Master's,Free/Reduced,Completed,12.6,0.941,No,Yes,98.5,84.3,97.6,93.5,1
+118,Female,Group C,Some College,Free/Reduced,Not Completed,0.9,0.957,No,No,42.3,55.4,43.6,47.1,0
+119,Male,Group A,High School,Standard,Not Completed,4.3,0.992,No,No,80.3,75.6,64.6,73.5,1
+120,Male,Group E,Bachelor's,Free/Reduced,Not Completed,3.0,0.895,No,Yes,59.6,66.7,68.4,64.9,1
+121,Male,Group D,Some College,Standard,Not Completed,1.4,0.917,No,No,63.4,73.7,58.5,65.2,1
+122,Male,Group C,Associate's,Standard,Not Completed,6.5,0.979,Yes,No,82.3,78.6,66.8,75.9,1
+123,Female,Group E,Associate's,Standard,Not Completed,10.6,1.0,No,Yes,76.4,74.6,78.9,76.6,1
+124,Female,Group C,Master's,Free/Reduced,Completed,3.5,0.876,Yes,No,90.0,93.2,82.2,88.5,1
+125,Female,Group E,Bachelor's,Free/Reduced,Not Completed,1.5,0.921,Yes,No,59.4,72.6,60.4,64.1,1
+126,Female,Group D,Associate's,Free/Reduced,Not Completed,3.7,1.0,Yes,No,63.3,72.0,77.4,70.9,1
+127,Male,Group C,Associate's,Standard,Not Completed,6.0,0.73,Yes,No,66.7,67.4,52.7,62.3,1
+128,Male,Group B,Master's,Standard,Completed,5.8,0.845,No,Yes,75.3,79.5,71.0,75.3,1
+129,Female,Group E,Some College,Standard,Completed,6.7,1.0,Yes,No,73.5,77.6,72.7,74.6,1
+130,Female,Group C,High School,Standard,Not Completed,8.5,0.987,No,No,71.6,69.3,64.6,68.5,1
+131,Female,Group B,Some College,Standard,Completed,6.6,0.942,Yes,Yes,70.4,73.9,70.2,71.5,1
+132,Female,Group A,High School,Free/Reduced,Not Completed,10.9,0.864,No,Yes,71.1,68.9,63.0,67.7,1
+133,Female,Group C,Associate's,Standard,Completed,3.5,0.829,No,No,59.9,68.6,66.3,64.9,1
+134,Female,Group C,Associate's,Standard,Not Completed,5.6,0.853,No,Yes,50.4,62.4,50.7,54.5,0
+135,Male,Group D,Associate's,Standard,Completed,9.4,1.0,No,Yes,66.4,78.9,70.9,72.1,1
+136,Female,Group E,High School,Standard,Not Completed,7.9,0.85,No,Yes,47.6,45.9,48.8,47.4,0
+137,Female,Group A,Bachelor's,Standard,Not Completed,17.3,0.908,No,Yes,91.5,91.8,97.3,93.5,1
+138,Male,Group D,Some College,Free/Reduced,Completed,3.6,0.84,Yes,Yes,69.1,62.7,70.4,67.4,1
+139,Female,Group B,Associate's,Standard,Not Completed,9.4,0.967,No,No,76.9,82.9,74.3,78.0,1
+140,Male,Group E,Associate's,Free/Reduced,Not Completed,4.4,0.857,No,No,68.3,51.4,63.8,61.2,1
+141,Male,Group D,Some College,Standard,Not Completed,4.1,0.892,No,No,62.2,62.4,65.8,63.5,1
+142,Female,Group C,High School,Standard,Completed,12.1,0.765,No,No,63.3,77.6,75.3,72.1,1
+143,Female,Group D,High School,Standard,Completed,6.6,0.771,No,Yes,69.5,77.6,79.4,75.5,1
+144,Female,Group B,Bachelor's,Free/Reduced,Not Completed,7.8,0.901,Yes,Yes,73.3,74.8,74.7,74.3,1
+145,Female,Group C,Master's,Free/Reduced,Completed,4.6,0.794,No,No,84.4,79.1,84.0,82.5,1
+146,Female,Group D,Associate's,Standard,Not Completed,4.8,1.0,No,No,75.4,82.0,62.9,73.4,1
+147,Male,Group C,High School,Standard,Not Completed,2.2,0.735,No,No,41.6,49.7,49.8,47.0,0
+148,Female,Group B,Some College,Standard,Completed,7.4,0.836,No,Yes,73.4,65.6,61.7,66.9,1
+149,Female,Group C,Bachelor's,Standard,Not Completed,3.3,0.901,No,Yes,64.1,62.4,59.3,61.9,1
+150,Female,Group D,Bachelor's,Free/Reduced,Not Completed,6.1,0.871,Yes,Yes,88.2,79.1,81.1,82.8,1
+151,Male,Group B,High School,Standard,Not Completed,10.9,0.812,No,Yes,66.9,56.0,58.9,60.6,1
+152,Female,Group B,High School,Standard,Completed,1.7,0.823,No,Yes,48.3,53.6,52.7,51.5,0
+153,Female,Group D,Bachelor's,Standard,Not Completed,27.9,0.821,No,Yes,100.0,97.6,100.0,99.2,1
+154,Female,Group D,Some College,Standard,Completed,4.0,0.877,No,No,75.2,63.2,64.6,67.7,1
+155,Male,Group A,Some College,Standard,Completed,6.2,1.0,Yes,Yes,93.6,91.1,79.5,88.1,1
+156,Female,Group B,High School,Standard,Not Completed,7.8,0.906,No,Yes,85.6,85.0,88.7,86.4,1
+157,Male,Group A,Associate's,Free/Reduced,Completed,4.0,0.995,No,Yes,85.5,86.2,82.3,84.7,1
+158,Male,Group B,Bachelor's,Free/Reduced,Not Completed,4.9,0.941,Yes,Yes,71.5,71.2,81.6,74.8,1
+159,Female,Group C,Master's,Standard,Not Completed,12.4,0.989,No,Yes,72.0,68.3,79.5,73.3,1
+160,Male,Group D,Associate's,Free/Reduced,Completed,10.3,0.676,Yes,Yes,61.7,67.8,55.8,61.8,1
+161,Female,Group D,Associate's,Standard,Completed,5.7,0.876,No,Yes,69.8,76.8,80.4,75.7,1
+162,Male,Group C,High School,Standard,Not Completed,6.7,1.0,No,No,67.1,57.9,54.4,59.8,0
+163,Male,Group B,Associate's,Standard,Not Completed,7.3,0.854,Yes,Yes,87.5,84.6,87.9,86.7,1
+164,Male,Group D,Some College,Standard,Not Completed,9.2,1.0,Yes,Yes,87.5,81.7,79.7,83.0,1
+165,Female,Group C,Associate's,Standard,Not Completed,9.6,1.0,No,No,72.7,88.8,69.8,77.1,1
+166,Male,Group E,Some College,Standard,Not Completed,9.4,0.862,Yes,Yes,73.0,67.1,62.6,67.6,1
+167,Female,Group C,High School,Standard,Not Completed,5.1,0.86,No,Yes,60.7,59.7,73.2,64.5,1
+168,Female,Group A,High School,Free/Reduced,Completed,7.1,0.819,No,Yes,46.2,57.9,52.8,52.3,0
+169,Female,Group D,Some College,Standard,Not Completed,11.6,0.85,No,Yes,95.5,90.2,85.5,90.4,1
+170,Male,Group B,High School,Standard,Not Completed,20.3,0.801,No,No,91.5,77.4,94.1,87.7,1
+171,Male,Group D,High School,Standard,Completed,7.0,0.934,Yes,Yes,86.6,90.8,82.6,86.7,1
+172,Female,Group A,Master's,Standard,Completed,4.7,0.784,No,Yes,60.7,73.1,59.0,64.3,1
+173,Female,Group B,Some College,Standard,Not Completed,3.9,0.948,No,No,69.8,56.6,71.6,66.0,1
+174,Female,Group E,Associate's,Free/Reduced,Not Completed,9.5,0.95,Yes,No,87.0,81.9,83.0,84.0,1
+175,Male,Group B,Bachelor's,Standard,Not Completed,2.1,0.767,No,Yes,58.5,50.3,57.8,55.5,0
+176,Female,Group D,Master's,Standard,Not Completed,9.5,1.0,No,Yes,74.3,78.0,64.1,72.1,1
+177,Male,Group B,Associate's,Standard,Not Completed,9.6,0.941,No,Yes,79.5,76.7,64.1,73.4,1
+178,Female,Group C,Bachelor's,Standard,Completed,4.8,0.96,No,Yes,89.1,78.3,70.0,79.1,1
+179,Male,Group D,Some College,Standard,Not Completed,7.7,0.839,Yes,No,72.4,73.5,64.3,70.1,1
+180,Female,Group C,Some College,Standard,Not Completed,5.8,0.95,No,No,83.1,86.9,76.7,82.2,1
+181,Female,Group B,Some College,Standard,Not Completed,2.6,0.99,No,No,49.7,61.9,61.2,57.6,0
+182,Female,Group B,Associate's,Standard,Not Completed,9.1,0.892,Yes,Yes,77.6,89.4,75.3,80.8,1
+183,Male,Group A,Associate's,Standard,Not Completed,8.7,1.0,No,No,63.3,67.0,73.0,67.8,1
+184,Male,Group B,Some College,Free/Reduced,Completed,5.1,0.904,No,Yes,56.9,62.0,59.8,59.6,0
+185,Female,Group D,High School,Standard,Not Completed,20.2,0.991,Yes,Yes,86.4,73.3,78.7,79.5,1
+186,Male,Group E,Associate's,Free/Reduced,Not Completed,6.7,0.923,No,Yes,70.8,62.6,64.5,66.0,1
+187,Male,Group E,High School,Free/Reduced,Not Completed,1.6,0.947,No,Yes,71.7,70.3,55.9,66.0,1
+188,Male,Group D,Associate's,Standard,Completed,12.0,0.766,No,Yes,71.4,77.8,75.1,74.8,1
+189,Male,Group D,Associate's,Standard,Not Completed,10.4,0.93,No,No,70.2,74.4,63.4,69.3,1
+190,Female,Group D,Bachelor's,Standard,Not Completed,11.1,0.841,No,No,80.8,82.4,75.4,79.5,1
+191,Female,Group B,Bachelor's,Free/Reduced,Completed,3.4,0.832,No,No,64.9,73.0,77.0,71.6,1
+192,Male,Group E,Bachelor's,Standard,Not Completed,7.6,1.0,Yes,Yes,86.1,82.4,92.3,86.9,1
+193,Male,Group D,Some College,Free/Reduced,Not Completed,6.6,0.883,No,No,73.6,83.1,63.5,73.4,1
+194,Male,Group C,Bachelor's,Free/Reduced,Not Completed,6.0,0.82,No,Yes,64.5,63.5,64.9,64.3,1
+195,Female,Group A,Associate's,Free/Reduced,Not Completed,13.8,0.871,Yes,No,81.4,83.7,75.4,80.2,1
+196,Female,Group C,High School,Standard,Not Completed,6.7,0.796,No,No,48.5,59.7,50.4,52.9,0
+197,Male,Group C,High School,Standard,Completed,5.2,1.0,Yes,No,84.1,87.7,81.7,84.5,1
+198,Male,Group E,Some College,Free/Reduced,Not Completed,5.1,0.844,No,Yes,58.6,60.7,55.0,58.1,0
+199,Male,Group C,Some College,Standard,Not Completed,3.2,0.942,No,Yes,59.5,70.7,71.3,67.2,1
+200,Male,Group C,Associate's,Standard,Not Completed,7.1,1.0,Yes,Yes,82.4,71.6,81.9,78.6,1
+201,Male,Group E,Bachelor's,Free/Reduced,Not Completed,14.4,0.86,No,Yes,71.4,74.1,88.7,78.1,1
+202,Female,Group A,High School,Standard,Not Completed,5.4,0.943,Yes,Yes,58.3,64.1,58.3,60.2,1
+203,Female,Group C,High School,Free/Reduced,Completed,7.8,0.818,No,Yes,43.9,48.9,35.4,42.7,0
+204,Male,Group A,Master's,Free/Reduced,Not Completed,5.9,1.0,No,Yes,83.1,90.4,85.5,86.3,1
+205,Male,Group D,High School,Standard,Completed,6.3,0.975,No,Yes,69.5,64.6,69.2,67.8,1
+206,Female,Group E,Some College,Free/Reduced,Not Completed,10.7,0.885,No,Yes,69.2,76.6,70.9,72.2,1
+207,Female,Group B,Associate's,Standard,Not Completed,3.2,0.838,Yes,Yes,70.9,78.1,75.1,74.7,1
+208,Male,Group E,Associate's,Standard,Not Completed,2.3,0.891,No,Yes,66.4,71.0,62.9,66.8,1
+209,Female,Group B,High School,Standard,Not Completed,12.0,0.873,Yes,Yes,72.9,79.8,67.7,73.5,1
+210,Female,Group E,High School,Standard,Not Completed,4.7,1.0,No,Yes,70.8,66.3,68.9,68.7,1
+211,Male,Group D,High School,Standard,Not Completed,5.2,0.802,No,No,50.0,55.9,57.0,54.3,0
+212,Male,Group D,Associate's,Standard,Completed,22.6,0.911,No,Yes,100.0,100.0,100.0,100.0,1
+213,Male,Group A,Associate's,Standard,Not Completed,10.4,0.899,No,No,93.1,82.6,91.1,88.9,1
+214,Female,Group E,High School,Standard,Not Completed,3.7,0.891,No,Yes,80.8,61.7,65.4,69.3,1
+215,Male,Group D,Associate's,Free/Reduced,Not Completed,12.5,0.891,No,Yes,66.2,78.1,73.8,72.7,1
+216,Female,Group B,Bachelor's,Free/Reduced,Not Completed,10.5,0.891,No,Yes,67.0,73.9,65.1,68.7,1
+217,Female,Group D,High School,Standard,Not Completed,0.4,0.97,Yes,No,65.3,68.9,71.2,68.5,1
+218,Male,Group B,Some College,Standard,Not Completed,7.3,0.949,Yes,No,91.0,79.5,69.9,80.1,1
+219,Male,Group E,Associate's,Standard,Not Completed,3.3,0.934,No,No,58.0,68.4,64.8,63.7,1
+220,Male,Group A,Some College,Standard,Completed,6.3,0.657,No,No,65.6,59.1,61.7,62.1,1
+221,Male,Group D,Some College,Free/Reduced,Completed,20.4,0.924,No,Yes,79.1,87.3,86.2,84.2,1
+222,Male,Group C,Associate's,Free/Reduced,Not Completed,11.0,0.768,No,Yes,66.1,69.7,66.3,67.4,1
+223,Female,Group A,Bachelor's,Standard,Not Completed,11.8,0.952,No,Yes,88.6,90.6,89.9,89.7,1
+224,Female,Group B,Bachelor's,Standard,Completed,5.9,1.0,No,Yes,95.7,92.8,86.5,91.7,1
+225,Female,Group A,Associate's,Standard,Not Completed,11.8,0.826,Yes,No,71.5,74.7,81.5,75.9,1
+226,Female,Group C,Bachelor's,Standard,Not Completed,4.1,0.879,No,No,62.1,57.1,60.1,59.8,0
+227,Male,Group B,Some College,Standard,Not Completed,7.2,0.852,No,No,59.7,57.9,59.3,59.0,0
+228,Female,Group C,Associate's,Free/Reduced,Not Completed,10.7,0.999,No,Yes,82.0,74.5,76.1,77.5,1
+229,Male,Group B,Some College,Free/Reduced,Not Completed,10.5,0.908,Yes,Yes,97.5,96.4,95.8,96.6,1
+230,Male,Group B,High School,Standard,Not Completed,2.4,1.0,No,Yes,55.0,67.9,61.4,61.4,1
+231,Male,Group D,Bachelor's,Standard,Not Completed,17.9,0.933,Yes,No,100.0,100.0,92.1,97.4,1
+232,Female,Group A,Associate's,Free/Reduced,Not Completed,3.6,0.919,Yes,No,59.6,63.1,61.1,61.3,1
+233,Male,Group E,Some College,Standard,Completed,24.9,0.905,Yes,Yes,99.9,92.4,96.6,96.3,1
+234,Female,Group E,Master's,Standard,Not Completed,10.9,0.965,Yes,No,85.4,89.4,85.4,86.7,1
+235,Female,Group D,High School,Standard,Not Completed,10.3,0.761,No,Yes,42.3,48.6,44.8,45.2,0
+236,Male,Group C,Some College,Free/Reduced,Not Completed,3.8,0.907,No,No,67.2,73.3,69.6,70.0,1
+237,Female,Group E,High School,Standard,Completed,4.9,0.894,No,No,53.8,60.4,53.8,56.0,0
+238,Female,Group B,Bachelor's,Free/Reduced,Completed,17.1,0.958,No,Yes,95.4,91.0,94.3,93.6,1
+239,Male,Group A,Bachelor's,Free/Reduced,Not Completed,15.9,0.885,No,No,66.7,70.1,72.0,69.6,1
+240,Female,Group B,Some College,Free/Reduced,Not Completed,6.0,0.817,No,Yes,44.1,49.7,45.8,46.5,0
+241,Male,Group D,Associate's,Free/Reduced,Completed,5.7,0.901,No,Yes,84.4,75.2,74.7,78.1,1
+242,Male,Group A,Some College,Standard,Completed,5.8,0.813,Yes,Yes,66.2,78.8,69.7,71.6,1
+243,Male,Group C,Bachelor's,Standard,Not Completed,12.5,0.746,No,Yes,55.8,63.8,71.1,63.6,1
+244,Female,Group E,Some College,Free/Reduced,Not Completed,11.8,0.958,No,Yes,62.8,72.7,68.5,68.0,1
+245,Female,Group E,Some College,Free/Reduced,Not Completed,8.4,0.946,Yes,No,64.5,77.8,76.2,72.8,1
+246,Male,Group C,Master's,Standard,Completed,7.3,0.937,No,Yes,77.2,83.9,82.3,81.1,1
+247,Female,Group A,Some College,Standard,Not Completed,6.0,1.0,Yes,Yes,68.5,68.5,75.9,71.0,1
+248,Male,Group D,High School,Free/Reduced,Not Completed,23.8,0.847,Yes,No,93.2,100.0,97.5,96.9,1
+249,Male,Group C,Associate's,Free/Reduced,Completed,2.6,0.786,No,Yes,46.9,46.5,42.2,45.2,0
+250,Male,Group A,Master's,Standard,Completed,5.2,0.894,No,Yes,72.3,77.0,73.8,74.4,1
+251,Female,Group A,Some College,Standard,Completed,8.0,0.872,No,Yes,69.0,74.7,64.0,69.2,1
+252,Female,Group E,High School,Standard,Completed,2.2,0.833,Yes,Yes,82.6,78.8,74.4,78.6,1
+253,Male,Group D,Some College,Standard,Not Completed,4.6,0.894,No,No,66.2,63.7,70.7,66.9,1
+254,Female,Group D,Associate's,Standard,Not Completed,20.2,0.851,No,Yes,89.8,88.5,99.3,92.5,1
+255,Female,Group E,High School,Standard,Not Completed,11.4,0.753,Yes,No,64.0,78.2,65.6,69.3,1
+256,Male,Group C,Associate's,Standard,Completed,4.6,0.865,No,No,73.7,61.3,60.1,65.0,1
+257,Male,Group C,Master's,Standard,Not Completed,4.5,0.809,Yes,Yes,78.4,83.4,76.2,79.3,1
+258,Male,Group C,Some College,Free/Reduced,Completed,2.6,0.919,Yes,Yes,75.2,65.3,81.0,73.8,1
+259,Male,Group B,Some College,Free/Reduced,Not Completed,5.0,0.848,Yes,No,76.3,64.3,72.8,71.1,1
+260,Female,Group C,Some College,Standard,Completed,9.3,0.989,Yes,Yes,96.1,99.8,91.7,95.9,1
+261,Male,Group D,High School,Standard,Not Completed,8.4,1.0,No,Yes,75.5,83.4,69.8,76.2,1
+262,Male,Group C,Bachelor's,Free/Reduced,Not Completed,5.2,0.954,Yes,Yes,84.5,81.1,89.6,85.1,1
+263,Female,Group E,Some College,Standard,Completed,3.6,0.776,No,Yes,63.4,67.1,65.7,65.4,1
+264,Female,Group C,Some College,Free/Reduced,Not Completed,5.9,1.0,No,Yes,67.8,66.0,68.7,67.5,1
+265,Male,Group C,Associate's,Free/Reduced,Completed,5.9,1.0,No,No,78.9,82.9,70.7,77.5,1
+266,Male,Group C,Some College,Standard,Not Completed,10.5,0.902,Yes,No,73.3,72.5,66.2,70.7,1
+267,Male,Group C,Associate's,Free/Reduced,Completed,7.7,1.0,Yes,Yes,75.5,83.5,74.0,77.7,1
+268,Male,Group D,High School,Standard,Not Completed,7.1,0.856,Yes,Yes,76.6,78.4,82.1,79.0,1
+269,Female,Group B,Bachelor's,Standard,Not Completed,13.1,0.751,No,Yes,66.4,76.6,83.0,75.3,1
+270,Female,Group C,Master's,Standard,Completed,15.8,0.839,Yes,Yes,87.2,97.5,92.0,92.2,1
+271,Male,Group A,Associate's,Standard,Not Completed,8.3,1.0,Yes,Yes,86.4,85.6,95.3,89.1,1
+272,Male,Group C,Master's,Free/Reduced,Not Completed,8.4,0.781,No,No,94.3,94.0,92.8,93.7,1
+273,Male,Group C,High School,Standard,Not Completed,6.2,0.9,No,No,58.4,56.2,46.0,53.5,0
+274,Male,Group D,Some College,Standard,Not Completed,3.8,0.903,No,No,44.4,57.7,56.4,52.8,0
+275,Female,Group E,Associate's,Standard,Not Completed,11.0,0.859,No,Yes,59.6,61.0,64.1,61.6,1
+276,Female,Group C,Associate's,Free/Reduced,Completed,9.8,0.865,No,No,65.7,73.6,58.1,65.8,1
+277,Male,Group D,Some College,Standard,Not Completed,6.5,0.906,No,Yes,69.5,71.9,71.0,70.8,1
+278,Male,Group C,Some College,Standard,Not Completed,7.7,0.855,No,No,59.5,58.6,66.5,61.5,1
+279,Male,Group C,High School,Free/Reduced,Not Completed,12.6,0.786,No,Yes,59.2,56.5,57.2,57.6,0
+280,Male,Group A,Some College,Standard,Not Completed,13.9,0.917,No,No,78.1,75.0,76.9,76.7,1
+281,Male,Group B,High School,Free/Reduced,Not Completed,0.9,0.986,No,Yes,43.8,55.1,51.4,50.1,0
+282,Female,Group B,Bachelor's,Standard,Completed,4.4,0.97,Yes,No,82.0,85.9,84.7,84.2,1
+283,Female,Group C,High School,Free/Reduced,Completed,6.5,0.835,No,No,71.0,76.8,64.1,70.6,1
+284,Female,Group A,High School,Free/Reduced,Not Completed,3.2,0.8,No,Yes,55.0,59.9,50.1,55.0,0
+285,Male,Group A,Associate's,Standard,Not Completed,7.8,0.877,No,No,68.8,73.2,72.7,71.6,1
+286,Female,Group B,Associate's,Standard,Completed,4.6,1.0,No,Yes,79.5,89.2,86.7,85.1,1
+287,Female,Group E,Bachelor's,Free/Reduced,Not Completed,7.9,0.952,Yes,Yes,79.9,84.8,75.8,80.2,1
+288,Male,Group B,Associate's,Standard,Not Completed,4.7,0.956,No,Yes,61.2,69.3,62.9,64.5,1
+289,Female,Group C,Some College,Free/Reduced,Not Completed,4.8,0.971,No,Yes,50.0,56.7,61.1,55.9,0
+290,Male,Group B,Bachelor's,Standard,Not Completed,7.9,0.934,Yes,No,74.9,73.7,78.0,75.5,1
+291,Female,Group C,Associate's,Standard,Completed,11.3,0.91,No,Yes,75.1,83.9,73.9,77.6,1
+292,Female,Group B,High School,Standard,Completed,9.5,0.953,No,Yes,78.5,89.4,84.4,84.1,1
+293,Male,Group B,Associate's,Free/Reduced,Not Completed,6.5,0.856,No,No,61.1,65.6,61.3,62.7,1
+294,Female,Group C,Master's,Standard,Not Completed,1.7,0.787,No,No,67.1,72.8,66.3,68.7,1
+295,Female,Group A,Some College,Free/Reduced,Completed,4.7,0.958,Yes,No,62.2,53.0,69.7,61.6,1
+296,Male,Group A,Some College,Free/Reduced,Completed,4.4,0.999,No,Yes,84.0,92.3,79.6,85.3,1
+297,Male,Group B,High School,Standard,Not Completed,10.2,0.811,Yes,Yes,62.6,65.7,57.6,62.0,1
+298,Female,Group A,High School,Standard,Completed,7.3,0.966,Yes,No,72.0,73.8,69.4,71.7,1
+299,Male,Group A,Some College,Free/Reduced,Not Completed,7.5,1.0,No,No,70.6,66.6,58.4,65.2,1
+300,Female,Group B,Associate's,Standard,Completed,3.9,0.9,No,No,95.6,100.0,89.0,94.9,1
+301,Female,Group D,High School,Free/Reduced,Completed,14.2,0.835,No,Yes,75.4,65.6,66.5,69.2,1
+302,Male,Group C,Master's,Standard,Not Completed,7.5,0.91,No,Yes,77.9,83.1,60.4,73.8,1
+303,Male,Group C,Bachelor's,Standard,Completed,3.8,0.856,No,No,71.5,74.2,71.9,72.5,1
+304,Male,Group B,Associate's,Free/Reduced,Not Completed,3.9,0.851,No,No,54.8,62.0,55.0,57.3,0
+305,Male,Group E,Bachelor's,Standard,Not Completed,8.1,0.935,No,Yes,67.4,69.7,74.3,70.5,1
+306,Male,Group C,High School,Standard,Not Completed,3.7,0.772,Yes,Yes,53.9,53.7,58.3,55.3,0
+307,Female,Group A,Some College,Standard,Not Completed,4.4,0.784,No,Yes,65.4,72.0,68.1,68.5,1
+308,Female,Group C,Associate's,Standard,Not Completed,3.1,0.902,No,Yes,70.1,70.2,71.6,70.6,1
+309,Male,Group A,Bachelor's,Standard,Not Completed,10.1,0.898,Yes,No,68.5,80.9,70.5,73.3,1
+310,Female,Group B,Bachelor's,Free/Reduced,Not Completed,3.7,0.927,No,No,62.5,63.7,61.7,62.6,1
+311,Female,Group C,Some College,Standard,Not Completed,15.5,1.0,No,No,76.4,79.6,70.9,75.6,1
+312,Female,Group E,Master's,Standard,Not Completed,8.7,0.908,No,No,79.3,87.2,83.4,83.3,1
+313,Female,Group C,High School,Free/Reduced,Not Completed,3.1,0.948,No,Yes,65.8,80.1,66.8,70.9,1
+314,Male,Group D,Bachelor's,Standard,Not Completed,9.4,0.822,No,Yes,65.6,71.4,63.3,66.8,1
+315,Male,Group E,Master's,Standard,Not Completed,14.2,0.961,No,No,84.0,85.7,90.1,86.6,1
+316,Male,Group A,High School,Free/Reduced,Not Completed,6.4,0.858,No,No,73.5,77.1,59.1,69.9,1
+317,Female,Group B,Bachelor's,Free/Reduced,Completed,15.1,0.906,Yes,No,97.0,98.2,94.3,96.5,1
+318,Female,Group C,High School,Standard,Completed,8.8,0.891,No,Yes,74.9,82.0,80.6,79.2,1
+319,Female,Group C,Some College,Standard,Completed,4.6,0.983,No,No,92.4,91.8,87.9,90.7,1
+320,Female,Group C,Associate's,Standard,Not Completed,20.4,0.795,No,No,82.1,94.0,79.6,85.2,1
+321,Male,Group E,Associate's,Standard,Not Completed,2.5,0.717,No,Yes,42.0,34.9,33.3,36.7,0
+322,Male,Group D,Master's,Standard,Completed,5.4,0.883,No,No,80.3,89.6,74.1,81.3,1
+323,Male,Group C,Associate's,Standard,Not Completed,6.5,0.937,Yes,No,62.0,62.5,65.5,63.3,1
+324,Female,Group B,Some College,Standard,Not Completed,18.5,0.912,No,No,79.4,87.0,84.8,83.7,1
+325,Male,Group D,Bachelor's,Standard,Not Completed,10.3,0.999,No,No,66.9,68.5,66.2,67.2,1
+326,Male,Group E,Master's,Standard,Completed,9.3,0.935,No,No,74.6,88.6,80.6,81.3,1
+327,Male,Group D,High School,Free/Reduced,Not Completed,4.1,0.855,No,No,54.4,57.3,49.8,53.8,0
+328,Male,Group A,Master's,Standard,Completed,6.2,0.714,No,Yes,67.1,68.0,65.5,66.9,1
+329,Female,Group C,High School,Standard,Completed,4.6,0.881,No,Yes,67.5,65.0,62.3,64.9,1
+330,Female,Group A,Bachelor's,Standard,Not Completed,9.1,0.982,No,Yes,88.2,90.7,80.2,86.4,1
+331,Female,Group B,Some College,Standard,Completed,12.9,0.869,No,Yes,69.3,80.2,75.6,75.0,1
+332,Male,Group A,High School,Free/Reduced,Not Completed,23.0,0.902,No,No,81.4,92.0,86.9,86.8,1
+333,Female,Group C,Some College,Standard,Completed,5.0,0.934,No,Yes,72.9,53.8,65.3,64.0,1
+334,Female,Group D,Associate's,Standard,Not Completed,2.5,0.819,No,No,64.0,57.5,61.2,60.9,1
+335,Female,Group A,Some College,Standard,Completed,5.5,0.95,Yes,No,82.8,83.1,81.4,82.4,1
+336,Female,Group C,High School,Free/Reduced,Not Completed,11.9,1.0,No,No,61.9,69.8,69.1,66.9,1
+337,Male,Group C,Associate's,Standard,Completed,3.8,0.886,Yes,No,72.0,66.8,71.2,70.0,1
+338,Male,Group B,Master's,Standard,Not Completed,6.7,0.81,No,Yes,69.8,78.8,75.1,74.6,1
+339,Female,Group A,Some College,Standard,Not Completed,9.3,0.895,No,No,79.9,75.4,74.0,76.4,1
+340,Female,Group C,High School,Standard,Completed,5.1,0.722,No,No,63.6,60.1,55.2,59.6,0
+341,Female,Group D,Some College,Standard,Completed,7.7,0.927,No,No,68.3,79.0,77.7,75.0,1
+342,Female,Group A,High School,Standard,Not Completed,3.6,0.936,No,No,67.2,57.7,54.6,59.8,0
+343,Female,Group A,Bachelor's,Free/Reduced,Not Completed,13.4,1.0,No,No,85.5,97.4,79.9,87.6,1
+344,Female,Group B,Bachelor's,Free/Reduced,Not Completed,5.8,0.884,Yes,No,72.4,80.5,69.8,74.2,1
+345,Female,Group E,Associate's,Standard,Completed,7.5,0.933,No,No,53.0,60.0,52.7,55.2,0
+346,Male,Group D,Some College,Standard,Completed,1.8,0.831,No,Yes,50.5,52.0,57.5,53.3,0
+347,Male,Group D,Bachelor's,Standard,Completed,3.2,0.871,No,No,66.6,66.3,66.1,66.3,1
+348,Female,Group B,Associate's,Free/Reduced,Not Completed,11.7,0.778,Yes,No,63.0,72.5,65.5,67.0,1
+349,Female,Group C,Bachelor's,Standard,Not Completed,5.0,0.884,Yes,Yes,75.7,79.3,77.1,77.4,1
+350,Male,Group A,Associate's,Free/Reduced,Completed,3.7,0.876,No,Yes,73.6,80.4,69.1,74.4,1
+351,Female,Group C,Bachelor's,Standard,Completed,2.3,0.924,Yes,No,85.9,80.6,75.5,80.7,1
+352,Male,Group E,Associate's,Standard,Not Completed,13.3,0.85,No,No,56.9,68.7,59.3,61.6,1
+353,Male,Group C,Some College,Standard,Completed,10.0,0.907,No,Yes,96.1,85.0,90.7,90.6,1
+354,Female,Group E,Master's,Standard,Not Completed,9.6,0.873,No,No,95.5,87.0,90.8,91.1,1
+355,Female,Group D,Associate's,Free/Reduced,Not Completed,16.3,0.873,Yes,Yes,72.6,74.4,67.1,71.4,1
+356,Male,Group A,Associate's,Free/Reduced,Not Completed,5.4,0.906,Yes,No,65.9,76.5,72.8,71.7,1
+357,Female,Group E,High School,Standard,Not Completed,2.5,0.903,Yes,Yes,57.0,56.9,65.6,59.8,0
+358,Male,Group A,Associate's,Standard,Not Completed,6.9,0.961,No,Yes,73.5,73.5,66.4,71.1,1
+359,Male,Group C,Associate's,Free/Reduced,Not Completed,18.0,0.89,Yes,Yes,93.6,100.0,93.0,95.5,1
+360,Male,Group A,High School,Free/Reduced,Not Completed,7.0,0.872,No,No,75.6,83.3,78.6,79.2,1
+361,Female,Group A,High School,Standard,Completed,12.7,0.886,No,No,84.6,86.2,81.7,84.2,1
+362,Male,Group C,Associate's,Standard,Not Completed,2.6,0.843,No,No,61.9,53.1,67.5,60.8,1
+363,Female,Group B,Bachelor's,Standard,Not Completed,4.1,0.871,No,Yes,65.2,78.4,73.9,72.5,1
+364,Male,Group C,Associate's,Standard,Not Completed,11.3,1.0,No,Yes,79.8,84.0,82.9,82.2,1
+365,Male,Group C,High School,Standard,Not Completed,7.4,0.827,No,No,69.4,71.6,68.9,70.0,1
+366,Female,Group A,Associate's,Standard,Completed,6.3,0.878,Yes,Yes,75.1,77.4,81.9,78.1,1
+367,Male,Group A,High School,Standard,Not Completed,12.6,0.869,No,No,72.0,66.3,65.6,68.0,1
+368,Male,Group C,Some College,Standard,Completed,11.2,0.88,No,No,72.2,68.8,51.3,64.1,1
+369,Female,Group B,High School,Standard,Not Completed,7.6,0.874,Yes,Yes,75.2,79.1,71.4,75.2,1
+370,Female,Group D,High School,Free/Reduced,Not Completed,0.9,0.922,No,No,62.1,52.9,52.5,55.8,0
+371,Female,Group D,High School,Free/Reduced,Not Completed,6.7,0.763,No,No,50.3,46.8,47.3,48.1,0
+372,Female,Group D,Some College,Standard,Not Completed,8.7,0.983,No,No,83.4,94.6,80.5,86.2,1
+373,Female,Group D,High School,Free/Reduced,Not Completed,1.8,0.951,No,Yes,45.5,56.1,51.6,51.1,0
+374,Male,Group C,Some College,Free/Reduced,Completed,8.5,0.801,No,Yes,63.2,65.6,59.2,62.7,1
+375,Female,Group D,Associate's,Standard,Not Completed,13.0,0.718,No,Yes,64.2,63.2,68.5,65.3,1
+376,Female,Group B,Some College,Standard,Not Completed,6.7,0.822,Yes,Yes,58.5,68.7,71.5,66.2,1
+377,Male,Group B,Some College,Free/Reduced,Not Completed,3.4,0.881,No,Yes,51.7,66.3,53.9,57.3,0
+378,Female,Group D,Bachelor's,Free/Reduced,Not Completed,1.0,1.0,No,No,78.0,81.9,67.5,75.8,1
+379,Male,Group C,High School,Free/Reduced,Not Completed,8.6,0.943,No,Yes,57.3,56.4,54.7,56.1,0
+380,Female,Group D,Associate's,Free/Reduced,Not Completed,2.0,0.755,No,Yes,48.0,57.6,52.7,52.8,0
+381,Female,Group D,High School,Standard,Not Completed,9.6,0.845,No,Yes,61.8,75.9,70.4,69.4,1
+382,Male,Group E,High School,Standard,Not Completed,17.5,0.896,Yes,Yes,89.5,91.1,76.6,85.7,1
+383,Male,Group E,Associate's,Standard,Completed,4.2,0.92,Yes,Yes,80.8,83.2,81.5,81.8,1
+384,Male,Group C,Associate's,Standard,Completed,5.8,0.795,No,No,69.0,57.4,56.4,60.9,1
+385,Male,Group B,Bachelor's,Standard,Not Completed,18.1,0.889,Yes,No,93.8,98.2,100.0,97.3,1
+386,Male,Group C,Associate's,Standard,Not Completed,7.2,0.843,No,Yes,74.2,77.6,71.9,74.6,1
+387,Female,Group C,Master's,Standard,Completed,5.0,0.812,No,Yes,65.4,66.2,66.3,66.0,1
+388,Female,Group C,High School,Free/Reduced,Not Completed,11.9,0.921,No,Yes,70.6,72.1,62.5,68.4,1
+389,Male,Group D,High School,Standard,Not Completed,5.2,0.962,No,No,64.3,64.1,56.3,61.6,1
+390,Male,Group D,High School,Standard,Not Completed,4.0,0.967,Yes,No,69.3,70.7,69.2,69.7,1
+391,Male,Group C,High School,Standard,Not Completed,9.5,0.946,No,Yes,67.9,66.8,61.0,65.2,1
+392,Female,Group B,Associate's,Standard,Not Completed,12.5,0.86,No,Yes,79.4,86.1,77.2,80.9,1
+393,Female,Group C,Associate's,Free/Reduced,Completed,4.0,0.957,Yes,Yes,87.7,79.5,86.0,84.4,1
+394,Male,Group A,High School,Free/Reduced,Completed,7.6,0.925,Yes,No,89.8,74.6,74.3,79.6,1
+395,Female,Group E,Master's,Free/Reduced,Completed,6.0,0.911,Yes,Yes,78.6,88.4,76.0,81.0,1
+396,Male,Group B,Bachelor's,Standard,Completed,6.6,0.851,No,Yes,50.7,58.0,63.2,57.3,0
+397,Male,Group B,Some College,Standard,Not Completed,3.4,0.86,No,Yes,63.3,68.7,53.2,61.7,1
+398,Female,Group A,High School,Standard,Not Completed,9.9,0.906,No,No,69.7,75.7,76.3,73.9,1
+399,Male,Group C,High School,Standard,Completed,15.5,1.0,No,No,94.9,98.5,95.6,96.3,1
+400,Male,Group C,High School,Free/Reduced,Completed,3.9,0.924,Yes,Yes,65.7,65.5,62.4,64.5,1
+401,Female,Group B,High School,Free/Reduced,Not Completed,9.9,0.851,Yes,No,56.7,55.9,50.9,54.5,0
+402,Male,Group A,Associate's,Free/Reduced,Completed,11.8,0.833,Yes,Yes,89.5,86.3,80.7,85.5,1
+403,Female,Group C,High School,Standard,Not Completed,7.6,0.861,No,Yes,66.7,61.9,57.9,62.2,1
+404,Male,Group B,Some College,Free/Reduced,Not Completed,9.7,1.0,Yes,Yes,72.0,77.7,79.9,76.5,1
+405,Female,Group D,Master's,Standard,Not Completed,4.2,0.868,Yes,No,68.2,71.5,76.5,72.1,1
+406,Male,Group C,Associate's,Free/Reduced,Not Completed,15.0,0.973,No,No,79.3,80.0,73.6,77.6,1
+407,Female,Group B,Master's,Standard,Not Completed,12.5,0.87,No,Yes,77.3,73.0,80.9,77.1,1
+408,Female,Group B,High School,Standard,Not Completed,13.3,0.921,Yes,Yes,69.7,76.2,72.9,72.9,1
+409,Male,Group E,Some College,Standard,Not Completed,3.0,0.963,No,No,71.7,71.2,66.0,69.6,1
+410,Female,Group C,Associate's,Free/Reduced,Not Completed,9.0,0.854,Yes,No,70.1,65.6,58.7,64.8,1
+411,Female,Group D,High School,Standard,Not Completed,4.5,0.849,No,Yes,67.7,55.5,58.7,60.6,1
+412,Male,Group A,High School,Standard,Completed,15.7,1.0,Yes,No,99.1,92.4,89.9,93.8,1
+413,Male,Group C,Associate's,Free/Reduced,Not Completed,4.0,0.979,Yes,Yes,62.0,77.9,70.3,70.1,1
+414,Male,Group A,Associate's,Standard,Not Completed,7.8,0.963,No,No,63.6,63.2,57.7,61.5,1
+415,Male,Group C,Some College,Standard,Not Completed,1.4,0.963,Yes,Yes,87.6,93.1,89.7,90.1,1
+416,Female,Group E,Some College,Standard,Not Completed,7.7,0.937,No,Yes,68.6,68.8,64.6,67.3,1
+417,Female,Group C,Some College,Standard,Completed,3.0,1.0,No,Yes,81.3,67.5,75.6,74.8,1
+418,Female,Group A,High School,Free/Reduced,Not Completed,9.2,0.904,No,No,88.9,89.6,77.2,85.2,1
+419,Male,Group A,Some College,Free/Reduced,Completed,6.1,0.946,No,Yes,75.2,82.9,81.9,80.0,1
+420,Male,Group C,High School,Standard,Not Completed,5.3,0.784,Yes,No,59.4,55.7,50.6,55.2,0
+421,Male,Group B,High School,Free/Reduced,Not Completed,15.9,0.834,Yes,Yes,83.9,74.0,69.1,75.7,1
+422,Male,Group A,Master's,Standard,Not Completed,21.2,0.804,No,Yes,78.2,77.4,76.4,77.3,1
+423,Female,Group D,Associate's,Standard,Not Completed,2.4,1.0,No,Yes,76.9,87.3,75.0,79.7,1
+424,Female,Group C,Bachelor's,Standard,Not Completed,5.4,0.696,No,No,57.6,59.8,57.9,58.4,0
+425,Female,Group B,Some College,Standard,Not Completed,10.8,0.868,No,Yes,66.4,65.4,56.2,62.7,1
+426,Male,Group E,Some College,Standard,Not Completed,8.4,0.661,Yes,No,47.3,49.6,44.9,47.3,0
+427,Female,Group A,High School,Free/Reduced,Not Completed,10.5,0.833,No,No,55.3,52.5,57.3,55.0,0
+428,Male,Group E,High School,Free/Reduced,Completed,6.4,0.861,No,No,72.1,80.2,71.6,74.6,1
+429,Female,Group B,High School,Standard,Not Completed,12.8,1.0,No,No,73.9,89.5,78.7,80.7,1
+430,Female,Group E,Bachelor's,Standard,Not Completed,7.6,0.932,No,No,80.7,76.5,74.1,77.1,1
+431,Female,Group C,Associate's,Free/Reduced,Not Completed,8.7,0.833,Yes,No,62.6,65.6,60.5,62.9,1
+432,Male,Group D,Associate's,Free/Reduced,Not Completed,3.0,0.985,No,Yes,58.1,55.7,50.2,54.7,0
+433,Male,Group E,Some College,Free/Reduced,Not Completed,7.1,0.901,No,No,65.3,68.1,72.7,68.7,1
+434,Female,Group B,Master's,Standard,Completed,10.9,0.903,Yes,Yes,94.0,100.0,91.7,95.2,1
+435,Female,Group E,High School,Free/Reduced,Completed,8.1,0.804,Yes,No,78.4,83.3,67.7,76.5,1
+436,Male,Group C,Some College,Standard,Not Completed,7.3,0.821,Yes,Yes,62.5,67.6,64.9,65.0,1
+437,Female,Group C,Some College,Standard,Not Completed,9.0,0.834,Yes,Yes,62.5,78.8,55.6,65.6,1
+438,Male,Group B,Bachelor's,Standard,Not Completed,7.5,0.904,Yes,Yes,83.5,91.7,84.7,86.6,1
+439,Male,Group C,Master's,Standard,Completed,6.5,0.906,No,Yes,93.3,89.6,79.1,87.3,1
+440,Female,Group B,High School,Standard,Not Completed,11.1,1.0,No,Yes,87.4,85.4,80.3,84.4,1
+441,Female,Group C,Bachelor's,Standard,Not Completed,6.3,0.931,No,Yes,68.5,80.2,63.7,70.8,1
+442,Male,Group C,Bachelor's,Standard,Not Completed,2.9,0.683,Yes,No,57.3,61.0,62.7,60.3,1
+443,Female,Group D,High School,Free/Reduced,Completed,15.5,0.921,No,Yes,85.6,98.2,89.7,91.2,1
+444,Female,Group D,Some College,Standard,Not Completed,4.5,0.784,No,No,53.7,56.9,62.6,57.7,0
+445,Male,Group C,Some College,Standard,Not Completed,2.3,0.823,No,No,54.5,61.9,43.5,53.3,0
+446,Male,Group B,Master's,Standard,Completed,9.6,0.835,Yes,No,96.3,98.8,100.0,98.4,1
+447,Male,Group B,High School,Free/Reduced,Not Completed,16.6,0.847,No,Yes,60.4,67.8,63.8,64.0,1
+448,Male,Group B,Bachelor's,Standard,Completed,9.8,0.79,No,Yes,86.2,82.5,77.4,82.0,1
+449,Female,Group A,Some College,Standard,Not Completed,14.3,0.916,No,Yes,77.8,76.4,79.9,78.0,1
+450,Female,Group B,Bachelor's,Standard,Completed,3.7,0.787,Yes,Yes,60.0,58.5,55.6,58.0,0
+451,Male,Group B,Some College,Free/Reduced,Completed,2.9,0.929,No,No,66.4,83.9,77.6,76.0,1
+452,Male,Group E,Associate's,Free/Reduced,Not Completed,5.4,1.0,No,Yes,34.8,37.4,41.0,37.7,0
+453,Female,Group C,Bachelor's,Standard,Completed,12.3,0.794,No,Yes,56.0,59.0,59.1,58.0,0
+454,Male,Group B,Bachelor's,Standard,Not Completed,9.3,0.877,No,Yes,75.5,76.3,81.7,77.8,1
+455,Female,Group C,Bachelor's,Free/Reduced,Completed,9.7,0.698,No,Yes,73.1,66.8,76.6,72.2,1
+456,Female,Group A,High School,Standard,Not Completed,7.3,0.876,No,Yes,46.2,67.5,56.8,56.8,0
+457,Female,Group C,Associate's,Standard,Completed,5.5,0.951,No,Yes,85.9,86.2,63.0,78.4,1
+458,Female,Group C,High School,Standard,Not Completed,7.5,0.958,Yes,No,53.8,57.9,51.0,54.2,0
+459,Female,Group C,Some College,Standard,Completed,6.1,0.906,No,No,85.3,77.3,77.6,80.1,1
+460,Female,Group C,Associate's,Standard,Not Completed,5.2,0.971,No,No,68.6,81.7,70.9,73.7,1
+461,Female,Group E,Some College,Standard,Completed,8.5,1.0,Yes,No,88.7,80.2,86.9,85.3,1
+462,Male,Group E,Associate's,Free/Reduced,Completed,5.8,1.0,Yes,Yes,81.6,93.9,77.8,84.4,1
+463,Male,Group C,Master's,Free/Reduced,Not Completed,7.9,0.858,No,Yes,77.8,72.3,76.9,75.7,1
+464,Male,Group C,High School,Standard,Completed,1.6,0.784,No,No,55.2,57.1,49.5,53.9,0
+465,Male,Group C,Associate's,Free/Reduced,Completed,7.5,0.868,Yes,Yes,62.7,60.2,65.5,62.8,1
+466,Female,Group B,Some College,Standard,Not Completed,5.7,0.824,Yes,Yes,88.9,80.1,90.2,86.4,1
+467,Female,Group C,High School,Standard,Not Completed,14.7,0.936,No,No,82.6,97.5,80.3,86.8,1
+468,Male,Group A,High School,Standard,Not Completed,2.3,0.806,No,No,43.3,48.0,36.5,42.6,0
+469,Female,Group C,Master's,Free/Reduced,Not Completed,7.2,0.894,No,Yes,58.8,76.3,69.3,68.1,1
+470,Male,Group C,Bachelor's,Free/Reduced,Not Completed,11.0,0.967,No,Yes,78.9,71.3,68.5,72.9,1
+471,Female,Group B,Master's,Free/Reduced,Not Completed,6.3,0.892,No,Yes,88.1,81.2,74.9,81.4,1
+472,Male,Group E,Master's,Free/Reduced,Not Completed,5.6,0.824,No,No,41.2,52.1,52.0,48.4,0
+473,Female,Group E,High School,Standard,Not Completed,10.9,0.994,No,Yes,70.4,74.2,73.5,72.7,1
+474,Male,Group D,Some College,Free/Reduced,Not Completed,9.1,0.75,No,No,47.1,38.9,51.6,45.9,0
+475,Male,Group C,Associate's,Free/Reduced,Completed,9.5,0.874,No,Yes,71.2,78.4,70.8,73.5,1
+476,Male,Group E,Some College,Free/Reduced,Completed,5.2,0.897,No,Yes,64.1,65.9,59.2,63.1,1
+477,Female,Group A,Some College,Standard,Not Completed,4.8,0.901,No,No,63.0,62.2,64.2,63.1,1
+478,Male,Group D,Some College,Standard,Completed,7.9,0.914,No,No,68.7,63.5,69.0,67.1,1
+479,Male,Group A,Associate's,Standard,Completed,11.5,0.949,Yes,No,82.9,88.4,81.7,84.3,1
+480,Male,Group D,Associate's,Standard,Completed,2.7,0.897,No,No,75.0,89.0,73.7,79.2,1
+481,Male,Group B,High School,Standard,Not Completed,6.4,0.871,Yes,Yes,64.3,67.1,64.5,65.3,1
+482,Male,Group E,Some College,Standard,Not Completed,5.0,0.867,No,No,66.6,69.8,67.4,67.9,1
+483,Female,Group E,Associate's,Standard,Completed,6.9,0.851,No,Yes,79.0,78.7,63.1,73.6,1
+484,Male,Group A,Associate's,Standard,Completed,10.4,0.963,No,No,77.1,74.9,74.6,75.5,1
+485,Male,Group C,High School,Standard,Completed,3.9,0.848,Yes,Yes,61.3,67.1,65.9,64.8,1
+486,Male,Group E,Bachelor's,Standard,Completed,9.7,0.968,No,Yes,89.4,87.9,77.9,85.1,1
+487,Female,Group C,High School,Free/Reduced,Not Completed,5.4,0.902,No,Yes,37.1,47.6,43.5,42.7,0
+488,Female,Group E,Some College,Standard,Not Completed,12.5,0.858,No,Yes,68.2,83.5,63.6,71.8,1
+489,Male,Group C,Bachelor's,Standard,Not Completed,4.1,0.949,Yes,No,79.5,81.6,81.1,80.7,1
+490,Male,Group C,Associate's,Free/Reduced,Not Completed,11.4,0.842,Yes,Yes,69.3,70.6,65.4,68.4,1
+491,Female,Group B,Some College,Standard,Completed,2.9,0.951,No,No,67.0,69.9,67.1,68.0,1
+492,Male,Group B,Associate's,Standard,Not Completed,7.6,0.917,No,No,51.1,49.2,52.0,50.8,0
+493,Female,Group D,Associate's,Standard,Not Completed,9.8,0.852,No,No,58.7,63.5,76.3,66.2,1
+494,Female,Group C,Bachelor's,Standard,Completed,4.2,0.942,No,Yes,83.1,93.3,91.4,89.3,1
+495,Female,Group C,Bachelor's,Free/Reduced,Not Completed,1.2,0.944,No,Yes,66.6,68.2,52.4,62.4,1
+496,Female,Group C,Associate's,Standard,Completed,5.1,0.993,Yes,Yes,71.6,85.7,85.0,80.8,1
+497,Male,Group C,Some College,Standard,Completed,6.9,0.977,Yes,No,78.4,85.2,81.1,81.6,1
+498,Female,Group E,High School,Standard,Not Completed,5.6,0.939,No,No,58.5,69.8,66.8,65.0,1
+499,Male,Group E,Some College,Standard,Not Completed,4.8,0.81,No,Yes,61.7,65.7,65.9,64.4,1
+500,Male,Group C,Some College,Free/Reduced,Not Completed,11.0,1.0,No,Yes,74.6,68.0,60.3,67.6,1
+501,Male,Group D,Associate's,Standard,Not Completed,13.2,0.788,No,No,74.4,76.6,72.9,74.6,1
+502,Male,Group D,Associate's,Standard,Not Completed,12.8,0.976,No,Yes,100.0,93.7,91.6,95.1,1
+503,Female,Group C,Some College,Standard,Not Completed,8.9,0.935,No,No,85.1,75.0,84.8,81.6,1
+504,Male,Group E,High School,Standard,Completed,9.6,0.806,No,No,82.4,90.9,89.7,87.7,1
+505,Male,Group B,Some College,Standard,Not Completed,3.7,0.89,No,No,51.0,55.9,47.8,51.6,0
+506,Female,Group A,Some College,Free/Reduced,Completed,6.5,0.894,Yes,No,100.0,90.1,92.3,94.1,1
+507,Male,Group E,Bachelor's,Free/Reduced,Not Completed,7.3,1.0,No,No,73.5,74.4,69.4,72.4,1
+508,Male,Group C,High School,Free/Reduced,Not Completed,8.1,0.843,No,Yes,63.9,58.2,52.2,58.1,0
+509,Male,Group D,Associate's,Free/Reduced,Completed,8.0,0.879,No,Yes,77.9,80.0,76.8,78.2,1
+510,Male,Group E,Master's,Free/Reduced,Not Completed,6.9,0.713,No,Yes,57.0,48.6,59.8,55.1,0
+511,Male,Group A,High School,Standard,Not Completed,8.8,1.0,Yes,Yes,70.7,87.8,71.1,76.5,1
+512,Female,Group E,Some College,Free/Reduced,Completed,7.8,0.814,Yes,Yes,78.6,73.0,83.7,78.4,1
+513,Male,Group C,High School,Free/Reduced,Completed,7.8,0.926,No,No,63.9,63.0,55.0,60.6,1
+514,Male,Group C,Associate's,Free/Reduced,Completed,4.4,0.892,Yes,Yes,81.6,94.8,81.1,85.8,1
+515,Female,Group C,Associate's,Standard,Not Completed,3.2,0.892,No,Yes,49.9,53.4,46.9,50.1,0
+516,Female,Group E,Some College,Standard,Not Completed,8.1,0.965,Yes,No,100.0,88.9,98.8,95.9,1
+517,Female,Group A,Associate's,Free/Reduced,Completed,5.2,1.0,No,No,82.6,88.8,79.8,83.7,1
+518,Male,Group C,Bachelor's,Free/Reduced,Completed,4.5,0.92,No,Yes,82.2,77.3,65.0,74.8,1
+519,Male,Group D,High School,Free/Reduced,Not Completed,10.0,0.952,No,Yes,55.2,62.8,65.1,61.0,1
+520,Female,Group D,High School,Standard,Completed,6.6,0.926,Yes,No,70.0,72.0,74.9,72.3,1
+521,Male,Group D,Bachelor's,Standard,Not Completed,14.3,0.981,No,Yes,77.7,85.2,87.7,83.5,1
+522,Female,Group A,Associate's,Standard,Not Completed,9.4,0.863,Yes,Yes,68.6,75.6,72.3,72.2,1
+523,Male,Group B,Bachelor's,Free/Reduced,Not Completed,4.2,0.986,No,No,75.5,72.2,79.9,75.9,1
+524,Male,Group B,Associate's,Standard,Not Completed,10.1,0.989,Yes,Yes,100.0,100.0,95.0,98.3,1
+525,Male,Group D,Bachelor's,Standard,Not Completed,8.6,0.987,No,Yes,82.3,91.9,88.3,87.5,1
+526,Female,Group B,Some College,Free/Reduced,Not Completed,4.1,0.847,Yes,Yes,51.0,51.9,59.1,54.0,0
+527,Female,Group B,Bachelor's,Standard,Not Completed,4.8,0.887,No,Yes,52.9,63.1,68.5,61.5,1
+528,Female,Group E,Master's,Free/Reduced,Completed,9.8,0.919,No,No,88.3,77.0,83.9,83.1,1
+529,Female,Group A,Associate's,Standard,Completed,1.9,0.79,Yes,No,57.7,64.2,60.7,60.9,1
+530,Male,Group E,High School,Free/Reduced,Not Completed,1.4,1.0,Yes,No,48.8,62.4,47.2,52.8,0
+531,Male,Group D,Some College,Standard,Completed,7.6,0.899,No,Yes,92.5,99.0,93.3,94.9,1
+532,Male,Group D,High School,Free/Reduced,Not Completed,7.2,0.923,No,Yes,65.2,59.9,63.7,62.9,1
+533,Male,Group B,High School,Free/Reduced,Not Completed,7.9,0.854,No,Yes,50.2,56.3,57.2,54.6,0
+534,Male,Group A,Some College,Standard,Completed,7.2,0.794,No,No,74.8,83.2,77.1,78.4,1
+535,Male,Group D,Associate's,Standard,Not Completed,8.8,0.852,No,No,53.3,63.7,60.9,59.3,0
+536,Male,Group D,Associate's,Standard,Not Completed,13.3,0.918,No,Yes,73.4,74.0,60.2,69.2,1
+537,Male,Group D,Some College,Free/Reduced,Not Completed,6.9,0.954,No,Yes,54.8,59.4,58.3,57.5,0
+538,Female,Group A,Associate's,Free/Reduced,Completed,2.5,0.913,Yes,Yes,81.7,87.9,81.0,83.5,1
+539,Female,Group D,High School,Standard,Not Completed,1.7,0.928,Yes,Yes,65.1,70.0,62.1,65.7,1
+540,Female,Group D,High School,Standard,Completed,5.5,0.873,No,Yes,53.5,51.1,44.4,49.7,0
+541,Male,Group D,High School,Standard,Not Completed,5.6,0.94,No,No,82.3,70.1,72.0,74.8,1
+542,Male,Group D,Associate's,Free/Reduced,Completed,2.8,1.0,No,No,75.0,69.4,71.0,71.8,1
+543,Female,Group D,High School,Free/Reduced,Completed,1.2,0.956,No,Yes,46.0,55.7,44.5,48.7,0
+544,Male,Group C,Some College,Standard,Completed,5.3,0.965,No,Yes,65.0,76.4,72.4,71.3,1
+545,Male,Group A,Some College,Standard,Not Completed,16.6,0.924,No,No,92.2,87.8,76.6,85.5,1
+546,Female,Group C,Bachelor's,Standard,Not Completed,8.6,0.78,No,Yes,77.1,69.4,65.0,70.5,1
+547,Female,Group A,High School,Standard,Completed,8.1,0.816,No,Yes,78.0,89.3,83.7,83.7,1
+548,Male,Group C,Associate's,Standard,Not Completed,6.2,0.936,Yes,No,73.0,78.7,61.3,71.0,1
+549,Male,Group C,Associate's,Standard,Not Completed,5.5,0.899,Yes,Yes,70.8,80.8,77.7,76.4,1
+550,Male,Group A,Bachelor's,Standard,Not Completed,9.1,0.935,No,Yes,78.9,80.6,75.2,78.2,1
+551,Male,Group B,Master's,Standard,Completed,3.1,1.0,No,No,67.6,70.4,67.9,68.6,1
+552,Male,Group A,High School,Standard,Not Completed,19.0,0.958,Yes,Yes,100.0,94.8,100.0,98.3,1
+553,Male,Group D,High School,Standard,Completed,3.2,1.0,No,Yes,79.3,76.6,80.6,78.8,1
+554,Male,Group E,Bachelor's,Standard,Not Completed,9.5,0.908,Yes,No,92.1,85.3,77.3,84.9,1
+555,Male,Group A,Some College,Free/Reduced,Not Completed,3.4,0.835,Yes,Yes,60.6,72.1,65.7,66.1,1
+556,Female,Group E,Associate's,Free/Reduced,Completed,7.3,0.895,Yes,No,73.3,79.1,70.6,74.3,1
+557,Female,Group C,Associate's,Standard,Not Completed,10.1,0.836,No,No,56.4,65.9,56.3,59.5,0
+558,Female,Group B,Associate's,Standard,Not Completed,2.2,1.0,No,No,73.4,64.0,62.8,66.7,1
+559,Male,Group A,Master's,Free/Reduced,Completed,3.7,0.963,Yes,No,95.9,85.0,95.4,92.1,1
+560,Male,Group C,Master's,Free/Reduced,Completed,3.8,0.942,No,No,100.0,92.0,84.8,92.3,1
+561,Male,Group D,Bachelor's,Standard,Not Completed,5.8,0.999,No,Yes,85.2,89.2,81.3,85.2,1
+562,Female,Group D,Some College,Standard,Completed,7.9,0.738,No,No,68.9,66.9,59.7,65.2,1
+563,Female,Group A,Bachelor's,Standard,Completed,16.8,0.947,No,Yes,94.0,100.0,91.6,95.2,1
+564,Female,Group A,High School,Standard,Completed,4.8,0.795,Yes,Yes,69.2,63.1,64.9,65.7,1
+565,Female,Group C,High School,Standard,Not Completed,16.2,0.899,No,No,65.9,63.8,68.8,66.2,1
+566,Male,Group B,Bachelor's,Standard,Not Completed,8.4,0.875,Yes,Yes,78.2,76.3,63.7,72.7,1
+567,Female,Group B,Some College,Free/Reduced,Completed,3.1,0.953,Yes,Yes,62.9,60.5,61.1,61.5,1
+568,Female,Group B,High School,Standard,Completed,6.2,0.918,No,Yes,67.9,74.3,64.9,69.0,1
+569,Male,Group D,High School,Standard,Not Completed,2.5,1.0,No,No,77.7,77.2,83.4,79.4,1
+570,Female,Group E,Bachelor's,Standard,Not Completed,5.5,0.852,Yes,Yes,77.0,73.1,92.6,80.9,1
+571,Female,Group C,Associate's,Standard,Not Completed,5.3,0.957,No,Yes,61.0,69.4,60.1,63.5,1
+572,Male,Group E,Associate's,Standard,Not Completed,7.4,0.913,Yes,No,80.2,68.0,65.2,71.1,1
+573,Female,Group B,High School,Standard,Not Completed,9.6,0.769,Yes,No,58.8,54.6,57.5,57.0,0
+574,Male,Group C,Bachelor's,Free/Reduced,Not Completed,6.5,0.827,No,Yes,64.3,56.4,60.5,60.4,1
+575,Male,Group B,Bachelor's,Standard,Completed,3.4,0.888,Yes,No,79.2,89.6,95.4,88.1,1
+576,Male,Group C,Some College,Free/Reduced,Not Completed,14.3,0.989,No,Yes,85.3,86.1,90.5,87.3,1
+577,Female,Group E,Some College,Free/Reduced,Completed,17.4,0.937,No,No,100.0,100.0,100.0,100.0,1
+578,Male,Group C,High School,Standard,Not Completed,6.1,0.807,Yes,No,69.9,78.4,67.9,72.1,1
+579,Female,Group B,Master's,Standard,Not Completed,8.2,0.889,Yes,Yes,93.0,91.8,85.0,89.9,1
+580,Female,Group C,Associate's,Standard,Not Completed,5.9,1.0,No,No,67.6,82.5,79.4,76.5,1
+581,Female,Group A,Master's,Free/Reduced,Not Completed,7.5,0.909,No,No,74.6,67.8,70.9,71.1,1
+582,Male,Group E,Some College,Free/Reduced,Completed,7.7,0.874,No,No,63.5,62.6,51.1,59.1,0
+583,Female,Group C,Bachelor's,Free/Reduced,Completed,2.8,0.939,No,No,84.7,86.9,86.3,86.0,1
+584,Female,Group C,Bachelor's,Standard,Not Completed,5.6,0.961,No,Yes,82.9,87.5,81.6,84.0,1
+585,Male,Group C,Associate's,Free/Reduced,Not Completed,11.9,0.864,No,Yes,70.1,67.0,65.8,67.6,1
+586,Female,Group C,Master's,Standard,Not Completed,11.4,0.94,No,No,89.8,89.9,81.4,87.0,1
+587,Female,Group A,Some College,Standard,Completed,5.5,0.874,Yes,Yes,81.4,82.3,80.0,81.2,1
+588,Female,Group D,High School,Standard,Completed,7.8,0.958,No,No,83.4,78.6,82.4,81.5,1
+589,Female,Group B,Associate's,Standard,Not Completed,5.8,0.914,No,Yes,55.7,53.1,46.9,51.9,0
+590,Female,Group D,Bachelor's,Free/Reduced,Completed,9.8,0.939,Yes,No,82.0,89.6,90.4,87.3,1
+591,Female,Group D,Associate's,Standard,Completed,2.1,0.839,Yes,No,72.8,65.4,63.0,67.1,1
+592,Male,Group D,High School,Standard,Not Completed,9.1,0.834,Yes,Yes,74.0,76.7,65.5,72.1,1
+593,Female,Group C,Associate's,Standard,Not Completed,14.8,0.976,No,No,84.5,98.5,100.0,94.3,1
+594,Female,Group C,Some College,Free/Reduced,Completed,4.3,0.894,No,No,73.6,73.1,71.0,72.6,1
+595,Male,Group A,Some College,Free/Reduced,Completed,13.7,0.923,No,Yes,66.7,70.2,66.1,67.7,1
+596,Female,Group D,Associate's,Standard,Not Completed,8.0,0.875,No,Yes,67.8,65.0,67.3,66.7,1
+597,Male,Group B,Bachelor's,Standard,Not Completed,6.5,0.972,No,Yes,85.4,87.9,92.9,88.7,1
+598,Female,Group C,High School,Standard,Not Completed,5.5,0.851,No,Yes,61.4,54.0,45.8,53.7,0
+599,Female,Group B,Some College,Free/Reduced,Not Completed,14.0,0.889,No,Yes,56.0,65.3,53.6,58.3,0
+600,Female,Group A,Some College,Standard,Completed,5.8,0.963,No,No,84.4,85.0,74.7,81.4,1
+601,Female,Group C,High School,Standard,Not Completed,16.0,0.994,No,No,91.3,84.8,80.7,85.6,1
+602,Female,Group A,Bachelor's,Standard,Completed,15.0,0.858,No,Yes,100.0,100.0,100.0,100.0,1
+603,Female,Group D,Master's,Standard,Completed,5.0,1.0,No,Yes,91.7,86.8,81.0,86.5,1
+604,Female,Group B,Some College,Free/Reduced,Not Completed,6.1,0.925,No,Yes,68.2,63.3,70.8,67.4,1
+605,Female,Group A,Bachelor's,Standard,Not Completed,1.7,0.817,No,Yes,50.1,60.8,52.7,54.5,0
+606,Female,Group C,Bachelor's,Standard,Not Completed,6.6,0.93,No,No,89.0,86.2,86.8,87.3,1
+607,Female,Group A,Bachelor's,Standard,Completed,7.1,0.869,No,No,81.3,78.9,72.4,77.5,1
+608,Female,Group B,High School,Standard,Not Completed,12.7,0.935,No,No,69.0,70.1,68.7,69.3,1
+609,Female,Group D,Master's,Free/Reduced,Completed,15.5,0.897,No,Yes,77.7,80.7,80.5,79.6,1
+610,Male,Group A,Some College,Standard,Completed,10.3,0.906,Yes,Yes,86.1,85.7,80.1,84.0,1
+611,Female,Group D,Some College,Free/Reduced,Not Completed,12.1,0.827,No,Yes,52.7,52.5,58.5,54.6,0
+612,Male,Group A,High School,Free/Reduced,Completed,6.1,0.979,No,Yes,89.1,81.9,72.4,81.1,1
+613,Male,Group B,Some College,Standard,Completed,3.0,0.808,Yes,Yes,54.0,58.8,48.0,53.6,0
+614,Female,Group D,High School,Standard,Not Completed,8.0,0.811,No,Yes,52.8,58.1,60.2,57.0,0
+615,Male,Group B,High School,Standard,Not Completed,12.5,0.929,No,Yes,75.3,89.5,83.6,82.8,1
+616,Male,Group A,Some College,Free/Reduced,Completed,0.8,1.0,No,Yes,68.9,72.4,69.2,70.2,1
+617,Female,Group B,Bachelor's,Standard,Completed,7.3,0.872,Yes,Yes,88.6,70.8,78.1,79.2,1
+618,Female,Group B,Bachelor's,Standard,Not Completed,1.9,0.956,No,No,69.7,74.7,76.9,73.8,1
+619,Male,Group D,Some College,Standard,Not Completed,4.1,0.986,No,No,60.8,63.7,64.5,63.0,1
+620,Male,Group B,Bachelor's,Free/Reduced,Not Completed,7.5,0.965,No,Yes,69.8,76.7,66.7,71.1,1
+621,Female,Group D,Bachelor's,Standard,Completed,15.6,0.875,No,Yes,96.0,94.2,88.6,92.9,1
+622,Female,Group E,Bachelor's,Standard,Not Completed,6.9,0.813,No,No,67.8,67.4,66.0,67.1,1
+623,Female,Group C,High School,Standard,Not Completed,9.9,0.723,Yes,No,51.2,53.4,65.5,56.7,0
+624,Female,Group E,Associate's,Standard,Completed,7.9,0.879,No,Yes,84.1,83.8,86.6,84.8,1
+625,Male,Group C,Master's,Free/Reduced,Not Completed,4.3,0.994,No,Yes,72.4,73.1,75.3,73.6,1
+626,Female,Group E,Associate's,Standard,Not Completed,8.9,0.81,No,No,69.2,68.4,72.9,70.2,1
+627,Female,Group A,Some College,Free/Reduced,Not Completed,2.9,0.956,No,Yes,70.7,71.7,65.8,69.4,1
+628,Male,Group D,Associate's,Free/Reduced,Completed,6.8,0.824,Yes,Yes,86.6,86.0,89.4,87.3,1
+629,Female,Group C,Associate's,Standard,Not Completed,13.8,0.908,No,Yes,85.8,97.7,88.8,90.8,1
+630,Female,Group C,Associate's,Free/Reduced,Completed,7.6,0.957,No,No,71.6,83.1,79.9,78.2,1
+631,Male,Group C,High School,Standard,Completed,7.9,0.847,No,No,72.6,83.5,65.1,73.7,1
+632,Male,Group D,Some College,Standard,Not Completed,5.5,0.914,No,No,67.9,74.5,70.6,71.0,1
+633,Female,Group A,Bachelor's,Free/Reduced,Not Completed,2.3,0.867,No,No,43.6,56.5,47.5,49.2,0
+634,Male,Group B,Bachelor's,Standard,Not Completed,5.9,0.956,Yes,No,89.6,81.8,73.9,81.8,1
+635,Female,Group D,High School,Standard,Not Completed,11.0,0.919,No,Yes,76.8,75.2,66.7,72.9,1
+636,Female,Group D,Master's,Standard,Completed,8.5,0.905,Yes,No,100.0,93.4,86.2,93.2,1
+637,Male,Group E,Some College,Free/Reduced,Completed,3.0,1.0,Yes,Yes,76.3,75.3,67.0,72.9,1
+638,Female,Group D,Associate's,Standard,Not Completed,1.8,0.953,Yes,Yes,54.0,66.8,63.7,61.5,1
+639,Female,Group E,Bachelor's,Standard,Not Completed,4.2,0.845,No,No,78.1,76.0,67.5,73.9,1
+640,Female,Group D,Bachelor's,Standard,Not Completed,5.9,0.893,No,Yes,55.4,63.9,60.4,59.9,0
+641,Female,Group B,Master's,Free/Reduced,Completed,6.2,0.894,Yes,Yes,89.0,94.1,100.0,94.4,1
+642,Female,Group A,Some College,Free/Reduced,Not Completed,6.3,0.906,Yes,Yes,66.5,68.0,64.1,66.2,1
+643,Female,Group D,Bachelor's,Standard,Not Completed,6.8,1.0,Yes,No,91.7,89.0,72.6,84.4,1
+644,Female,Group C,High School,Free/Reduced,Not Completed,8.7,0.93,No,Yes,73.8,73.9,66.3,71.3,1
+645,Female,Group A,Bachelor's,Standard,Not Completed,5.3,0.737,No,No,69.4,59.2,69.8,66.1,1
+646,Male,Group B,Bachelor's,Standard,Not Completed,3.6,0.857,Yes,Yes,57.2,55.4,57.4,56.7,0
+647,Male,Group E,Associate's,Free/Reduced,Not Completed,9.3,0.745,No,No,63.8,72.9,72.1,69.6,1
+648,Male,Group C,Some College,Free/Reduced,Not Completed,11.2,0.874,No,Yes,71.1,71.1,70.7,71.0,1
+649,Male,Group C,Bachelor's,Free/Reduced,Completed,4.8,0.741,No,No,56.5,57.0,46.9,53.5,0
+650,Female,Group C,High School,Free/Reduced,Not Completed,19.1,0.83,No,No,70.1,66.3,65.2,67.2,1
+651,Female,Group B,High School,Standard,Not Completed,15.2,0.778,No,Yes,68.9,65.5,65.3,66.6,1
+652,Male,Group B,Bachelor's,Free/Reduced,Not Completed,3.2,0.931,No,Yes,57.6,59.4,59.0,58.7,0
+653,Male,Group B,Some College,Standard,Not Completed,1.9,0.9,No,No,61.6,70.7,82.3,71.5,1
+654,Male,Group A,Bachelor's,Standard,Not Completed,6.1,0.924,No,No,84.9,86.4,87.8,86.4,1
+655,Female,Group D,Some College,Standard,Not Completed,8.0,0.892,No,Yes,71.0,74.7,72.7,72.8,1
+656,Female,Group C,High School,Standard,Not Completed,18.9,0.788,No,Yes,71.9,75.1,73.5,73.5,1
+657,Female,Group D,Bachelor's,Standard,Not Completed,18.6,0.941,Yes,No,89.3,96.2,91.2,92.2,1
+658,Female,Group E,Associate's,Standard,Not Completed,9.9,1.0,No,Yes,78.3,89.5,76.6,81.5,1
+659,Male,Group B,High School,Standard,Not Completed,5.3,0.933,No,Yes,80.2,77.1,77.1,78.1,1
+660,Male,Group D,Bachelor's,Standard,Completed,13.0,0.866,Yes,No,83.0,82.1,85.6,83.6,1
+661,Female,Group C,Associate's,Standard,Not Completed,7.3,0.786,Yes,Yes,61.6,73.0,51.7,62.1,1
+662,Male,Group E,Associate's,Standard,Not Completed,2.7,0.827,No,Yes,68.2,72.0,77.2,72.5,1
+663,Male,Group B,Some College,Standard,Not Completed,2.8,0.936,No,Yes,56.6,50.6,53.5,53.6,0
+664,Female,Group D,Bachelor's,Free/Reduced,Not Completed,5.4,0.986,No,No,68.1,68.5,55.2,63.9,1
+665,Female,Group C,Bachelor's,Free/Reduced,Not Completed,11.8,0.921,No,Yes,75.1,83.6,79.4,79.4,1
+666,Female,Group B,Bachelor's,Free/Reduced,Not Completed,3.4,0.964,Yes,No,58.7,59.1,57.2,58.3,0
+667,Female,Group A,High School,Standard,Completed,5.4,0.957,Yes,Yes,90.1,82.8,80.9,84.6,1
+668,Female,Group D,Bachelor's,Free/Reduced,Not Completed,15.1,0.941,Yes,No,94.9,88.7,97.3,93.6,1
+669,Female,Group D,Associate's,Standard,Not Completed,8.5,0.847,No,Yes,64.5,73.3,62.0,66.6,1
+670,Female,Group B,Associate's,Standard,Completed,9.1,0.914,No,Yes,94.6,86.2,97.9,92.9,1
+671,Female,Group C,Some College,Standard,Completed,12.0,0.832,Yes,No,99.8,94.5,87.4,93.9,1
+672,Male,Group C,Bachelor's,Free/Reduced,Not Completed,5.4,0.901,No,Yes,58.9,62.3,55.5,58.9,0
+673,Female,Group D,Bachelor's,Standard,Not Completed,15.7,0.926,No,Yes,76.1,76.2,79.0,77.1,1
+674,Male,Group B,High School,Standard,Not Completed,10.1,1.0,Yes,No,93.3,97.7,100.0,97.0,1
+675,Female,Group E,Some College,Standard,Not Completed,6.3,0.795,No,Yes,58.2,63.0,60.0,60.4,1
+676,Male,Group B,Bachelor's,Free/Reduced,Not Completed,14.0,0.939,No,Yes,81.2,80.1,73.9,78.4,1
+677,Female,Group B,High School,Standard,Not Completed,9.9,1.0,Yes,No,92.8,100.0,89.9,94.2,1
+678,Female,Group A,Master's,Standard,Completed,6.7,0.961,No,Yes,87.2,91.4,78.9,85.8,1
+679,Male,Group A,Associate's,Standard,Not Completed,9.3,0.967,No,Yes,69.4,78.7,72.6,73.6,1
+680,Male,Group C,Associate's,Standard,Not Completed,3.9,0.947,No,No,74.2,74.7,65.8,71.6,1
+681,Male,Group B,Some College,Free/Reduced,Not Completed,13.0,1.0,No,Yes,85.9,86.7,86.7,86.4,1
+682,Female,Group D,High School,Standard,Completed,18.7,0.813,No,No,66.4,64.5,56.7,62.5,1
+683,Female,Group A,Master's,Free/Reduced,Not Completed,2.2,0.789,No,Yes,61.7,59.1,61.4,60.7,1
+684,Male,Group C,Some College,Standard,Not Completed,4.7,0.899,No,Yes,74.5,78.0,73.2,75.2,1
+685,Male,Group B,Bachelor's,Free/Reduced,Not Completed,4.5,0.727,Yes,No,65.7,54.5,58.2,59.5,0
+686,Male,Group A,Some College,Standard,Not Completed,10.5,0.998,No,Yes,87.7,92.6,93.7,91.3,1
+687,Male,Group A,High School,Standard,Not Completed,7.7,0.998,Yes,Yes,97.2,85.7,80.4,87.8,1
+688,Female,Group C,High School,Standard,Not Completed,5.2,0.865,No,No,54.3,60.3,62.6,59.1,0
+689,Male,Group C,Associate's,Standard,Not Completed,5.7,0.87,No,Yes,63.7,61.4,53.0,59.4,0
+690,Female,Group C,Master's,Standard,Not Completed,4.9,0.894,No,Yes,66.5,65.4,61.9,64.6,1
+691,Female,Group C,Some College,Free/Reduced,Not Completed,9.7,0.904,No,Yes,93.8,78.4,97.0,89.7,1
+692,Female,Group C,Some College,Standard,Completed,7.7,0.91,Yes,Yes,92.7,92.4,99.7,94.9,1
+693,Female,Group A,Some College,Free/Reduced,Not Completed,5.5,0.945,No,No,66.3,75.9,74.2,72.1,1
+694,Female,Group C,Associate's,Free/Reduced,Not Completed,4.9,0.886,No,No,53.4,57.1,53.8,54.8,0
+695,Female,Group E,Some College,Standard,Not Completed,14.2,0.975,No,Yes,86.6,87.8,81.4,85.3,1
+696,Male,Group C,Bachelor's,Free/Reduced,Not Completed,12.8,0.936,No,Yes,76.5,71.1,81.4,76.3,1
+697,Female,Group D,Associate's,Free/Reduced,Completed,9.8,0.851,No,Yes,70.8,59.3,61.3,63.8,1
+698,Male,Group B,Associate's,Standard,Not Completed,12.0,1.0,No,No,77.3,77.5,77.5,77.4,1
+699,Female,Group D,High School,Free/Reduced,Not Completed,2.7,0.791,No,Yes,51.8,59.6,53.1,54.8,0
+700,Female,Group D,Master's,Standard,Not Completed,3.4,0.893,No,Yes,60.3,69.7,55.7,61.9,1
+701,Male,Group C,High School,Standard,Completed,3.1,0.977,No,No,73.8,81.1,70.4,75.1,1
+702,Female,Group E,High School,Free/Reduced,Completed,6.9,0.842,No,No,74.0,84.5,67.5,75.3,1
+703,Female,Group A,Associate's,Standard,Not Completed,12.3,0.925,No,Yes,71.4,73.7,74.0,73.0,1
+704,Female,Group A,Associate's,Standard,Not Completed,5.2,0.943,No,No,76.4,91.7,81.4,83.2,1
+705,Female,Group D,Some College,Standard,Not Completed,13.2,0.831,Yes,No,70.1,82.9,74.2,75.7,1
+706,Male,Group D,Some College,Free/Reduced,Not Completed,4.7,0.894,Yes,Yes,74.6,69.7,65.2,69.8,1
+707,Female,Group A,Bachelor's,Free/Reduced,Completed,6.3,0.887,Yes,Yes,80.5,74.8,71.6,75.6,1
+708,Male,Group B,High School,Standard,Not Completed,5.2,0.856,No,Yes,57.8,52.1,57.8,55.9,0
+709,Female,Group A,Bachelor's,Free/Reduced,Not Completed,6.0,1.0,Yes,Yes,78.4,73.3,67.8,73.2,1
+710,Male,Group B,Associate's,Free/Reduced,Completed,6.4,0.839,No,Yes,67.4,75.2,68.5,70.4,1
+711,Male,Group D,Some College,Standard,Completed,1.8,0.98,Yes,Yes,81.8,95.6,79.4,85.6,1
+712,Male,Group C,Some College,Standard,Not Completed,8.4,0.869,No,No,68.5,62.0,64.5,65.0,1
+713,Female,Group B,Some College,Free/Reduced,Completed,6.3,0.813,No,No,51.9,54.9,60.5,55.8,0
+714,Female,Group C,Bachelor's,Free/Reduced,Not Completed,15.6,0.908,No,No,81.8,75.9,75.1,77.6,1
+715,Female,Group A,Associate's,Free/Reduced,Completed,9.5,0.952,No,No,75.3,81.2,86.8,81.1,1
+716,Male,Group B,Some College,Standard,Completed,8.2,0.974,Yes,No,72.4,86.4,85.5,81.4,1
+717,Male,Group C,Associate's,Standard,Not Completed,15.1,1.0,Yes,No,100.0,100.0,100.0,100.0,1
+718,Male,Group E,Master's,Standard,Completed,14.3,1.0,Yes,No,90.8,94.5,100.0,95.1,1
+719,Female,Group D,Some College,Standard,Completed,16.0,0.92,No,No,73.3,72.8,74.9,73.7,1
+720,Male,Group A,Master's,Standard,Not Completed,4.9,0.847,No,Yes,61.2,68.2,67.0,65.5,1
+721,Male,Group E,Some College,Free/Reduced,Not Completed,3.1,0.936,No,No,62.3,68.1,58.3,62.9,1
+722,Female,Group D,High School,Standard,Completed,1.8,0.879,Yes,Yes,59.1,55.9,52.2,55.7,0
+723,Female,Group D,High School,Free/Reduced,Not Completed,12.0,0.974,No,No,67.5,55.9,64.0,62.5,1
+724,Male,Group C,Some College,Standard,Not Completed,1.6,0.796,Yes,Yes,65.3,65.7,57.0,62.7,1
+725,Male,Group C,High School,Standard,Completed,7.7,1.0,No,Yes,85.2,82.5,83.3,83.7,1
+726,Male,Group B,High School,Standard,Completed,2.3,0.968,No,Yes,66.6,79.9,59.9,68.8,1
+727,Female,Group A,Master's,Standard,Not Completed,12.9,0.765,Yes,Yes,85.1,87.4,90.7,87.7,1
+728,Male,Group B,Bachelor's,Standard,Not Completed,9.1,0.843,No,Yes,67.7,69.0,65.4,67.4,1
+729,Female,Group B,Bachelor's,Free/Reduced,Not Completed,12.9,0.965,No,No,82.8,80.6,76.3,79.9,1
+730,Female,Group C,High School,Free/Reduced,Not Completed,7.8,0.994,No,Yes,74.3,73.9,68.5,72.2,1
+731,Female,Group D,High School,Standard,Not Completed,3.6,0.798,Yes,Yes,56.5,53.9,37.3,49.2,0
+732,Male,Group C,High School,Standard,Completed,5.1,0.957,No,Yes,47.7,66.3,59.6,57.9,0
+733,Male,Group A,Bachelor's,Free/Reduced,Not Completed,11.3,0.744,No,No,61.5,73.8,66.6,67.3,1
+734,Male,Group E,Master's,Standard,Not Completed,2.2,0.893,No,Yes,76.8,78.4,73.1,76.1,1
+735,Female,Group E,Some College,Standard,Not Completed,4.9,0.989,No,Yes,74.9,75.4,74.1,74.8,1
+736,Male,Group D,High School,Standard,Completed,4.4,0.856,No,Yes,67.4,81.3,68.5,72.4,1
+737,Female,Group E,Associate's,Free/Reduced,Not Completed,6.5,0.779,No,Yes,49.5,42.3,41.5,44.4,0
+738,Male,Group C,Some College,Standard,Not Completed,9.7,0.912,Yes,No,78.9,84.2,81.6,81.6,1
+739,Female,Group E,Some College,Standard,Not Completed,12.7,0.852,Yes,No,76.4,78.2,83.6,79.4,1
+740,Female,Group A,Associate's,Free/Reduced,Not Completed,2.6,0.95,No,No,51.5,52.0,57.3,53.6,0
+741,Female,Group B,Bachelor's,Standard,Not Completed,3.8,0.829,Yes,No,74.0,83.4,77.2,78.2,1
+742,Female,Group B,High School,Standard,Not Completed,2.8,0.838,No,No,68.0,52.4,53.2,57.9,0
+743,Male,Group B,High School,Standard,Not Completed,6.6,0.738,No,No,83.7,79.8,73.6,79.0,1
+744,Female,Group A,Master's,Free/Reduced,Not Completed,3.1,0.914,No,No,49.7,43.6,46.0,46.4,0
+745,Female,Group C,High School,Standard,Not Completed,8.4,0.887,No,Yes,75.5,88.1,79.2,80.9,1
+746,Male,Group D,High School,Free/Reduced,Not Completed,13.7,0.805,No,No,64.7,68.3,51.4,61.5,1
+747,Female,Group C,High School,Free/Reduced,Not Completed,1.9,0.916,No,Yes,46.5,44.4,46.0,45.6,0
+748,Male,Group A,High School,Standard,Not Completed,3.9,0.982,Yes,Yes,51.2,70.3,63.4,61.6,1
+749,Male,Group D,Some College,Free/Reduced,Not Completed,16.1,0.883,No,Yes,79.3,80.1,71.0,76.8,1
+750,Male,Group C,Bachelor's,Standard,Not Completed,7.6,0.921,No,No,82.6,91.4,76.0,83.3,1
+751,Female,Group C,Some College,Standard,Not Completed,4.9,0.922,No,Yes,72.9,78.9,81.8,77.9,1
+752,Male,Group D,Some College,Standard,Not Completed,25.6,0.804,No,Yes,100.0,100.0,95.8,98.6,1
+753,Male,Group B,Associate's,Standard,Not Completed,5.7,1.0,No,Yes,76.9,73.1,72.6,74.2,1
+754,Female,Group B,Associate's,Standard,Not Completed,9.5,0.862,No,Yes,81.9,87.2,71.8,80.3,1
+755,Female,Group E,Bachelor's,Standard,Completed,4.0,0.952,Yes,Yes,91.5,76.7,82.1,83.4,1
+756,Male,Group B,Bachelor's,Standard,Completed,3.5,0.962,Yes,Yes,86.5,76.5,76.0,79.7,1
+757,Male,Group C,High School,Free/Reduced,Not Completed,9.8,0.889,No,No,57.2,58.3,56.6,57.4,0
+758,Male,Group E,Bachelor's,Standard,Not Completed,16.9,0.949,No,No,72.9,85.0,81.2,79.7,1
+759,Male,Group D,Some College,Free/Reduced,Not Completed,5.0,0.92,Yes,Yes,70.3,58.9,67.6,65.6,1
+760,Male,Group A,Master's,Standard,Not Completed,3.4,0.787,No,No,56.5,49.5,59.2,55.1,0
+761,Female,Group A,Some College,Standard,Not Completed,11.8,0.873,No,No,56.7,76.4,70.1,67.7,1
+762,Female,Group A,Master's,Standard,Completed,5.1,0.851,No,Yes,79.6,85.1,72.5,79.1,1
+763,Female,Group C,Bachelor's,Standard,Not Completed,8.4,0.863,No,No,80.4,79.3,77.4,79.0,1
+764,Male,Group C,High School,Standard,Completed,5.0,0.796,Yes,Yes,64.5,69.1,61.0,64.9,1
+765,Female,Group A,Associate's,Free/Reduced,Not Completed,5.5,0.99,No,Yes,75.6,82.2,80.6,79.5,1
+766,Male,Group E,Master's,Free/Reduced,Completed,3.8,1.0,No,No,76.2,84.3,78.5,79.7,1
+767,Male,Group C,Bachelor's,Free/Reduced,Completed,10.0,0.978,No,No,80.7,79.6,74.8,78.4,1
+768,Male,Group B,High School,Standard,Not Completed,8.6,1.0,No,No,67.8,80.4,72.0,73.4,1
+769,Female,Group C,Bachelor's,Free/Reduced,Not Completed,8.4,0.872,Yes,No,71.5,75.3,73.8,73.5,1
+770,Male,Group D,Some College,Standard,Not Completed,4.3,0.849,No,No,54.5,58.0,60.3,57.6,0
+771,Female,Group A,High School,Standard,Not Completed,8.1,0.838,No,No,44.9,50.0,39.5,44.8,0
+772,Male,Group B,Some College,Free/Reduced,Not Completed,18.2,0.952,Yes,No,78.1,85.7,88.2,84.0,1
+773,Female,Group D,High School,Standard,Not Completed,3.4,0.918,No,No,51.0,53.0,48.6,50.9,0
+774,Female,Group C,Bachelor's,Standard,Not Completed,4.0,0.894,No,Yes,56.0,60.6,54.4,57.0,0
+775,Male,Group C,Some College,Standard,Completed,4.2,1.0,No,Yes,62.6,75.4,60.0,66.0,1
+776,Female,Group C,Bachelor's,Standard,Not Completed,7.2,0.932,No,Yes,67.4,62.8,58.7,63.0,1
+777,Female,Group A,High School,Free/Reduced,Completed,3.2,0.833,No,Yes,48.9,49.8,52.4,50.4,0
+778,Male,Group B,Some College,Standard,Not Completed,9.1,0.846,No,No,64.1,60.1,54.6,59.6,0
+779,Male,Group C,High School,Free/Reduced,Completed,1.7,0.955,No,Yes,64.6,71.0,67.8,67.8,1
+780,Male,Group B,High School,Standard,Not Completed,10.7,0.983,Yes,No,77.9,90.4,85.8,84.7,1
+781,Male,Group A,High School,Standard,Not Completed,8.3,0.944,No,No,55.3,63.2,50.5,56.3,0
+782,Male,Group D,High School,Standard,Completed,18.0,1.0,No,Yes,85.9,82.0,87.9,85.3,1
+783,Female,Group E,Associate's,Standard,Not Completed,3.5,1.0,No,No,66.8,76.3,82.1,75.1,1
+784,Female,Group D,Some College,Standard,Completed,12.1,0.935,Yes,No,86.0,70.7,91.3,82.7,1
+785,Female,Group E,Some College,Free/Reduced,Not Completed,6.3,0.833,No,Yes,57.5,63.7,52.9,58.0,0
+786,Male,Group B,Some College,Free/Reduced,Not Completed,5.6,0.795,Yes,Yes,62.4,69.1,61.2,64.2,1
+787,Male,Group E,Bachelor's,Free/Reduced,Not Completed,3.4,0.869,No,No,69.3,69.5,68.3,69.0,1
+788,Female,Group B,Master's,Free/Reduced,Completed,5.0,0.96,Yes,No,71.3,73.4,71.0,71.9,1
+789,Female,Group E,Some College,Free/Reduced,Not Completed,5.1,1.0,No,Yes,67.7,67.0,72.7,69.1,1
+790,Male,Group E,Some College,Standard,Completed,2.3,0.933,No,Yes,82.0,79.6,81.0,80.9,1
+791,Female,Group D,High School,Free/Reduced,Completed,8.3,0.993,No,No,75.2,89.4,85.4,83.3,1
+792,Male,Group E,Master's,Standard,Not Completed,7.6,0.88,Yes,Yes,77.8,87.4,89.0,84.7,1
+793,Female,Group C,High School,Standard,Not Completed,9.5,0.95,No,Yes,84.3,81.3,79.6,81.7,1
+794,Male,Group B,Some College,Standard,Completed,4.6,0.966,No,No,87.7,89.1,91.4,89.4,1
+795,Female,Group C,Some College,Standard,Not Completed,10.9,0.742,No,Yes,82.8,75.7,79.7,79.4,1
+796,Male,Group C,Some College,Standard,Not Completed,14.1,0.867,Yes,Yes,76.6,72.6,69.5,72.9,1
+797,Male,Group A,High School,Free/Reduced,Not Completed,5.8,0.976,Yes,No,60.1,53.0,56.9,56.7,0
+798,Male,Group C,Bachelor's,Standard,Not Completed,3.5,0.922,No,Yes,64.4,75.3,69.8,69.8,1
+799,Male,Group E,High School,Standard,Not Completed,7.0,0.804,No,No,95.5,82.8,83.4,87.2,1
+800,Male,Group B,Associate's,Standard,Not Completed,6.8,0.706,No,Yes,45.9,48.3,47.8,47.3,0
+801,Male,Group D,High School,Standard,Completed,6.0,0.871,Yes,Yes,66.1,79.7,77.2,74.3,1
+802,Female,Group E,High School,Standard,Not Completed,9.5,0.894,Yes,No,52.4,59.9,53.8,55.4,0
+803,Male,Group E,Master's,Standard,Not Completed,5.4,0.829,No,Yes,79.6,68.6,74.5,74.2,1
+804,Male,Group E,High School,Standard,Completed,3.3,0.911,No,Yes,56.0,58.2,54.2,56.1,0
+805,Female,Group C,Bachelor's,Standard,Completed,7.4,0.941,Yes,No,89.4,87.8,89.4,88.9,1
+806,Male,Group E,Associate's,Free/Reduced,Completed,9.7,0.954,Yes,No,72.0,79.2,66.5,72.6,1
+807,Male,Group D,High School,Free/Reduced,Not Completed,10.2,0.712,No,No,55.6,67.7,67.5,63.6,1
+808,Male,Group B,Master's,Standard,Completed,5.2,0.795,No,Yes,86.1,87.8,82.4,85.4,1
+809,Female,Group C,High School,Standard,Not Completed,8.0,0.876,No,Yes,57.8,70.1,56.7,61.5,1
+810,Female,Group D,Bachelor's,Standard,Not Completed,14.3,0.946,No,Yes,78.3,84.4,84.4,82.4,1
+811,Male,Group B,High School,Free/Reduced,Not Completed,14.3,0.939,No,No,76.5,74.1,71.3,74.0,1
+812,Male,Group C,Bachelor's,Standard,Not Completed,12.3,0.938,No,Yes,81.9,83.2,87.4,84.2,1
+813,Female,Group D,High School,Standard,Completed,2.2,0.869,No,No,64.8,57.8,63.5,62.0,1
+814,Male,Group B,Associate's,Free/Reduced,Not Completed,5.4,0.874,No,No,69.6,75.6,79.0,74.7,1
+815,Male,Group C,Bachelor's,Standard,Completed,13.7,0.842,No,Yes,96.9,98.3,92.1,95.8,1
+816,Female,Group D,Master's,Standard,Completed,2.2,0.961,No,Yes,64.8,74.6,71.0,70.1,1
+817,Male,Group C,Master's,Standard,Not Completed,6.5,0.826,Yes,Yes,69.6,74.5,68.5,70.9,1
+818,Female,Group A,Bachelor's,Free/Reduced,Not Completed,4.5,0.968,No,Yes,74.5,70.6,75.6,73.6,1
+819,Female,Group A,Bachelor's,Free/Reduced,Not Completed,8.1,0.917,No,Yes,55.0,56.3,59.3,56.9,0
+820,Female,Group B,High School,Free/Reduced,Not Completed,1.3,0.896,No,Yes,38.9,40.4,37.1,38.8,0
+821,Male,Group E,Some College,Standard,Not Completed,13.0,0.847,Yes,No,84.5,77.9,77.9,80.1,1
+822,Female,Group B,Some College,Standard,Completed,6.7,0.792,Yes,Yes,82.4,76.6,71.6,76.9,1
+823,Female,Group C,Some College,Free/Reduced,Not Completed,3.2,0.848,No,Yes,47.6,50.7,43.9,47.4,0
+824,Female,Group B,Some College,Free/Reduced,Not Completed,4.1,0.874,Yes,Yes,59.6,56.7,55.2,57.2,0
+825,Male,Group B,Associate's,Standard,Completed,8.3,0.71,No,No,62.1,57.0,64.5,61.2,1
+826,Male,Group D,High School,Free/Reduced,Not Completed,3.9,0.884,Yes,Yes,56.3,47.1,59.0,54.1,0
+827,Female,Group D,Associate's,Standard,Completed,16.6,0.974,No,Yes,93.7,99.3,96.7,96.6,1
+828,Female,Group A,High School,Standard,Not Completed,6.2,0.945,No,No,65.4,61.4,50.6,59.1,0
+829,Male,Group C,Some College,Free/Reduced,Not Completed,15.0,0.86,No,Yes,73.6,62.8,67.6,68.0,1
+830,Female,Group A,Associate's,Standard,Not Completed,7.4,0.904,No,Yes,67.4,64.5,72.1,68.0,1
+831,Female,Group C,Bachelor's,Free/Reduced,Not Completed,10.0,0.856,No,No,63.7,61.1,61.7,62.2,1
+832,Female,Group D,Bachelor's,Standard,Not Completed,9.6,0.912,Yes,No,90.8,85.2,89.9,88.6,1
+833,Female,Group A,Associate's,Standard,Completed,4.9,1.0,Yes,Yes,74.6,88.8,83.5,82.3,1
+834,Female,Group B,High School,Free/Reduced,Not Completed,10.0,0.977,No,No,69.5,70.2,76.9,72.2,1
+835,Female,Group C,Associate's,Free/Reduced,Completed,5.2,0.942,No,Yes,51.4,61.2,52.9,55.2,0
+836,Female,Group E,High School,Standard,Not Completed,2.1,0.861,No,Yes,51.5,50.6,46.5,49.5,0
+837,Male,Group E,Some College,Standard,Not Completed,5.9,0.96,No,No,74.5,68.5,71.7,71.6,1
+838,Female,Group A,Some College,Standard,Not Completed,2.9,0.765,No,Yes,74.2,81.4,76.3,77.3,1
+839,Male,Group D,High School,Standard,Completed,5.1,0.88,No,Yes,57.1,48.3,50.9,52.1,0
+840,Male,Group C,Some College,Free/Reduced,Not Completed,6.5,0.947,Yes,Yes,66.4,69.5,71.4,69.1,1
+841,Female,Group C,Master's,Free/Reduced,Not Completed,3.6,0.959,No,Yes,72.3,78.5,70.0,73.6,1
+842,Male,Group D,Master's,Standard,Completed,9.2,0.954,No,Yes,82.9,92.1,88.6,87.9,1
+843,Female,Group E,Some College,Standard,Not Completed,5.1,0.924,No,No,63.6,69.4,71.5,68.2,1
+844,Male,Group E,High School,Standard,Completed,2.8,0.884,No,No,55.9,57.0,59.7,57.5,0
+845,Female,Group C,High School,Free/Reduced,Not Completed,3.6,0.943,No,No,47.1,68.4,64.5,60.0,1
+846,Female,Group B,Some College,Standard,Completed,7.1,0.824,Yes,No,67.1,74.3,74.6,72.0,1
+847,Female,Group D,Master's,Standard,Completed,5.7,0.832,No,Yes,89.9,91.0,86.4,89.1,1
+848,Male,Group B,High School,Standard,Completed,7.9,0.905,No,Yes,68.9,63.4,69.8,67.4,1
+849,Female,Group C,Bachelor's,Standard,Not Completed,7.1,0.914,Yes,Yes,72.3,75.4,83.0,76.9,1
+850,Male,Group B,High School,Standard,Not Completed,3.4,0.754,No,No,58.4,59.4,59.8,59.2,0
+851,Female,Group D,Master's,Standard,Completed,4.5,0.936,Yes,No,71.9,75.0,72.7,73.2,1
+852,Male,Group B,Some College,Free/Reduced,Not Completed,10.8,0.962,No,Yes,72.3,65.9,74.2,70.8,1
+853,Female,Group B,Bachelor's,Free/Reduced,Not Completed,3.8,0.894,No,No,63.6,48.4,47.8,53.3,0
+854,Male,Group E,Some College,Free/Reduced,Completed,15.2,1.0,Yes,Yes,91.8,91.3,69.8,84.3,1
+855,Female,Group A,Associate's,Standard,Not Completed,2.4,0.845,Yes,No,68.2,70.2,69.2,69.2,1
+856,Female,Group C,High School,Standard,Not Completed,10.6,0.871,No,Yes,59.9,68.0,58.7,62.2,1
+857,Female,Group B,High School,Standard,Not Completed,6.3,0.868,No,Yes,52.0,59.8,61.7,57.8,0
+858,Female,Group A,Master's,Standard,Not Completed,3.4,0.894,Yes,Yes,75.0,77.2,74.2,75.5,1
+859,Male,Group A,Master's,Free/Reduced,Not Completed,7.0,0.874,No,No,66.7,73.3,56.4,65.5,1
+860,Female,Group B,Bachelor's,Standard,Not Completed,3.9,0.787,No,Yes,65.3,71.0,67.7,68.0,1
+861,Male,Group E,Associate's,Standard,Not Completed,4.7,0.856,Yes,Yes,74.7,77.0,71.1,74.3,1
+862,Female,Group B,Bachelor's,Free/Reduced,Completed,5.2,0.892,No,Yes,83.1,71.9,74.7,76.6,1
+863,Male,Group E,High School,Free/Reduced,Completed,10.2,0.998,Yes,No,93.2,98.8,90.7,94.2,1
+864,Female,Group C,Some College,Standard,Not Completed,4.4,1.0,Yes,No,77.8,84.6,70.9,77.8,1
+865,Female,Group C,Some College,Standard,Not Completed,7.7,1.0,No,No,77.9,89.8,84.6,84.1,1
+866,Male,Group C,Associate's,Standard,Completed,10.4,0.838,Yes,No,92.3,86.6,85.8,88.2,1
+867,Female,Group C,Some College,Standard,Not Completed,6.9,0.844,No,Yes,53.7,61.2,63.8,59.6,0
+868,Female,Group D,High School,Standard,Not Completed,8.3,0.887,No,No,73.3,80.4,76.3,76.7,1
+869,Male,Group B,Associate's,Standard,Completed,6.5,1.0,No,No,87.9,86.2,80.7,84.9,1
+870,Male,Group B,Bachelor's,Free/Reduced,Not Completed,9.1,0.887,Yes,Yes,77.0,76.9,79.5,77.8,1
+871,Female,Group E,Some College,Standard,Completed,2.8,0.794,Yes,Yes,66.7,76.1,66.7,69.8,1
+872,Female,Group E,High School,Standard,Not Completed,14.4,0.86,No,Yes,78.2,79.0,82.0,79.7,1
+873,Male,Group E,High School,Standard,Completed,4.2,0.961,No,Yes,70.7,70.5,72.4,71.2,1
+874,Female,Group C,High School,Standard,Not Completed,6.3,0.955,Yes,No,80.1,87.9,93.2,87.1,1
+875,Female,Group D,Some College,Free/Reduced,Completed,1.6,0.884,No,Yes,67.1,70.7,69.7,69.2,1
+876,Female,Group C,Associate's,Standard,Not Completed,4.8,0.955,No,No,65.6,79.6,73.3,72.8,1
+877,Male,Group C,Associate's,Standard,Not Completed,7.8,0.718,No,No,54.4,47.6,49.3,50.4,0
+878,Male,Group B,Associate's,Standard,Not Completed,15.5,0.908,Yes,No,86.2,91.3,84.2,87.2,1
+879,Female,Group C,Some College,Free/Reduced,Not Completed,9.3,0.969,Yes,No,78.6,84.6,80.8,81.3,1
+880,Female,Group B,Bachelor's,Standard,Not Completed,5.0,0.833,Yes,No,71.3,78.1,79.3,76.2,1
+881,Female,Group B,High School,Free/Reduced,Not Completed,2.2,0.833,No,No,49.0,57.2,54.1,53.4,0
+882,Male,Group E,Some College,Standard,Not Completed,13.5,0.751,Yes,Yes,73.2,71.1,80.5,74.9,1
+883,Female,Group B,Bachelor's,Standard,Not Completed,4.9,1.0,No,Yes,76.7,75.6,79.7,77.3,1
+884,Female,Group A,High School,Standard,Not Completed,7.8,0.842,Yes,Yes,71.7,72.4,69.3,71.1,1
+885,Male,Group A,High School,Free/Reduced,Completed,5.1,0.919,No,Yes,57.0,67.6,50.5,58.4,0
+886,Female,Group E,Bachelor's,Free/Reduced,Completed,8.4,0.948,No,No,100.0,94.5,89.8,94.8,1
+887,Male,Group C,Some College,Standard,Completed,13.1,1.0,No,No,73.3,66.5,72.2,70.7,1
+888,Female,Group C,Associate's,Standard,Completed,10.1,0.888,No,No,100.0,93.8,92.5,95.4,1
+889,Female,Group D,High School,Standard,Not Completed,5.6,0.857,Yes,No,70.7,70.5,70.1,70.4,1
+890,Female,Group D,Associate's,Standard,Not Completed,13.7,0.914,Yes,Yes,100.0,93.5,85.2,92.9,1
+891,Male,Group B,Some College,Standard,Not Completed,17.4,1.0,No,Yes,84.2,98.9,86.3,89.8,1
+892,Male,Group D,High School,Free/Reduced,Completed,11.6,0.886,Yes,No,82.5,85.4,72.6,80.2,1
+893,Male,Group D,Associate's,Free/Reduced,Completed,5.2,0.824,No,No,67.0,65.9,61.4,64.8,1
+894,Female,Group D,High School,Standard,Not Completed,10.7,0.777,Yes,No,64.7,72.2,68.8,68.6,1
+895,Male,Group B,Some College,Standard,Not Completed,11.5,0.802,Yes,No,76.9,72.6,70.3,73.3,1
+896,Female,Group E,High School,Free/Reduced,Not Completed,5.7,0.969,Yes,No,74.4,69.5,78.7,74.2,1
+897,Female,Group C,High School,Free/Reduced,Not Completed,17.4,0.874,No,Yes,58.1,67.1,57.7,61.0,1
+898,Male,Group B,Some College,Standard,Not Completed,12.8,0.851,No,No,69.6,64.9,66.6,67.0,1
+899,Female,Group C,High School,Standard,Not Completed,5.9,0.843,Yes,Yes,66.9,78.0,61.0,68.6,1
+900,Female,Group A,Master's,Standard,Completed,5.1,0.907,No,No,84.0,94.0,87.6,88.5,1
+901,Female,Group A,High School,Standard,Not Completed,11.4,0.881,Yes,No,76.2,81.9,72.7,76.9,1
+902,Female,Group D,Some College,Standard,Completed,20.0,0.878,Yes,Yes,99.7,89.7,98.4,95.9,1
+903,Female,Group A,High School,Standard,Completed,2.9,1.0,No,Yes,75.1,81.3,79.5,78.6,1
+904,Male,Group C,Some College,Standard,Completed,8.6,1.0,Yes,No,89.6,80.8,79.5,83.3,1
+905,Female,Group C,Master's,Standard,Not Completed,10.5,0.771,Yes,Yes,95.2,87.8,86.7,89.9,1
+906,Male,Group A,High School,Standard,Not Completed,13.1,0.926,No,No,74.9,73.2,64.5,70.9,1
+907,Male,Group E,Master's,Standard,Not Completed,10.6,0.838,No,No,67.5,69.2,55.9,64.2,1
+908,Female,Group B,High School,Free/Reduced,Not Completed,4.9,0.88,Yes,Yes,51.7,53.8,47.5,51.0,0
+909,Female,Group B,Bachelor's,Free/Reduced,Not Completed,2.7,0.925,No,Yes,70.8,73.6,59.8,68.1,1
+910,Female,Group B,Associate's,Standard,Completed,5.5,0.883,No,No,76.6,79.6,67.8,74.7,1
+911,Male,Group B,Bachelor's,Standard,Completed,10.4,0.918,Yes,No,96.6,100.0,100.0,98.9,1
+912,Female,Group A,Associate's,Free/Reduced,Completed,4.6,0.954,No,Yes,64.9,57.4,65.0,62.4,1
+913,Male,Group D,Associate's,Standard,Completed,14.2,0.924,Yes,No,95.6,92.3,88.4,92.1,1
+914,Female,Group E,High School,Standard,Not Completed,6.2,0.848,No,No,50.0,48.2,60.2,52.8,0
+915,Male,Group B,High School,Standard,Not Completed,4.4,0.85,No,Yes,54.4,54.8,44.0,51.1,0
+916,Female,Group D,Master's,Standard,Not Completed,9.2,0.785,Yes,Yes,86.5,88.1,88.8,87.8,1
+917,Female,Group D,Some College,Standard,Not Completed,5.8,0.832,No,No,45.5,52.5,50.3,49.4,0
+918,Male,Group D,Some College,Free/Reduced,Completed,5.1,1.0,Yes,Yes,75.1,90.1,79.1,81.4,1
+919,Male,Group C,Bachelor's,Standard,Not Completed,18.7,0.837,Yes,Yes,84.0,96.0,87.2,89.1,1
+920,Female,Group B,Some College,Standard,Not Completed,4.6,0.805,Yes,No,66.4,70.1,62.0,66.2,1
+921,Male,Group B,Master's,Free/Reduced,Not Completed,5.4,0.926,No,Yes,62.3,68.7,72.6,67.9,1
+922,Female,Group D,Bachelor's,Standard,Not Completed,9.3,0.891,No,Yes,61.9,67.6,62.3,63.9,1
+923,Male,Group D,Associate's,Standard,Not Completed,14.1,0.884,Yes,No,91.8,100.0,88.1,93.3,1
+924,Male,Group B,Bachelor's,Standard,Completed,8.8,1.0,No,No,100.0,100.0,93.2,97.7,1
+925,Female,Group C,High School,Standard,Not Completed,7.1,0.944,No,Yes,58.0,61.5,64.8,61.4,1
+926,Female,Group E,Some College,Standard,Not Completed,19.9,0.858,No,Yes,100.0,100.0,97.7,99.2,1
+927,Female,Group D,Some College,Standard,Not Completed,5.2,0.866,No,No,53.2,66.7,57.5,59.1,0
+928,Male,Group E,High School,Standard,Not Completed,5.2,0.86,Yes,Yes,73.2,68.6,66.0,69.3,1
+929,Male,Group D,Bachelor's,Free/Reduced,Not Completed,4.6,0.97,Yes,Yes,82.5,83.1,82.0,82.5,1
+930,Female,Group C,Master's,Standard,Completed,8.5,0.875,Yes,Yes,82.9,77.6,81.3,80.6,1
+931,Female,Group C,Some College,Standard,Not Completed,3.8,0.757,No,Yes,43.3,40.5,38.0,40.6,0
+932,Male,Group D,Some College,Standard,Not Completed,3.2,0.896,Yes,No,55.3,47.6,60.7,54.5,0
+933,Male,Group A,Master's,Standard,Not Completed,5.4,0.777,No,No,82.3,84.4,77.1,81.3,1
+934,Male,Group C,Some College,Standard,Completed,2.2,1.0,No,Yes,67.0,75.6,66.3,69.6,1
+935,Female,Group D,Some College,Free/Reduced,Not Completed,7.8,0.823,No,No,59.7,53.7,53.4,55.6,0
+936,Female,Group B,Some College,Standard,Completed,8.5,0.887,Yes,Yes,73.2,74.2,66.2,71.2,1
+937,Female,Group D,Master's,Standard,Not Completed,9.3,0.921,Yes,No,88.1,98.1,91.0,92.4,1
+938,Male,Group C,Associate's,Free/Reduced,Completed,10.9,0.877,Yes,No,76.2,76.0,72.5,74.9,1
+939,Female,Group E,Bachelor's,Standard,Not Completed,5.5,0.877,Yes,Yes,75.8,63.8,66.5,68.7,1
+940,Male,Group A,Bachelor's,Standard,Not Completed,13.2,0.934,Yes,Yes,93.1,93.5,87.2,91.3,1
+941,Female,Group B,Some College,Free/Reduced,Not Completed,12.5,1.0,No,Yes,72.4,69.5,63.1,68.3,1
+942,Male,Group C,Some College,Free/Reduced,Not Completed,3.4,0.961,Yes,Yes,66.5,66.9,66.7,66.7,1
+943,Male,Group B,Bachelor's,Free/Reduced,Completed,6.5,1.0,No,No,86.5,90.4,100.0,92.3,1
+944,Male,Group D,Some College,Standard,Completed,1.1,0.816,No,No,60.3,66.8,59.0,62.0,1
+945,Female,Group D,Bachelor's,Standard,Not Completed,13.3,0.925,No,Yes,84.5,87.4,83.8,85.2,1
+946,Female,Group A,Master's,Free/Reduced,Completed,10.8,0.912,No,No,89.7,99.0,84.2,91.0,1
+947,Female,Group C,Associate's,Standard,Completed,15.0,0.928,No,Yes,98.5,87.1,86.9,90.8,1
+948,Male,Group C,Bachelor's,Standard,Completed,2.4,1.0,No,Yes,99.5,100.0,97.1,98.9,1
+949,Male,Group B,Bachelor's,Free/Reduced,Not Completed,8.9,0.882,No,No,57.2,66.8,63.0,62.3,1
+950,Male,Group E,Bachelor's,Standard,Not Completed,4.8,0.868,Yes,Yes,70.1,75.5,72.8,72.8,1
+951,Male,Group D,Some College,Free/Reduced,Not Completed,1.6,0.943,Yes,No,76.0,67.3,61.4,68.2,1
+952,Male,Group D,High School,Standard,Completed,11.7,0.758,No,Yes,75.2,72.1,71.4,72.9,1
+953,Female,Group D,Some College,Standard,Not Completed,2.9,0.881,No,No,69.7,73.0,68.0,70.2,1
+954,Male,Group C,Associate's,Standard,Not Completed,8.3,0.889,No,No,65.1,61.9,62.5,63.2,1
+955,Female,Group E,Some College,Free/Reduced,Not Completed,4.8,0.826,No,Yes,66.0,55.8,54.2,58.7,0
+956,Female,Group D,Bachelor's,Standard,Not Completed,7.4,0.985,No,Yes,82.8,82.9,84.9,83.5,1
+957,Female,Group D,Some College,Standard,Completed,11.0,0.815,Yes,Yes,56.7,68.5,60.0,61.7,1
+958,Female,Group E,Associate's,Free/Reduced,Completed,7.5,0.889,No,Yes,53.9,68.0,62.3,61.4,1
+959,Female,Group B,High School,Free/Reduced,Not Completed,3.7,0.923,No,Yes,53.9,53.2,58.7,55.3,0
+960,Male,Group D,Bachelor's,Free/Reduced,Completed,18.9,1.0,No,No,91.8,94.4,89.7,92.0,1
+961,Female,Group B,Associate's,Standard,Not Completed,5.5,0.899,No,Yes,61.7,64.4,57.5,61.2,1
+962,Male,Group B,High School,Standard,Not Completed,4.2,0.975,No,Yes,73.7,66.3,68.4,69.5,1
+963,Female,Group B,Some College,Free/Reduced,Not Completed,6.4,0.956,No,No,64.4,69.7,60.6,64.9,1
+964,Female,Group E,Bachelor's,Standard,Not Completed,2.4,0.91,Yes,Yes,67.3,67.9,64.2,66.5,1
+965,Female,Group E,Some College,Standard,Not Completed,4.5,0.813,No,Yes,47.8,49.7,51.8,49.8,0
+966,Female,Group D,High School,Standard,Completed,5.7,0.785,No,No,58.9,61.4,61.7,60.7,1
+967,Male,Group D,Master's,Free/Reduced,Not Completed,7.8,0.909,No,Yes,51.0,55.8,59.9,55.6,0
+968,Female,Group C,Bachelor's,Standard,Completed,6.9,0.857,No,No,74.6,79.3,78.4,77.4,1
+969,Male,Group E,Master's,Free/Reduced,Not Completed,8.9,0.974,No,No,74.0,84.9,73.8,77.6,1
+970,Female,Group C,Some College,Standard,Not Completed,6.5,0.96,No,No,75.1,75.7,75.2,75.3,1
+971,Male,Group C,Some College,Standard,Not Completed,12.4,0.885,No,Yes,58.9,63.6,58.2,60.2,1
+972,Male,Group B,Bachelor's,Standard,Not Completed,9.8,0.807,No,No,67.8,83.3,77.1,76.1,1
+973,Male,Group D,Associate's,Standard,Not Completed,8.5,0.941,No,Yes,63.4,59.5,61.7,61.5,1
+974,Female,Group D,Bachelor's,Standard,Not Completed,13.5,0.819,No,Yes,70.4,79.6,62.9,71.0,1
+975,Female,Group C,Some College,Standard,Not Completed,13.5,0.839,No,Yes,78.1,78.2,72.7,76.3,1
+976,Female,Group A,Some College,Standard,Not Completed,7.2,0.822,No,Yes,80.9,83.6,74.0,79.5,1
+977,Male,Group D,High School,Free/Reduced,Not Completed,5.4,0.889,No,Yes,62.3,58.1,52.6,57.7,0
+978,Female,Group A,High School,Free/Reduced,Completed,7.6,0.994,No,Yes,73.0,64.9,62.6,66.8,1
+979,Female,Group D,High School,Free/Reduced,Completed,6.2,0.9,No,Yes,68.5,71.5,70.3,70.1,1
+980,Male,Group E,High School,Standard,Not Completed,5.2,0.865,No,Yes,61.8,74.4,75.1,70.4,1
+981,Female,Group C,Master's,Standard,Completed,7.5,0.778,No,Yes,78.5,84.3,72.2,78.3,1
+982,Male,Group B,High School,Standard,Completed,8.4,0.944,No,Yes,92.0,96.3,100.0,96.1,1
+983,Female,Group D,Associate's,Free/Reduced,Not Completed,9.6,0.838,No,No,67.5,79.1,55.6,67.4,1
+984,Female,Group D,Bachelor's,Free/Reduced,Not Completed,14.8,0.909,Yes,Yes,95.8,93.8,86.6,92.1,1
+985,Male,Group C,Associate's,Free/Reduced,Not Completed,7.9,0.872,Yes,No,85.2,88.6,72.7,82.2,1
+986,Female,Group E,High School,Standard,Completed,6.6,0.967,Yes,No,95.3,91.2,92.6,93.0,1
+987,Male,Group A,Bachelor's,Standard,Not Completed,11.6,0.887,Yes,Yes,68.0,65.6,55.7,63.1,1
+988,Female,Group C,Associate's,Standard,Completed,4.0,0.895,Yes,Yes,78.2,77.0,77.0,77.4,1
+989,Female,Group D,Bachelor's,Standard,Completed,2.2,0.939,Yes,Yes,83.6,99.0,91.9,91.5,1
+990,Male,Group E,Bachelor's,Standard,Not Completed,8.8,1.0,No,Yes,100.0,100.0,100.0,100.0,1
+991,Male,Group B,Master's,Free/Reduced,Not Completed,5.5,0.971,No,Yes,74.6,75.7,74.4,74.9,1
+992,Male,Group D,Associate's,Standard,Not Completed,5.8,0.893,No,No,65.6,68.9,65.9,66.8,1
+993,Female,Group C,Some College,Standard,Not Completed,3.9,0.9,No,Yes,54.7,58.6,56.0,56.4,0
+994,Male,Group C,Associate's,Standard,Not Completed,12.9,0.858,Yes,No,100.0,95.1,95.0,96.7,1
+995,Female,Group A,High School,Free/Reduced,Not Completed,2.2,0.824,No,No,59.7,51.7,57.5,56.3,0
+996,Female,Group E,Bachelor's,Standard,Not Completed,9.4,0.856,Yes,Yes,72.2,80.0,69.3,73.8,1
+997,Male,Group B,High School,Free/Reduced,Not Completed,6.7,0.838,No,No,53.0,58.2,56.0,55.7,0
+998,Female,Group B,Some College,Free/Reduced,Completed,15.3,0.952,No,No,94.4,81.2,84.4,86.7,1
+999,Male,Group B,Bachelor's,Standard,Not Completed,11.6,0.814,No,Yes,77.1,72.8,77.4,75.8,1
+1000,Female,Group E,Associate's,Standard,Completed,3.2,1.0,No,No,71.1,69.7,71.3,70.7,1
+1001,Female,Group D,Some College,Standard,Completed,9.8,0.96,No,No,76.1,81.6,72.9,76.9,1
+1002,Male,Group D,Some College,Standard,Not Completed,8.7,0.902,Yes,No,59.2,66.2,54.0,59.8,0
+1003,Male,Group B,Bachelor's,Free/Reduced,Completed,6.4,0.9,Yes,No,87.3,94.8,87.5,89.9,1
+1004,Male,Group C,Some College,Free/Reduced,Not Completed,9.4,0.855,Yes,No,56.0,60.4,70.8,62.4,1
+1005,Male,Group C,Bachelor's,Standard,Not Completed,4.5,0.922,No,Yes,66.1,77.0,74.4,72.5,1
+1006,Male,Group D,High School,Standard,Not Completed,7.1,0.987,Yes,No,87.6,95.0,86.4,89.7,1
+1007,Male,Group E,Bachelor's,Standard,Not Completed,6.8,0.844,No,Yes,78.1,78.9,69.0,75.3,1
+1008,Male,Group A,Bachelor's,Standard,Not Completed,4.0,0.777,No,No,61.7,63.7,62.6,62.7,1
+1009,Female,Group D,High School,Standard,Not Completed,5.5,0.956,Yes,Yes,68.5,85.8,70.1,74.8,1
+1010,Female,Group A,Some College,Standard,Not Completed,5.0,0.926,No,Yes,59.3,71.6,63.3,64.7,1
+1011,Female,Group C,High School,Standard,Not Completed,8.4,0.81,No,Yes,74.4,77.7,75.0,75.7,1
+1012,Male,Group B,Bachelor's,Free/Reduced,Not Completed,13.3,0.841,No,Yes,72.4,77.5,71.6,73.8,1
+1013,Male,Group B,Associate's,Standard,Not Completed,2.8,0.831,Yes,Yes,63.4,58.3,63.6,61.8,1
+1014,Female,Group B,Associate's,Standard,Not Completed,8.5,0.842,No,No,77.9,73.6,80.5,77.3,1
+1015,Male,Group C,High School,Standard,Not Completed,4.8,0.874,No,Yes,71.9,72.4,71.4,71.9,1
+1016,Male,Group B,High School,Free/Reduced,Not Completed,11.2,0.879,No,Yes,53.7,54.5,46.3,51.5,0
+1017,Female,Group D,High School,Standard,Not Completed,8.5,0.848,Yes,No,82.1,73.3,79.3,78.2,1
+1018,Male,Group C,Some College,Standard,Completed,2.3,0.839,Yes,No,71.2,68.6,69.8,69.9,1
+1019,Male,Group A,Associate's,Standard,Not Completed,7.5,0.882,No,No,67.7,71.3,67.4,68.8,1
+1020,Female,Group D,Bachelor's,Free/Reduced,Completed,6.2,0.913,No,Yes,77.6,88.1,82.1,82.6,1
+1021,Male,Group B,Associate's,Standard,Not Completed,3.0,0.875,No,No,45.9,59.8,60.7,55.5,0
+1022,Female,Group C,Some College,Free/Reduced,Completed,4.9,0.993,No,No,79.2,81.7,76.8,79.2,1
+1023,Male,Group D,Master's,Free/Reduced,Not Completed,7.3,0.941,Yes,Yes,83.5,73.0,74.1,76.9,1
+1024,Male,Group B,Bachelor's,Free/Reduced,Not Completed,5.0,0.773,No,Yes,49.7,48.2,43.9,47.3,0
+1025,Male,Group A,Master's,Standard,Not Completed,11.9,0.942,No,No,77.1,84.6,80.8,80.8,1
+1026,Female,Group C,Associate's,Standard,Not Completed,6.2,0.948,Yes,No,76.8,83.3,78.2,79.4,1
+1027,Male,Group E,Some College,Standard,Not Completed,4.7,0.865,No,Yes,59.4,48.9,47.3,51.9,0
+1028,Male,Group C,High School,Free/Reduced,Not Completed,7.5,0.78,Yes,Yes,70.9,67.2,62.6,66.9,1
+1029,Female,Group D,Bachelor's,Standard,Completed,8.1,0.901,Yes,Yes,100.0,99.5,95.4,98.3,1
+1030,Male,Group C,High School,Standard,Not Completed,11.2,0.899,Yes,Yes,80.3,86.1,80.4,82.3,1
+1031,Female,Group B,Some College,Free/Reduced,Not Completed,6.9,0.81,No,No,54.8,60.2,60.9,58.6,0
+1032,Male,Group C,Associate's,Standard,Completed,7.9,0.784,No,No,67.6,70.8,64.2,67.5,1
+1033,Female,Group D,Associate's,Standard,Not Completed,5.5,0.893,Yes,Yes,54.8,66.7,58.5,60.0,1
+1034,Female,Group A,Associate's,Standard,Completed,15.5,0.881,No,Yes,88.8,94.0,85.8,89.5,1
+1035,Female,Group B,High School,Standard,Not Completed,8.4,0.867,No,Yes,67.5,68.0,68.1,67.9,1
+1036,Male,Group B,Some College,Free/Reduced,Completed,7.4,0.893,No,Yes,70.7,72.0,76.5,73.1,1
+1037,Female,Group C,Associate's,Standard,Not Completed,5.0,0.812,No,Yes,55.4,81.3,75.4,70.7,1
+1038,Male,Group E,Master's,Standard,Completed,12.1,0.865,Yes,No,91.7,87.2,79.9,86.3,1
+1039,Female,Group A,Bachelor's,Standard,Completed,2.1,0.943,No,No,65.4,78.8,69.1,71.1,1
+1040,Female,Group C,Master's,Free/Reduced,Not Completed,7.5,0.872,No,No,75.6,68.7,72.9,72.4,1
+1041,Male,Group B,Bachelor's,Free/Reduced,Not Completed,4.5,0.766,Yes,No,54.5,65.0,44.9,54.8,0
+1042,Male,Group E,Associate's,Standard,Not Completed,10.6,0.862,Yes,No,85.6,83.4,72.8,80.6,1
+1043,Female,Group A,High School,Standard,Completed,8.1,0.814,No,Yes,75.8,63.3,77.4,72.2,1
+1044,Male,Group C,Associate's,Standard,Not Completed,7.4,0.921,No,No,65.8,66.3,66.4,66.2,1
+1045,Male,Group D,Associate's,Free/Reduced,Not Completed,3.5,0.926,No,No,69.0,76.9,64.1,70.0,1
+1046,Male,Group D,Associate's,Standard,Not Completed,6.5,0.767,No,No,55.9,43.8,44.4,48.0,0
+1047,Female,Group C,Some College,Free/Reduced,Not Completed,8.3,0.961,Yes,Yes,75.0,83.8,78.3,79.0,1
+1048,Female,Group B,Associate's,Standard,Not Completed,11.3,0.811,No,Yes,75.6,78.8,84.3,79.6,1
+1049,Male,Group C,Some College,Standard,Completed,8.9,1.0,No,Yes,76.9,78.6,84.8,80.1,1
+1050,Female,Group B,Associate's,Standard,Not Completed,10.6,0.896,No,Yes,64.4,70.8,68.8,68.0,1
+1051,Male,Group B,High School,Free/Reduced,Completed,2.6,0.8,No,Yes,40.0,36.8,35.5,37.4,0
+1052,Male,Group C,Bachelor's,Standard,Not Completed,7.3,0.809,No,No,61.6,51.4,65.7,59.6,0
+1053,Male,Group B,High School,Free/Reduced,Not Completed,11.5,0.928,No,No,78.3,82.9,69.3,76.8,1
+1054,Male,Group B,High School,Standard,Not Completed,1.3,0.869,Yes,No,60.1,66.2,63.7,63.3,1
+1055,Male,Group D,Some College,Standard,Not Completed,5.9,0.892,No,Yes,76.6,89.0,78.1,81.2,1
+1056,Female,Group E,Associate's,Standard,Completed,8.4,1.0,Yes,No,83.9,74.4,81.7,80.0,1
+1057,Male,Group C,Some College,Free/Reduced,Completed,12.4,0.844,No,No,75.6,84.7,83.6,81.3,1
+1058,Female,Group A,Some College,Standard,Not Completed,7.1,0.905,No,Yes,61.8,53.9,58.5,58.1,0
+1059,Female,Group A,Associate's,Free/Reduced,Not Completed,6.7,1.0,No,Yes,59.4,73.8,55.7,63.0,1
+1060,Male,Group E,Some College,Free/Reduced,Not Completed,7.9,0.922,No,Yes,60.8,69.2,68.6,66.2,1
+1061,Male,Group B,Master's,Free/Reduced,Completed,8.4,0.771,No,No,64.7,63.6,65.0,64.4,1
+1062,Male,Group A,Master's,Standard,Completed,3.9,0.94,No,Yes,67.1,73.6,69.7,70.1,1
+1063,Male,Group C,Associate's,Free/Reduced,Completed,5.0,0.807,Yes,Yes,67.1,66.2,75.1,69.5,1
+1064,Female,Group C,Some College,Free/Reduced,Not Completed,1.9,1.0,Yes,No,72.9,71.8,63.7,69.5,1
+1065,Female,Group C,Bachelor's,Standard,Not Completed,4.5,0.834,No,Yes,72.6,78.1,73.3,74.7,1
+1066,Male,Group B,High School,Standard,Not Completed,3.3,1.0,No,Yes,73.8,83.5,79.6,79.0,1
+1067,Female,Group A,Some College,Standard,Not Completed,3.9,1.0,Yes,No,84.4,94.9,86.2,88.5,1
+1068,Female,Group E,Some College,Standard,Not Completed,20.0,0.836,No,No,82.9,85.0,81.4,83.1,1
+1069,Female,Group B,Master's,Standard,Not Completed,12.0,0.902,Yes,Yes,89.7,96.6,83.6,90.0,1
+1070,Female,Group D,High School,Standard,Not Completed,3.4,0.96,Yes,No,63.2,62.0,54.6,59.9,0
+1071,Female,Group D,Associate's,Standard,Completed,2.8,0.963,No,Yes,76.0,70.0,70.4,72.1,1
+1072,Female,Group C,Bachelor's,Standard,Completed,4.7,0.935,No,No,83.6,81.0,82.7,82.4,1
+1073,Female,Group B,Some College,Standard,Not Completed,2.8,1.0,No,Yes,75.8,93.0,78.7,82.5,1
+1074,Female,Group B,High School,Standard,Not Completed,7.8,0.89,Yes,Yes,84.9,78.8,75.4,79.7,1
+1075,Male,Group C,Master's,Standard,Not Completed,7.7,0.871,No,Yes,80.9,91.2,79.0,83.7,1
+1076,Female,Group E,Associate's,Standard,Completed,3.8,0.872,Yes,No,58.2,67.5,65.2,63.6,1
+1077,Female,Group E,Associate's,Standard,Completed,9.9,0.969,No,No,85.2,80.2,69.6,78.3,1
+1078,Male,Group A,High School,Standard,Completed,9.9,0.929,No,No,79.0,81.7,79.3,80.0,1
+1079,Female,Group B,Some College,Standard,Completed,4.4,0.923,No,No,79.4,81.6,85.8,82.3,1
+1080,Male,Group E,Some College,Free/Reduced,Not Completed,3.7,0.964,No,No,58.7,56.0,53.3,56.0,0
+1081,Male,Group D,High School,Standard,Not Completed,5.2,0.736,No,Yes,60.6,48.2,52.7,53.8,0
+1082,Female,Group E,High School,Free/Reduced,Not Completed,9.2,0.925,No,No,71.7,75.5,65.9,71.0,1
+1083,Female,Group B,Bachelor's,Standard,Not Completed,19.1,0.917,No,Yes,82.6,80.0,82.9,81.8,1
+1084,Male,Group C,High School,Standard,Completed,9.1,1.0,No,No,93.0,94.3,92.0,93.1,1
+1085,Male,Group D,High School,Standard,Not Completed,3.2,0.778,No,Yes,46.1,48.0,45.8,46.6,0
+1086,Female,Group D,Associate's,Standard,Not Completed,8.1,1.0,Yes,Yes,73.2,69.7,65.5,69.5,1
+1087,Male,Group C,Bachelor's,Free/Reduced,Not Completed,7.2,0.906,No,No,67.5,76.5,74.4,72.8,1
+1088,Female,Group A,High School,Standard,Completed,6.9,0.939,No,Yes,79.1,82.9,87.1,83.0,1
+1089,Male,Group C,Associate's,Standard,Not Completed,2.8,1.0,Yes,Yes,83.7,84.2,74.8,80.9,1
+1090,Female,Group B,High School,Standard,Not Completed,8.1,0.945,Yes,Yes,81.7,85.0,78.7,81.8,1
+1091,Male,Group C,High School,Standard,Not Completed,6.6,0.932,No,Yes,66.4,72.8,63.0,67.4,1
+1092,Male,Group E,High School,Free/Reduced,Not Completed,3.1,0.919,No,No,57.3,49.9,54.8,54.0,0
+1093,Male,Group C,Bachelor's,Free/Reduced,Not Completed,16.4,0.861,Yes,No,68.8,73.9,67.5,70.1,1
+1094,Female,Group D,High School,Standard,Completed,2.9,0.898,Yes,No,52.2,62.6,47.7,54.2,0
+1095,Female,Group B,High School,Standard,Not Completed,8.7,0.843,Yes,Yes,68.8,71.0,69.4,69.7,1
+1096,Female,Group D,Some College,Standard,Completed,6.1,0.896,No,Yes,79.8,87.1,82.0,83.0,1
+1097,Female,Group E,Bachelor's,Free/Reduced,Not Completed,5.4,0.713,No,Yes,63.5,63.5,61.9,63.0,1
+1098,Female,Group A,Some College,Standard,Not Completed,13.2,0.934,No,No,75.1,79.1,79.1,77.8,1
+1099,Male,Group A,Some College,Standard,Completed,11.1,0.89,Yes,Yes,100.0,100.0,85.1,95.0,1
+1100,Female,Group C,High School,Free/Reduced,Not Completed,6.1,0.873,No,Yes,64.3,64.4,57.1,61.9,1
+1101,Female,Group A,Some College,Standard,Not Completed,4.0,0.918,No,No,54.4,67.9,54.1,58.8,0
+1102,Male,Group D,Associate's,Standard,Completed,5.0,0.785,Yes,No,63.4,58.3,65.6,62.4,1
+1103,Male,Group E,Associate's,Free/Reduced,Not Completed,5.6,1.0,No,No,84.6,91.4,76.1,84.0,1
+1104,Male,Group C,Some College,Standard,Completed,11.3,0.892,No,Yes,84.9,87.4,77.0,83.1,1
+1105,Male,Group B,Some College,Standard,Not Completed,8.3,0.888,No,Yes,55.6,70.7,57.7,61.3,1
+1106,Female,Group C,High School,Standard,Not Completed,11.5,0.823,No,No,56.1,56.4,62.7,58.4,0
+1107,Female,Group D,Some College,Standard,Not Completed,2.7,0.902,No,No,71.0,68.7,65.3,68.3,1
+1108,Male,Group A,High School,Standard,Completed,12.0,1.0,No,Yes,71.1,73.4,73.9,72.8,1
+1109,Male,Group C,Bachelor's,Free/Reduced,Not Completed,14.3,0.983,No,Yes,93.0,96.9,99.3,96.4,1
+1110,Female,Group C,Master's,Standard,Completed,4.1,0.968,No,Yes,64.5,56.3,66.3,62.4,1
+1111,Male,Group C,Master's,Free/Reduced,Completed,10.5,0.944,No,Yes,87.7,100.0,99.0,95.6,1
+1112,Female,Group B,Bachelor's,Free/Reduced,Not Completed,13.6,0.871,No,No,81.2,87.5,83.3,84.0,1
+1113,Female,Group D,Associate's,Standard,Not Completed,4.7,0.784,No,Yes,64.1,61.1,63.4,62.9,1
+1114,Male,Group A,Bachelor's,Standard,Not Completed,3.3,0.884,No,No,63.8,65.0,57.9,62.2,1
+1115,Male,Group B,Some College,Standard,Not Completed,7.6,0.881,No,Yes,82.1,74.8,82.7,79.9,1
+1116,Male,Group E,Associate's,Free/Reduced,Not Completed,1.8,0.984,No,No,74.8,74.5,72.3,73.9,1
+1117,Female,Group D,Some College,Free/Reduced,Not Completed,11.9,0.925,No,Yes,60.2,74.0,57.9,64.0,1
+1118,Male,Group A,Some College,Standard,Completed,3.8,1.0,No,No,58.7,60.5,57.8,59.0,0
+1119,Female,Group B,Bachelor's,Free/Reduced,Completed,5.8,0.996,No,Yes,77.7,81.6,75.2,78.2,1
+1120,Female,Group B,Some College,Standard,Completed,9.9,0.863,No,No,81.0,79.3,78.0,79.4,1
+1121,Male,Group B,Some College,Free/Reduced,Completed,9.2,0.756,Yes,No,63.1,67.3,55.3,61.9,1
+1122,Male,Group B,Master's,Standard,Not Completed,9.7,1.0,No,Yes,77.2,87.2,81.6,82.0,1
+1123,Male,Group A,High School,Standard,Completed,4.1,1.0,No,No,73.3,71.2,60.8,68.4,1
+1124,Male,Group C,Some College,Free/Reduced,Completed,8.0,0.791,No,Yes,68.5,67.3,63.1,66.3,1
+1125,Male,Group D,Master's,Standard,Not Completed,10.8,1.0,Yes,Yes,100.0,91.7,93.0,94.9,1
+1126,Male,Group C,Associate's,Standard,Completed,4.6,0.931,No,Yes,88.2,81.0,86.5,85.2,1
+1127,Female,Group D,Associate's,Standard,Not Completed,17.1,0.913,No,Yes,90.1,88.2,83.6,87.3,1
+1128,Female,Group A,High School,Standard,Not Completed,5.9,1.0,No,Yes,68.6,70.0,62.8,67.1,1
+1129,Female,Group E,Some College,Standard,Completed,1.7,1.0,No,Yes,79.2,76.0,72.5,75.9,1
+1130,Female,Group D,Bachelor's,Free/Reduced,Completed,5.9,0.952,Yes,Yes,93.0,81.2,74.6,82.9,1
+1131,Male,Group D,Associate's,Standard,Not Completed,13.5,0.938,No,No,74.0,68.4,61.5,68.0,1
+1132,Female,Group D,Associate's,Standard,Completed,3.7,0.949,Yes,No,83.2,83.8,75.6,80.9,1
+1133,Female,Group E,High School,Free/Reduced,Not Completed,3.5,0.868,No,Yes,62.6,79.0,66.5,69.4,1
+1134,Female,Group C,High School,Standard,Not Completed,8.4,0.896,No,No,63.0,67.2,65.5,65.2,1
+1135,Male,Group B,Master's,Standard,Completed,3.3,0.828,No,Yes,52.5,57.8,60.1,56.8,0
+1136,Female,Group C,Some College,Free/Reduced,Not Completed,3.2,0.873,No,No,55.7,58.9,57.3,57.3,0
+1137,Male,Group D,Associate's,Free/Reduced,Completed,3.9,0.871,No,No,60.7,66.9,51.3,59.6,0
+1138,Female,Group D,High School,Standard,Not Completed,15.5,0.849,No,Yes,79.0,78.5,83.3,80.3,1
+1139,Female,Group C,Associate's,Free/Reduced,Not Completed,8.9,0.911,No,Yes,77.5,68.5,69.2,71.7,1
+1140,Male,Group A,Master's,Standard,Not Completed,6.9,0.874,Yes,Yes,78.7,76.5,78.3,77.8,1
+1141,Male,Group C,Associate's,Free/Reduced,Not Completed,4.1,0.94,No,Yes,59.1,63.7,59.3,60.7,1
+1142,Female,Group E,High School,Standard,Not Completed,10.7,0.77,No,No,59.9,64.9,60.3,61.7,1
+1143,Male,Group C,Associate's,Free/Reduced,Completed,9.4,0.891,No,No,76.6,81.3,72.2,76.7,1
+1144,Male,Group C,Bachelor's,Standard,Not Completed,16.1,0.911,No,No,79.1,75.2,79.4,77.9,1
+1145,Female,Group B,Some College,Free/Reduced,Completed,3.6,0.875,No,Yes,53.3,49.8,51.6,51.6,0
+1146,Male,Group B,Bachelor's,Free/Reduced,Not Completed,3.3,0.886,Yes,No,72.7,77.0,79.6,76.4,1
+1147,Male,Group E,Associate's,Free/Reduced,Not Completed,1.8,0.773,Yes,No,50.5,58.1,47.6,52.1,0
+1148,Male,Group D,Bachelor's,Standard,Not Completed,9.1,0.929,No,Yes,89.2,73.6,68.0,76.9,1
+1149,Male,Group D,Associate's,Standard,Not Completed,7.7,0.952,No,Yes,81.5,74.4,69.5,75.1,1
+1150,Male,Group C,High School,Standard,Not Completed,5.3,0.939,No,No,59.5,65.9,71.2,65.5,1
+1151,Male,Group C,Some College,Free/Reduced,Not Completed,1.7,0.983,Yes,No,45.0,63.5,55.0,54.5,0
+1152,Male,Group B,High School,Standard,Not Completed,14.4,0.916,No,Yes,61.7,65.9,60.7,62.8,1
+1153,Male,Group D,Master's,Free/Reduced,Not Completed,7.5,0.938,No,Yes,73.8,75.9,63.1,70.9,1
+1154,Male,Group C,Bachelor's,Free/Reduced,Not Completed,12.8,0.912,Yes,No,82.0,93.2,83.9,86.4,1
+1155,Male,Group C,Associate's,Standard,Not Completed,13.5,0.955,Yes,No,85.1,80.5,73.9,79.8,1
+1156,Male,Group C,Some College,Free/Reduced,Not Completed,8.9,0.774,No,Yes,55.5,51.2,49.8,52.2,0
+1157,Female,Group E,High School,Standard,Completed,9.7,0.829,Yes,Yes,91.0,87.9,88.8,89.2,1
+1158,Male,Group A,Bachelor's,Standard,Not Completed,4.5,1.0,No,Yes,63.9,52.9,61.3,59.4,0
+1159,Male,Group D,Some College,Standard,Completed,7.1,0.703,No,Yes,53.2,55.6,57.6,55.5,0
+1160,Female,Group B,High School,Standard,Not Completed,11.6,0.889,No,Yes,83.1,84.7,86.5,84.8,1
+1161,Male,Group C,Associate's,Free/Reduced,Completed,4.0,0.994,Yes,No,81.3,83.9,69.0,78.1,1
+1162,Female,Group A,High School,Standard,Not Completed,11.2,0.893,No,No,63.3,65.5,62.4,63.7,1
+1163,Female,Group B,Some College,Standard,Completed,10.8,0.868,No,Yes,95.5,85.5,84.0,88.3,1
+1164,Male,Group C,Some College,Free/Reduced,Not Completed,10.6,0.91,Yes,Yes,77.3,75.3,65.2,72.6,1
+1165,Female,Group A,High School,Free/Reduced,Completed,6.8,0.872,No,Yes,65.0,58.7,60.9,61.5,1
+1166,Male,Group C,Master's,Standard,Completed,4.2,0.902,Yes,No,84.4,91.8,82.4,86.2,1
+1167,Male,Group E,High School,Free/Reduced,Completed,17.0,0.845,No,Yes,75.4,69.1,72.6,72.4,1
+1168,Female,Group A,High School,Standard,Not Completed,13.9,0.989,No,No,68.6,66.6,69.7,68.3,1
+1169,Female,Group D,High School,Standard,Not Completed,6.9,1.0,No,Yes,70.5,75.2,65.3,70.3,1
+1170,Female,Group C,Bachelor's,Standard,Not Completed,7.7,0.889,Yes,No,64.7,74.2,72.9,70.6,1
+1171,Male,Group D,Some College,Standard,Not Completed,5.7,0.789,No,Yes,64.0,52.2,46.7,54.3,0
+1172,Male,Group B,Associate's,Free/Reduced,Completed,1.8,0.858,No,Yes,66.6,71.4,63.8,67.3,1
+1173,Male,Group B,High School,Standard,Not Completed,6.3,0.885,No,No,79.0,67.4,59.3,68.6,1
+1174,Female,Group B,High School,Free/Reduced,Not Completed,8.9,0.94,Yes,No,91.0,79.1,73.5,81.2,1
+1175,Male,Group A,Some College,Standard,Not Completed,4.7,0.819,No,Yes,59.8,59.0,57.6,58.8,0
+1176,Male,Group B,Bachelor's,Standard,Not Completed,5.5,0.838,No,Yes,70.8,75.4,63.1,69.8,1
+1177,Male,Group D,Bachelor's,Free/Reduced,Not Completed,5.5,0.941,No,No,67.8,76.8,64.4,69.7,1
+1178,Female,Group E,High School,Free/Reduced,Completed,7.2,0.975,Yes,No,83.5,80.7,89.9,84.7,1
+1179,Male,Group D,Associate's,Standard,Not Completed,5.8,0.85,No,No,61.8,60.6,52.9,58.4,0
+1180,Male,Group D,Master's,Standard,Not Completed,3.8,0.793,No,Yes,59.0,60.4,63.6,61.0,1
+1181,Male,Group A,Some College,Standard,Not Completed,7.2,1.0,Yes,No,91.0,83.8,80.5,85.1,1
+1182,Female,Group B,Bachelor's,Standard,Not Completed,8.7,0.963,Yes,No,65.3,80.4,65.8,70.5,1
+1183,Male,Group B,High School,Free/Reduced,Not Completed,7.6,0.879,No,Yes,52.8,62.4,59.3,58.2,0
+1184,Male,Group B,Master's,Free/Reduced,Completed,1.7,0.97,Yes,Yes,58.3,56.8,65.1,60.1,1
+1185,Female,Group C,Bachelor's,Standard,Completed,9.6,0.89,No,No,74.8,70.3,64.0,69.7,1
+1186,Male,Group C,Master's,Free/Reduced,Completed,3.1,0.969,No,Yes,72.4,71.9,66.1,70.1,1
+1187,Male,Group B,Associate's,Standard,Completed,8.6,0.913,No,Yes,82.7,95.7,90.5,89.6,1
+1188,Female,Group B,Some College,Standard,Not Completed,8.8,0.907,No,Yes,79.2,84.4,75.8,79.8,1
+1189,Female,Group D,Master's,Standard,Completed,2.3,0.891,Yes,No,69.5,75.5,80.0,75.0,1
+1190,Male,Group D,Some College,Standard,Completed,11.0,0.784,No,Yes,73.5,75.0,79.3,75.9,1
+1191,Female,Group B,Some College,Standard,Completed,16.9,1.0,No,No,99.0,96.3,100.0,98.4,1
+1192,Male,Group E,Bachelor's,Standard,Not Completed,5.6,0.825,No,No,61.7,67.7,64.4,64.6,1
+1193,Female,Group E,Bachelor's,Standard,Completed,8.6,0.791,No,No,67.5,76.6,63.2,69.1,1
+1194,Male,Group B,Master's,Standard,Completed,5.0,0.883,No,Yes,77.7,81.0,76.9,78.5,1
+1195,Female,Group B,High School,Free/Reduced,Completed,3.1,0.823,No,Yes,65.0,50.2,54.4,56.5,0
+1196,Male,Group C,Bachelor's,Standard,Not Completed,11.6,0.896,No,Yes,66.7,66.3,71.2,68.1,1
+1197,Male,Group E,Bachelor's,Standard,Completed,8.7,0.955,Yes,No,91.4,90.9,92.2,91.5,1
+1198,Male,Group E,High School,Free/Reduced,Completed,4.3,0.98,No,Yes,76.2,68.0,73.0,72.4,1
+1199,Male,Group A,Some College,Free/Reduced,Completed,3.2,0.965,No,Yes,71.7,72.2,75.9,73.3,1
+1200,Female,Group C,Some College,Free/Reduced,Not Completed,17.4,0.876,No,No,84.9,81.2,78.5,81.5,1
+1201,Male,Group C,Some College,Standard,Completed,2.6,0.904,No,Yes,76.7,79.4,75.5,77.2,1
+1202,Female,Group C,Master's,Standard,Not Completed,9.4,0.933,Yes,No,72.0,91.2,77.7,80.3,1
+1203,Female,Group B,Associate's,Standard,Not Completed,7.4,0.759,Yes,Yes,73.7,72.4,64.0,70.0,1
+1204,Female,Group E,Bachelor's,Standard,Not Completed,10.3,0.946,No,No,80.5,68.2,79.2,76.0,1
+1205,Female,Group D,Master's,Free/Reduced,Completed,14.9,0.783,No,Yes,81.0,72.9,82.3,78.7,1
+1206,Male,Group D,Some College,Standard,Not Completed,0.8,1.0,No,Yes,66.2,77.0,65.0,69.4,1
+1207,Male,Group E,Bachelor's,Standard,Not Completed,3.4,0.868,No,Yes,45.8,51.9,45.3,47.7,0
+1208,Female,Group D,Some College,Standard,Completed,6.2,0.885,No,No,75.7,85.0,77.8,79.5,1
+1209,Female,Group C,Bachelor's,Standard,Completed,15.6,0.838,Yes,No,81.9,88.3,80.7,83.6,1
+1210,Male,Group C,High School,Free/Reduced,Not Completed,5.2,0.85,Yes,No,62.4,56.0,48.6,55.7,0
+1211,Female,Group B,Master's,Standard,Completed,4.6,1.0,No,Yes,86.5,89.8,87.9,88.1,1
+1212,Female,Group D,High School,Standard,Completed,1.2,0.975,Yes,Yes,60.5,61.4,67.6,63.2,1
+1213,Female,Group B,Some College,Standard,Not Completed,4.3,0.776,Yes,No,57.4,57.1,43.5,52.7,0
+1214,Male,Group D,Bachelor's,Standard,Not Completed,9.2,1.0,Yes,No,82.0,86.8,77.3,82.0,1
+1215,Male,Group B,Some College,Standard,Not Completed,6.2,0.995,Yes,Yes,58.3,76.6,76.3,70.4,1
+1216,Female,Group A,Associate's,Standard,Not Completed,4.2,0.878,No,Yes,54.4,59.5,60.6,58.2,0
+1217,Female,Group B,Some College,Standard,Not Completed,17.5,0.925,No,No,88.0,96.9,95.6,93.5,1
+1218,Male,Group A,Bachelor's,Free/Reduced,Completed,5.6,0.899,Yes,No,94.1,100.0,99.9,98.0,1
+1219,Male,Group D,High School,Free/Reduced,Completed,7.2,1.0,Yes,No,60.2,58.1,60.8,59.7,0
+1220,Female,Group D,High School,Free/Reduced,Not Completed,4.0,0.836,Yes,Yes,61.8,72.6,67.3,67.2,1
+1221,Male,Group C,Some College,Free/Reduced,Not Completed,3.1,0.912,No,Yes,55.2,61.7,61.4,59.4,0
+1222,Female,Group B,Some College,Standard,Not Completed,9.9,0.866,No,Yes,71.6,71.9,72.4,72.0,1
+1223,Female,Group A,High School,Standard,Not Completed,2.0,0.785,No,Yes,51.0,51.2,38.4,46.9,0
+1224,Male,Group A,Some College,Standard,Not Completed,8.8,1.0,No,Yes,80.5,80.6,77.0,79.4,1
+1225,Female,Group B,Some College,Free/Reduced,Completed,0.6,0.805,No,No,53.2,44.6,48.0,48.6,0
+1226,Male,Group E,High School,Free/Reduced,Completed,8.1,0.918,No,No,59.0,62.3,66.5,62.6,1
+1227,Female,Group B,Associate's,Free/Reduced,Not Completed,3.3,0.761,No,Yes,48.6,45.6,39.7,44.6,0
+1228,Female,Group B,Bachelor's,Standard,Completed,3.7,0.868,No,No,75.1,85.2,73.4,77.9,1
+1229,Male,Group A,High School,Free/Reduced,Not Completed,5.6,0.934,No,No,47.7,56.5,49.3,51.2,0
+1230,Female,Group B,Associate's,Standard,Completed,2.9,0.834,No,Yes,54.6,65.5,58.7,59.6,0
+1231,Male,Group C,Associate's,Standard,Not Completed,1.6,0.947,No,No,59.7,44.8,49.2,51.2,0
+1232,Female,Group C,Some College,Standard,Not Completed,6.0,0.878,No,Yes,63.2,68.6,65.0,65.6,1
+1233,Female,Group B,Bachelor's,Standard,Completed,10.2,0.993,Yes,Yes,89.6,91.7,90.2,90.5,1
+1234,Female,Group A,Some College,Standard,Not Completed,7.6,1.0,No,Yes,76.5,76.3,84.5,79.1,1
+1235,Male,Group C,Associate's,Standard,Completed,12.4,0.853,No,No,96.1,86.2,89.0,90.4,1
+1236,Female,Group B,High School,Standard,Not Completed,1.8,0.906,Yes,No,74.8,78.2,79.5,77.5,1
+1237,Male,Group B,Associate's,Standard,Not Completed,5.2,0.915,No,No,47.3,44.7,38.4,43.5,0
+1238,Female,Group E,Associate's,Free/Reduced,Not Completed,6.8,0.95,Yes,No,74.0,77.5,75.2,75.6,1
+1239,Male,Group C,High School,Free/Reduced,Not Completed,3.8,0.901,No,Yes,50.3,63.2,55.6,56.4,0
+1240,Female,Group C,Some College,Standard,Completed,7.0,0.915,Yes,No,87.3,88.5,81.9,85.9,1
+1241,Male,Group C,Master's,Free/Reduced,Not Completed,12.0,0.881,No,No,62.2,65.7,61.4,63.1,1
+1242,Male,Group C,Some College,Free/Reduced,Completed,8.9,0.909,Yes,Yes,64.8,68.5,63.2,65.5,1
+1243,Male,Group C,Associate's,Standard,Completed,12.9,1.0,Yes,Yes,95.3,97.2,90.2,94.2,1
+1244,Male,Group D,Master's,Standard,Completed,7.9,0.952,No,Yes,90.0,96.7,95.1,93.9,1
+1245,Male,Group D,Bachelor's,Standard,Not Completed,6.3,0.956,No,No,84.3,83.9,71.6,79.9,1
+1246,Male,Group B,Associate's,Standard,Completed,15.0,0.958,No,Yes,100.0,96.0,87.0,94.3,1
+1247,Female,Group C,Bachelor's,Free/Reduced,Not Completed,7.2,0.888,No,Yes,68.9,77.0,65.8,70.6,1
+1248,Female,Group C,Bachelor's,Free/Reduced,Not Completed,16.8,0.926,No,No,79.0,88.6,76.9,81.5,1
+1249,Male,Group E,Some College,Standard,Not Completed,11.1,0.813,Yes,No,71.1,76.6,71.7,73.1,1
+1250,Male,Group C,Some College,Free/Reduced,Not Completed,4.3,1.0,No,No,65.0,77.8,75.4,72.7,1
+1251,Male,Group C,Some College,Free/Reduced,Not Completed,5.9,0.677,No,Yes,29.3,35.0,26.3,30.2,0
+1252,Female,Group A,Master's,Free/Reduced,Not Completed,14.9,0.893,Yes,No,96.6,100.0,90.4,95.7,1
+1253,Female,Group C,Associate's,Standard,Not Completed,12.4,0.991,No,Yes,67.6,66.8,64.4,66.3,1
+1254,Female,Group A,High School,Free/Reduced,Not Completed,10.1,0.791,No,Yes,37.9,49.7,47.7,45.1,0
+1255,Male,Group B,Bachelor's,Standard,Completed,9.5,0.932,Yes,Yes,83.3,86.2,91.0,86.8,1
+1256,Female,Group A,Some College,Standard,Not Completed,2.7,0.846,Yes,No,65.0,67.3,65.4,65.9,1
+1257,Female,Group D,High School,Standard,Not Completed,3.2,0.87,No,No,39.4,27.4,31.1,32.6,0
+1258,Female,Group B,Associate's,Standard,Not Completed,7.7,0.976,Yes,No,73.8,76.8,77.6,76.1,1
+1259,Female,Group C,Some College,Free/Reduced,Completed,3.8,0.916,No,No,73.9,70.0,72.2,72.0,1
+1260,Male,Group E,Bachelor's,Standard,Not Completed,5.6,0.737,No,Yes,67.8,67.9,65.5,67.1,1
+1261,Female,Group B,High School,Standard,Not Completed,5.4,0.822,No,No,57.0,61.6,48.0,55.5,0
+1262,Male,Group C,Bachelor's,Standard,Not Completed,9.3,0.978,No,No,80.3,78.6,67.1,75.3,1
+1263,Female,Group C,Associate's,Free/Reduced,Completed,7.8,0.936,No,No,70.5,73.1,66.0,69.9,1
+1264,Female,Group A,High School,Standard,Not Completed,11.8,1.0,No,No,70.4,76.6,75.8,74.3,1
+1265,Female,Group D,Master's,Free/Reduced,Completed,7.9,1.0,Yes,Yes,72.3,91.5,84.8,82.9,1
+1266,Female,Group A,Associate's,Standard,Not Completed,7.6,0.873,No,Yes,62.4,60.2,57.8,60.1,1
+1267,Female,Group C,Some College,Standard,Not Completed,6.7,1.0,Yes,Yes,83.8,82.1,86.7,84.2,1
+1268,Female,Group C,Some College,Standard,Not Completed,12.8,0.902,No,No,67.9,77.3,74.7,73.3,1
+1269,Male,Group C,Bachelor's,Standard,Not Completed,6.7,0.823,Yes,Yes,69.9,83.7,68.3,74.0,1
+1270,Female,Group D,Some College,Standard,Not Completed,4.2,0.849,No,Yes,63.4,70.9,52.9,62.4,1
+1271,Male,Group B,High School,Standard,Not Completed,9.8,0.719,No,No,64.2,66.9,67.6,66.2,1
+1272,Male,Group A,High School,Free/Reduced,Not Completed,6.2,1.0,No,No,67.1,80.3,69.2,72.2,1
+1273,Male,Group D,Some College,Standard,Completed,11.0,1.0,Yes,Yes,73.0,78.8,68.8,73.5,1
+1274,Female,Group C,Bachelor's,Standard,Not Completed,13.6,0.819,Yes,Yes,64.8,75.1,61.7,67.2,1
+1275,Female,Group D,Some College,Standard,Completed,5.9,0.882,No,Yes,76.1,77.1,66.2,73.1,1
+1276,Female,Group D,High School,Free/Reduced,Not Completed,13.3,0.908,No,No,62.1,73.0,69.6,68.2,1
+1277,Female,Group D,High School,Standard,Not Completed,11.2,0.823,No,No,62.3,57.9,55.1,58.4,0
+1278,Male,Group C,Some College,Standard,Not Completed,4.7,0.76,Yes,Yes,67.8,75.0,61.7,68.2,1
+1279,Female,Group B,Master's,Free/Reduced,Not Completed,3.9,0.883,Yes,Yes,93.3,87.9,83.2,88.1,1
+1280,Female,Group D,Some College,Standard,Not Completed,3.6,0.874,Yes,Yes,63.7,68.0,72.8,68.2,1
+1281,Male,Group C,Master's,Standard,Not Completed,3.1,0.869,Yes,Yes,74.1,80.3,65.9,73.4,1
+1282,Male,Group B,Some College,Standard,Completed,12.6,0.918,Yes,No,85.3,95.3,89.5,90.0,1
+1283,Male,Group E,High School,Standard,Completed,5.9,1.0,No,Yes,50.6,64.2,65.3,60.0,1
+1284,Female,Group E,Bachelor's,Standard,Not Completed,16.2,0.876,Yes,Yes,90.8,93.1,89.3,91.1,1
+1285,Female,Group C,Some College,Standard,Completed,4.4,0.914,Yes,Yes,74.9,82.0,83.8,80.2,1
+1286,Female,Group A,Bachelor's,Standard,Completed,4.9,0.958,Yes,No,78.1,83.1,75.0,78.7,1
+1287,Female,Group C,Master's,Standard,Not Completed,9.0,0.944,No,No,75.6,79.3,69.7,74.9,1
+1288,Female,Group D,High School,Standard,Completed,15.7,0.851,No,Yes,81.2,74.7,73.8,76.6,1
+1289,Female,Group E,High School,Free/Reduced,Not Completed,4.8,0.908,No,Yes,53.9,61.5,51.9,55.8,0
+1290,Female,Group B,Bachelor's,Free/Reduced,Not Completed,10.5,0.944,No,Yes,60.1,65.9,61.6,62.5,1
+1291,Female,Group A,Some College,Free/Reduced,Not Completed,6.7,0.81,No,Yes,76.6,81.2,77.0,78.3,1
+1292,Female,Group E,High School,Standard,Not Completed,9.1,1.0,No,Yes,75.7,76.1,67.7,73.2,1
+1293,Male,Group C,High School,Standard,Not Completed,4.0,1.0,No,Yes,53.7,57.2,57.5,56.1,0
+1294,Male,Group C,High School,Standard,Not Completed,9.9,0.842,No,No,59.6,76.7,63.4,66.6,1
+1295,Male,Group E,Bachelor's,Standard,Completed,5.7,0.915,No,No,82.5,92.6,86.3,87.1,1
+1296,Female,Group A,High School,Free/Reduced,Completed,5.0,0.951,No,No,70.1,72.8,64.9,69.3,1
+1297,Female,Group C,Some College,Standard,Completed,6.5,0.856,Yes,Yes,85.4,84.5,75.8,81.9,1
+1298,Female,Group A,Associate's,Standard,Completed,9.4,0.939,Yes,No,72.9,86.0,74.0,77.6,1
+1299,Male,Group C,Some College,Standard,Completed,6.0,0.913,No,Yes,77.5,82.0,76.9,78.8,1
+1300,Male,Group D,High School,Standard,Not Completed,5.1,0.783,Yes,Yes,75.8,67.1,57.5,66.8,1
+1301,Female,Group C,Bachelor's,Standard,Not Completed,6.2,0.937,Yes,Yes,85.8,90.6,83.8,86.7,1
+1302,Male,Group E,High School,Standard,Not Completed,6.1,0.812,No,Yes,61.8,60.6,51.6,58.0,0
+1303,Female,Group C,Bachelor's,Standard,Completed,8.9,0.975,No,No,88.7,96.5,84.3,89.8,1
+1304,Male,Group B,Bachelor's,Free/Reduced,Not Completed,5.3,0.846,No,Yes,58.1,63.8,59.9,60.6,1
+1305,Male,Group B,Some College,Standard,Completed,5.2,0.887,No,No,71.4,66.4,66.7,68.2,1
+1306,Male,Group B,Associate's,Free/Reduced,Not Completed,4.0,1.0,Yes,No,84.5,84.7,79.7,83.0,1
+1307,Male,Group C,Some College,Free/Reduced,Not Completed,9.3,0.94,No,No,89.7,78.8,91.3,86.6,1
+1308,Male,Group A,Some College,Standard,Completed,7.2,0.814,No,No,57.9,52.6,50.3,53.6,0
+1309,Female,Group B,Bachelor's,Free/Reduced,Not Completed,12.8,0.819,Yes,No,76.5,83.7,81.6,80.6,1
+1310,Male,Group C,Bachelor's,Standard,Not Completed,11.9,0.852,No,Yes,73.3,74.0,70.6,72.6,1
+1311,Female,Group D,Some College,Free/Reduced,Not Completed,7.7,0.932,Yes,No,67.7,67.6,68.3,67.9,1
+1312,Male,Group D,Associate's,Standard,Not Completed,6.3,0.929,No,Yes,73.3,69.3,71.7,71.4,1
+1313,Male,Group D,Master's,Standard,Completed,6.7,0.833,No,No,79.9,87.4,75.9,81.1,1
+1314,Male,Group A,Master's,Standard,Not Completed,4.5,0.807,No,No,71.4,77.3,69.3,72.7,1
+1315,Female,Group B,Associate's,Standard,Not Completed,4.0,0.923,No,Yes,62.1,66.0,64.7,64.3,1
+1316,Male,Group D,Some College,Free/Reduced,Not Completed,3.7,0.885,No,Yes,59.2,64.2,50.1,57.8,0
+1317,Male,Group C,Some College,Standard,Completed,6.0,1.0,No,Yes,75.6,78.5,84.1,79.4,1
+1318,Male,Group A,Master's,Free/Reduced,Not Completed,0.9,0.903,No,Yes,61.8,62.5,67.2,63.8,1
+1319,Female,Group D,High School,Standard,Completed,15.4,1.0,No,Yes,93.0,100.0,100.0,97.7,1
+1320,Female,Group D,Associate's,Free/Reduced,Completed,17.9,0.806,No,Yes,50.5,59.3,56.7,55.5,0
+1321,Female,Group C,Some College,Standard,Not Completed,3.4,0.774,Yes,Yes,75.0,63.5,68.7,69.1,1
+1322,Female,Group A,Some College,Standard,Completed,17.7,0.81,No,Yes,72.6,66.6,74.3,71.2,1
+1323,Male,Group D,Some College,Standard,Not Completed,3.5,0.995,No,No,77.5,79.2,78.4,78.4,1
+1324,Female,Group C,Master's,Free/Reduced,Not Completed,6.7,1.0,No,Yes,68.3,71.9,70.6,70.3,1
+1325,Male,Group D,High School,Standard,Not Completed,8.4,0.837,No,No,38.0,54.4,47.0,46.5,0
+1326,Female,Group D,Associate's,Standard,Completed,7.1,0.863,No,No,75.4,76.6,77.0,76.3,1
+1327,Female,Group D,High School,Standard,Completed,4.8,0.806,No,Yes,68.6,72.1,61.5,67.4,1
+1328,Male,Group C,High School,Free/Reduced,Not Completed,4.6,0.755,Yes,No,50.0,51.5,47.2,49.6,0
+1329,Male,Group A,Some College,Standard,Not Completed,10.6,0.957,No,No,68.4,66.3,60.0,64.9,1
+1330,Female,Group D,Associate's,Standard,Completed,13.0,0.918,No,No,83.8,82.6,84.8,83.7,1
+1331,Male,Group C,Some College,Standard,Completed,1.9,0.901,No,Yes,63.9,56.5,52.2,57.5,0
+1332,Male,Group D,Some College,Free/Reduced,Completed,7.7,0.788,Yes,No,58.7,60.7,58.0,59.1,0
+1333,Female,Group B,High School,Free/Reduced,Not Completed,9.4,1.0,No,No,75.6,65.1,72.2,71.0,1
+1334,Male,Group B,Some College,Standard,Completed,7.4,0.86,No,Yes,62.1,61.2,59.5,60.9,1
+1335,Male,Group E,Master's,Standard,Not Completed,2.6,0.943,No,Yes,70.9,81.7,77.6,76.7,1
+1336,Male,Group D,Master's,Standard,Not Completed,9.0,0.784,No,No,77.6,86.1,84.4,82.7,1
+1337,Female,Group E,Some College,Standard,Not Completed,12.0,0.885,No,No,66.2,81.7,69.1,72.3,1
+1338,Male,Group D,Associate's,Standard,Completed,4.0,0.923,Yes,No,82.4,79.6,83.9,82.0,1
+1339,Female,Group C,Master's,Free/Reduced,Not Completed,4.7,0.926,No,No,82.1,86.0,85.2,84.4,1
+1340,Female,Group D,High School,Standard,Not Completed,7.5,0.912,No,No,50.8,56.0,60.5,55.8,0
+1341,Female,Group E,Bachelor's,Free/Reduced,Completed,6.4,0.94,Yes,No,94.3,91.1,98.7,94.7,1
+1342,Female,Group C,Master's,Standard,Not Completed,4.7,0.81,No,Yes,76.9,74.0,73.0,74.6,1
+1343,Male,Group C,High School,Free/Reduced,Completed,3.0,0.916,No,Yes,74.0,72.5,71.4,72.6,1
+1344,Male,Group B,High School,Standard,Completed,5.0,0.909,No,Yes,81.4,81.0,74.7,79.0,1
+1345,Male,Group C,Master's,Standard,Not Completed,1.4,0.919,No,No,67.4,70.6,65.0,67.7,1
+1346,Female,Group D,Associate's,Standard,Completed,9.5,0.906,No,No,74.9,82.8,72.6,76.8,1
+1347,Female,Group B,High School,Standard,Completed,4.3,0.798,No,Yes,70.4,81.2,61.9,71.2,1
+1348,Female,Group B,Some College,Standard,Completed,10.4,0.795,Yes,No,81.2,93.6,80.1,85.0,1
+1349,Male,Group B,Some College,Free/Reduced,Completed,5.8,0.723,Yes,Yes,65.7,76.0,73.2,71.6,1
+1350,Female,Group B,Associate's,Free/Reduced,Completed,7.3,0.965,Yes,Yes,77.9,87.1,77.7,80.9,1
+1351,Male,Group B,Bachelor's,Standard,Not Completed,2.2,0.966,No,Yes,74.3,75.4,66.7,72.1,1
+1352,Male,Group C,Master's,Standard,Not Completed,9.9,0.967,No,No,82.4,90.3,84.9,85.9,1
+1353,Female,Group E,Some College,Standard,Completed,23.7,0.925,No,No,100.0,100.0,100.0,100.0,1
+1354,Male,Group C,Associate's,Standard,Not Completed,5.3,0.729,No,Yes,62.5,68.8,66.5,65.9,1
+1355,Female,Group B,Associate's,Standard,Not Completed,7.2,0.818,Yes,Yes,70.4,71.1,70.6,70.7,1
+1356,Male,Group A,Some College,Free/Reduced,Completed,7.7,0.914,No,No,78.4,70.9,74.9,74.7,1
+1357,Male,Group D,High School,Free/Reduced,Completed,2.8,0.911,Yes,Yes,61.1,56.9,56.9,58.3,0
+1358,Female,Group C,Master's,Free/Reduced,Not Completed,3.3,0.882,No,No,75.0,80.6,77.9,77.8,1
+1359,Female,Group D,Bachelor's,Standard,Completed,9.1,0.93,No,No,83.7,69.7,79.2,77.5,1
+1360,Male,Group D,Some College,Free/Reduced,Completed,4.0,0.901,No,Yes,73.9,67.8,72.1,71.3,1
+1361,Male,Group D,Associate's,Free/Reduced,Not Completed,5.8,0.91,No,Yes,63.5,56.0,55.0,58.2,0
+1362,Female,Group B,High School,Standard,Completed,7.3,0.849,Yes,Yes,73.1,84.9,82.9,80.3,1
+1363,Male,Group D,Associate's,Standard,Not Completed,9.3,0.979,Yes,No,86.1,79.6,80.0,81.9,1
+1364,Male,Group B,Associate's,Free/Reduced,Not Completed,6.0,0.866,No,No,56.9,56.8,50.9,54.9,0
+1365,Male,Group E,Associate's,Standard,Not Completed,6.1,0.794,No,Yes,62.4,74.8,73.2,70.1,1
+1366,Female,Group C,Master's,Standard,Not Completed,21.6,0.838,No,No,88.6,88.0,94.0,90.2,1
+1367,Male,Group B,Associate's,Standard,Not Completed,11.3,0.872,No,No,71.6,85.7,73.4,76.9,1
+1368,Male,Group B,Some College,Standard,Completed,5.4,0.98,No,Yes,70.8,73.1,69.8,71.2,1
+1369,Female,Group B,Bachelor's,Standard,Completed,6.1,0.897,Yes,No,58.5,66.4,73.2,66.0,1
+1370,Female,Group D,High School,Free/Reduced,Not Completed,17.1,0.885,No,Yes,72.3,70.7,66.1,69.7,1
+1371,Male,Group B,Some College,Free/Reduced,Completed,9.3,0.8,No,No,62.0,67.0,65.5,64.8,1
+1372,Female,Group C,Some College,Standard,Not Completed,12.2,0.963,Yes,Yes,100.0,89.6,97.1,95.6,1
+1373,Male,Group B,Some College,Standard,Not Completed,5.3,0.848,No,Yes,73.0,67.0,66.8,68.9,1
+1374,Female,Group D,Bachelor's,Standard,Completed,4.9,0.892,No,No,90.6,98.2,89.0,92.6,1
+1375,Female,Group D,Some College,Standard,Not Completed,14.8,1.0,No,No,93.5,93.8,96.7,94.7,1
+1376,Male,Group D,Bachelor's,Standard,Not Completed,6.4,0.941,No,No,64.3,76.2,64.2,68.2,1
+1377,Female,Group D,Associate's,Standard,Completed,6.4,0.77,No,No,68.1,65.1,66.1,66.4,1
+1378,Female,Group B,Some College,Standard,Not Completed,5.1,0.758,No,Yes,52.5,54.8,58.0,55.1,0
+1379,Female,Group A,Bachelor's,Standard,Completed,11.9,0.895,Yes,Yes,77.6,87.8,81.6,82.3,1
+1380,Male,Group D,High School,Standard,Not Completed,7.5,0.803,Yes,Yes,41.6,40.7,49.0,43.8,0
+1381,Female,Group B,High School,Standard,Not Completed,3.2,0.952,Yes,Yes,62.4,61.8,67.2,63.8,1
+1382,Female,Group C,Associate's,Standard,Not Completed,4.7,0.903,No,No,65.1,58.5,53.6,59.1,0
+1383,Male,Group A,Some College,Free/Reduced,Not Completed,13.3,0.913,Yes,No,87.9,75.2,79.2,80.8,1
+1384,Female,Group B,High School,Standard,Not Completed,7.6,0.843,No,Yes,79.4,85.4,74.0,79.6,1
+1385,Male,Group A,Associate's,Free/Reduced,Not Completed,12.0,1.0,No,Yes,74.3,67.5,79.2,73.7,1
+1386,Female,Group E,Associate's,Standard,Completed,8.4,1.0,No,Yes,83.3,89.8,87.1,86.7,1
+1387,Male,Group B,Some College,Standard,Completed,3.5,0.878,No,No,70.3,70.1,69.3,69.9,1
+1388,Female,Group C,Master's,Free/Reduced,Not Completed,9.0,0.928,No,Yes,84.5,77.9,85.1,82.5,1
+1389,Male,Group A,Associate's,Standard,Not Completed,6.5,0.908,No,No,80.6,67.9,71.1,73.2,1
+1390,Female,Group D,Bachelor's,Standard,Not Completed,4.8,0.879,Yes,Yes,65.6,81.6,65.5,70.9,1
+1391,Female,Group B,High School,Standard,Completed,5.1,0.833,No,Yes,61.9,57.6,66.8,62.1,1
+1392,Female,Group E,Associate's,Standard,Completed,11.8,0.813,Yes,No,71.7,75.3,75.4,74.1,1
+1393,Female,Group E,Bachelor's,Free/Reduced,Not Completed,7.7,0.809,No,Yes,68.2,63.7,60.5,64.1,1
+1394,Female,Group B,Associate's,Standard,Completed,7.4,0.932,No,Yes,70.1,74.1,60.5,68.2,1
+1395,Female,Group E,Bachelor's,Standard,Not Completed,15.7,0.858,No,Yes,82.1,92.7,89.1,88.0,1
+1396,Male,Group E,Some College,Standard,Not Completed,4.3,0.694,No,Yes,42.3,42.7,28.2,37.7,0
+1397,Female,Group D,High School,Standard,Not Completed,6.3,0.936,No,No,76.7,82.4,72.5,77.2,1
+1398,Female,Group D,Some College,Free/Reduced,Not Completed,4.6,0.897,No,Yes,56.3,59.7,56.8,57.6,0
+1399,Male,Group B,Some College,Free/Reduced,Not Completed,8.9,1.0,No,No,66.2,64.8,54.8,61.9,1
+1400,Male,Group C,Bachelor's,Standard,Not Completed,7.5,0.93,No,No,79.9,81.8,79.5,80.4,1
+1401,Female,Group A,High School,Standard,Completed,5.4,0.782,Yes,No,79.9,78.7,72.9,77.2,1
+1402,Female,Group A,Master's,Free/Reduced,Not Completed,5.8,0.722,No,Yes,47.7,54.9,48.4,50.3,0
+1403,Female,Group E,Master's,Standard,Not Completed,11.1,0.842,No,No,81.0,83.7,86.3,83.7,1
+1404,Male,Group B,High School,Standard,Not Completed,12.8,0.85,Yes,No,55.0,61.4,58.5,58.3,0
+1405,Male,Group D,Some College,Standard,Not Completed,4.7,0.975,No,No,44.7,61.5,55.6,53.9,0
+1406,Female,Group D,Bachelor's,Standard,Not Completed,24.2,0.899,Yes,Yes,100.0,100.0,100.0,100.0,1
+1407,Male,Group E,Master's,Free/Reduced,Not Completed,2.7,0.991,Yes,Yes,70.1,69.2,76.8,72.0,1
+1408,Male,Group E,Some College,Free/Reduced,Not Completed,3.4,0.794,Yes,No,46.9,51.7,40.2,46.3,0
+1409,Male,Group B,Some College,Standard,Not Completed,5.6,0.977,No,Yes,60.8,63.0,53.7,59.2,0
+1410,Male,Group A,Associate's,Standard,Not Completed,4.2,0.958,No,No,57.4,68.5,63.0,63.0,1
+1411,Female,Group C,Associate's,Standard,Not Completed,3.8,0.739,No,Yes,58.0,56.8,48.9,54.6,0
+1412,Female,Group A,Some College,Standard,Completed,12.6,1.0,No,Yes,75.8,79.4,81.0,78.7,1
+1413,Female,Group A,Bachelor's,Standard,Completed,9.0,0.907,No,Yes,72.7,91.3,89.4,84.5,1
+1414,Female,Group B,High School,Free/Reduced,Not Completed,7.1,0.931,No,No,59.7,64.8,59.9,61.5,1
+1415,Male,Group D,High School,Standard,Not Completed,4.8,0.831,Yes,Yes,65.7,81.6,72.0,73.1,1
+1416,Male,Group C,Some College,Standard,Not Completed,3.5,1.0,No,Yes,64.9,73.0,73.5,70.5,1
+1417,Female,Group B,Some College,Standard,Not Completed,3.4,0.805,Yes,Yes,68.3,70.9,66.9,68.7,1
+1418,Female,Group D,Some College,Standard,Not Completed,12.6,0.967,Yes,Yes,97.1,85.9,87.1,90.0,1
+1419,Female,Group B,Some College,Standard,Not Completed,12.3,0.966,No,No,78.8,74.3,73.5,75.5,1
+1420,Male,Group A,Some College,Free/Reduced,Not Completed,5.7,0.822,No,Yes,52.2,42.3,45.8,46.8,0
+1421,Female,Group D,High School,Standard,Completed,2.6,1.0,No,No,86.7,80.7,80.9,82.8,1
+1422,Female,Group C,Some College,Free/Reduced,Not Completed,9.5,0.919,Yes,Yes,62.9,77.9,74.0,71.6,1
+1423,Female,Group D,Master's,Standard,Not Completed,5.7,0.952,No,No,79.9,76.6,89.6,82.0,1
+1424,Female,Group A,Some College,Standard,Not Completed,11.4,0.778,No,Yes,57.8,66.7,53.5,59.3,0
+1425,Male,Group D,Some College,Standard,Completed,3.3,1.0,No,No,66.1,67.6,73.8,69.2,1
+1426,Male,Group C,Associate's,Standard,Completed,7.0,0.802,Yes,No,84.3,87.9,86.4,86.2,1
+1427,Female,Group C,Master's,Standard,Not Completed,3.1,0.982,Yes,No,79.2,96.4,89.3,88.3,1
+1428,Male,Group C,High School,Standard,Completed,4.2,0.82,No,No,59.7,75.5,64.2,66.5,1
+1429,Male,Group E,Associate's,Free/Reduced,Not Completed,4.2,0.85,No,Yes,68.0,65.1,72.2,68.4,1
+1430,Male,Group C,Bachelor's,Free/Reduced,Completed,5.7,0.963,No,Yes,83.7,72.6,69.3,75.2,1
+1431,Female,Group C,Associate's,Standard,Completed,13.2,0.982,No,Yes,90.3,94.6,85.2,90.0,1
+1432,Female,Group E,High School,Standard,Not Completed,7.2,0.798,Yes,Yes,57.5,63.2,66.7,62.5,1
+1433,Female,Group D,Associate's,Standard,Completed,10.4,0.987,Yes,Yes,100.0,97.0,97.1,98.0,1
+1434,Male,Group C,High School,Standard,Not Completed,7.0,0.984,Yes,No,74.5,70.3,78.1,74.3,1
+1435,Female,Group D,Associate's,Standard,Not Completed,5.2,0.825,No,No,65.6,74.4,56.7,65.6,1
+1436,Female,Group C,Bachelor's,Free/Reduced,Not Completed,1.6,1.0,No,No,54.8,57.0,54.1,55.3,0
+1437,Female,Group B,High School,Standard,Completed,3.5,0.783,No,Yes,51.7,58.1,50.1,53.3,0
+1438,Male,Group C,Bachelor's,Standard,Not Completed,6.7,0.85,No,No,71.0,69.9,67.9,69.6,1
+1439,Female,Group E,High School,Standard,Not Completed,7.4,0.938,No,No,67.1,60.7,58.4,62.1,1
+1440,Male,Group E,Bachelor's,Standard,Completed,11.4,0.832,Yes,Yes,90.0,96.8,88.2,91.7,1
+1441,Male,Group B,Some College,Standard,Not Completed,2.1,0.921,No,Yes,50.0,61.4,57.3,56.2,0
+1442,Female,Group C,High School,Standard,Not Completed,19.6,0.919,Yes,Yes,86.6,88.0,94.0,89.5,1
+1443,Male,Group B,High School,Standard,Not Completed,1.5,0.885,No,Yes,58.5,57.9,54.0,56.8,0
+1444,Female,Group E,Master's,Standard,Not Completed,6.4,0.967,No,Yes,60.9,68.9,54.3,61.4,1
+1445,Male,Group E,High School,Standard,Not Completed,4.6,0.882,No,Yes,41.9,62.9,44.6,49.8,0
+1446,Female,Group C,High School,Free/Reduced,Not Completed,3.5,0.919,No,Yes,64.7,60.1,58.9,61.2,1
+1447,Male,Group D,Some College,Standard,Completed,15.1,0.992,No,Yes,100.0,93.5,95.3,96.3,1
+1448,Male,Group D,Associate's,Standard,Completed,4.7,0.963,Yes,No,76.7,70.7,79.1,75.5,1
+1449,Male,Group C,Associate's,Free/Reduced,Not Completed,2.0,0.963,No,No,62.5,65.9,66.4,64.9,1
+1450,Male,Group A,High School,Standard,Not Completed,2.8,0.808,Yes,No,56.6,53.6,52.2,54.1,0
+1451,Female,Group C,Some College,Standard,Not Completed,12.2,0.942,Yes,Yes,80.6,86.9,83.8,83.8,1
+1452,Male,Group D,High School,Standard,Not Completed,2.9,0.83,No,Yes,61.5,57.3,64.0,60.9,1
+1453,Male,Group D,High School,Standard,Not Completed,2.4,0.797,Yes,No,64.7,65.0,52.3,60.7,1
+1454,Male,Group C,Some College,Standard,Not Completed,7.4,0.894,No,No,57.9,63.8,60.5,60.7,1
+1455,Female,Group E,Bachelor's,Free/Reduced,Completed,5.6,0.828,Yes,Yes,63.0,67.2,63.7,64.6,1
+1456,Male,Group B,High School,Free/Reduced,Not Completed,8.7,0.963,No,Yes,65.1,70.5,52.3,62.6,1
+1457,Male,Group C,Some College,Standard,Not Completed,5.2,0.965,No,Yes,69.0,74.5,59.4,67.6,1
+1458,Male,Group D,Some College,Standard,Completed,10.0,0.748,No,Yes,85.1,89.9,80.7,85.2,1
+1459,Female,Group D,Master's,Standard,Completed,2.6,0.834,No,Yes,71.6,81.9,77.5,77.0,1
+1460,Male,Group C,Master's,Standard,Not Completed,2.3,0.783,Yes,Yes,67.1,59.8,64.2,63.7,1
+1461,Female,Group B,Bachelor's,Standard,Completed,7.8,0.863,Yes,No,68.9,87.7,76.7,77.8,1
+1462,Male,Group B,High School,Standard,Not Completed,5.6,0.936,Yes,No,76.0,71.0,62.7,69.9,1
+1463,Female,Group C,High School,Free/Reduced,Completed,5.0,0.881,No,No,46.0,53.2,53.4,50.9,0
+1464,Male,Group C,Some College,Standard,Not Completed,9.5,0.853,No,Yes,57.8,60.7,53.8,57.4,0
+1465,Male,Group B,Some College,Standard,Completed,21.2,1.0,No,Yes,100.0,100.0,100.0,100.0,1
+1466,Female,Group D,Associate's,Standard,Completed,2.3,0.716,No,Yes,57.7,51.7,55.4,54.9,0
+1467,Male,Group C,Bachelor's,Free/Reduced,Completed,13.4,0.999,No,Yes,93.8,97.7,96.5,96.0,1
+1468,Female,Group D,Bachelor's,Free/Reduced,Completed,9.7,0.856,No,No,82.9,79.5,87.5,83.3,1
+1469,Male,Group D,Bachelor's,Standard,Not Completed,4.9,0.894,No,Yes,63.6,67.5,60.3,63.8,1
+1470,Male,Group B,Some College,Standard,Not Completed,15.8,0.858,No,Yes,71.5,63.3,71.8,68.9,1
+1471,Male,Group A,Associate's,Free/Reduced,Not Completed,2.9,1.0,No,No,69.8,60.9,60.5,63.7,1
+1472,Male,Group D,Some College,Standard,Completed,8.5,0.802,No,Yes,58.7,69.0,65.5,64.4,1
+1473,Male,Group C,High School,Free/Reduced,Completed,5.9,0.901,Yes,No,63.1,79.1,71.9,71.4,1
+1474,Female,Group D,Bachelor's,Standard,Not Completed,4.9,0.942,No,No,71.0,74.1,68.2,71.1,1
+1475,Female,Group D,High School,Standard,Completed,3.1,0.771,Yes,Yes,63.4,69.1,65.7,66.1,1
+1476,Male,Group D,Some College,Standard,Completed,25.9,0.826,No,Yes,98.4,100.0,100.0,99.5,1
+1477,Male,Group E,Some College,Free/Reduced,Completed,4.9,0.888,Yes,No,79.2,75.8,84.7,79.9,1
+1478,Male,Group C,Associate's,Standard,Completed,1.1,0.829,No,Yes,66.5,67.8,67.8,67.4,1
+1479,Male,Group C,Bachelor's,Free/Reduced,Not Completed,10.6,0.835,No,Yes,54.7,47.6,52.1,51.5,0
+1480,Female,Group C,Some College,Standard,Not Completed,8.1,0.872,No,Yes,65.9,73.7,68.2,69.3,1
+1481,Male,Group B,Bachelor's,Standard,Not Completed,5.6,0.952,Yes,No,94.6,94.4,95.4,94.8,1
+1482,Female,Group C,Some College,Standard,Not Completed,5.3,0.873,No,No,32.6,36.5,41.7,36.9,0
+1483,Male,Group B,Some College,Standard,Not Completed,6.3,0.986,No,No,72.7,86.7,74.5,78.0,1
+1484,Female,Group E,Bachelor's,Standard,Completed,10.7,0.82,Yes,Yes,81.1,87.4,75.6,81.4,1
+1485,Female,Group C,Associate's,Standard,Completed,8.1,0.8,No,No,72.9,69.7,58.7,67.1,1
+1486,Female,Group C,Master's,Free/Reduced,Not Completed,8.9,1.0,No,Yes,89.9,85.5,84.1,86.5,1
+1487,Female,Group B,High School,Standard,Not Completed,8.9,0.847,No,Yes,82.5,79.1,82.8,81.5,1
+1488,Male,Group A,Associate's,Free/Reduced,Not Completed,11.0,0.795,No,Yes,77.3,75.3,68.0,73.5,1
+1489,Female,Group A,Associate's,Standard,Not Completed,12.8,0.761,No,Yes,83.3,68.1,61.3,70.9,1
+1490,Female,Group C,Master's,Free/Reduced,Not Completed,4.3,0.986,No,Yes,65.4,75.2,55.4,65.3,1
+1491,Female,Group A,High School,Standard,Not Completed,7.4,0.873,Yes,No,76.2,70.1,75.7,74.0,1
+1492,Female,Group C,Bachelor's,Standard,Not Completed,12.5,0.88,Yes,No,95.1,89.5,91.9,92.2,1
+1493,Female,Group E,Associate's,Standard,Not Completed,4.3,0.887,No,Yes,66.7,66.9,64.7,66.1,1
+1494,Female,Group E,Some College,Standard,Not Completed,14.1,0.981,No,Yes,87.7,74.5,82.7,81.6,1
+1495,Male,Group D,Some College,Free/Reduced,Completed,4.3,0.886,Yes,Yes,90.7,99.4,91.0,93.7,1
+1496,Male,Group B,Some College,Standard,Not Completed,8.3,1.0,Yes,Yes,85.9,83.9,87.8,85.9,1
+1497,Male,Group E,Associate's,Standard,Not Completed,5.7,0.911,Yes,Yes,83.9,87.4,88.7,86.7,1
+1498,Female,Group E,Bachelor's,Free/Reduced,Not Completed,5.1,0.985,No,Yes,58.1,57.8,58.9,58.3,0
+1499,Female,Group B,Associate's,Standard,Completed,8.7,0.964,Yes,Yes,82.6,85.4,83.0,83.7,1
+1500,Male,Group D,Associate's,Free/Reduced,Not Completed,12.9,0.897,Yes,Yes,86.0,84.7,81.5,84.1,1
+1501,Female,Group B,Associate's,Standard,Not Completed,5.6,0.853,No,No,54.1,59.2,58.7,57.3,0
+1502,Female,Group D,High School,Free/Reduced,Completed,13.5,0.927,No,No,87.9,85.4,87.8,87.0,1
+1503,Female,Group E,High School,Standard,Not Completed,4.2,0.941,No,Yes,75.1,71.7,73.0,73.3,1
+1504,Female,Group A,Some College,Standard,Completed,13.0,0.854,No,No,73.2,72.7,77.3,74.4,1
+1505,Female,Group E,Some College,Standard,Not Completed,7.1,0.913,Yes,Yes,77.7,79.8,90.2,82.6,1
+1506,Female,Group C,High School,Free/Reduced,Not Completed,8.0,0.999,Yes,No,69.4,79.9,77.1,75.5,1
+1507,Male,Group E,Associate's,Standard,Not Completed,3.1,1.0,Yes,No,99.2,98.3,97.5,98.3,1
+1508,Male,Group C,Some College,Standard,Not Completed,5.0,0.968,Yes,No,81.9,71.1,76.7,76.6,1
+1509,Male,Group D,Some College,Standard,Not Completed,6.6,1.0,No,No,71.4,86.5,74.0,77.3,1
+1510,Male,Group A,Some College,Free/Reduced,Not Completed,12.1,0.85,No,No,72.1,76.4,74.0,74.2,1
+1511,Male,Group B,High School,Free/Reduced,Not Completed,5.9,0.956,Yes,No,77.4,80.5,80.2,79.4,1
+1512,Male,Group A,Master's,Free/Reduced,Not Completed,3.9,1.0,No,Yes,66.8,75.0,73.3,71.7,1
+1513,Male,Group E,Bachelor's,Standard,Not Completed,7.6,0.828,No,No,65.2,59.4,66.3,63.6,1
+1514,Female,Group D,Bachelor's,Standard,Completed,18.3,0.861,No,No,86.4,90.3,100.0,92.2,1
+1515,Female,Group E,High School,Standard,Not Completed,8.1,1.0,No,No,71.8,64.8,70.1,68.9,1
+1516,Female,Group E,Bachelor's,Free/Reduced,Not Completed,5.8,0.822,No,Yes,59.2,69.6,63.6,64.1,1
+1517,Male,Group A,Bachelor's,Standard,Not Completed,7.7,0.793,No,Yes,66.0,61.4,55.2,60.9,1
+1518,Male,Group C,Bachelor's,Standard,Completed,3.8,1.0,No,Yes,71.8,68.9,64.6,68.4,1
+1519,Female,Group A,High School,Free/Reduced,Not Completed,14.5,0.996,Yes,No,77.8,72.9,84.3,78.3,1
+1520,Male,Group B,Associate's,Standard,Not Completed,14.4,0.935,Yes,No,90.5,100.0,94.7,95.1,1
+1521,Female,Group B,Bachelor's,Standard,Not Completed,3.7,0.896,Yes,Yes,79.0,83.1,76.2,79.4,1
+1522,Male,Group C,Associate's,Standard,Not Completed,14.2,0.865,No,Yes,75.2,77.1,80.8,77.7,1
+1523,Female,Group B,Associate's,Standard,Completed,7.7,0.923,Yes,No,98.6,100.0,96.7,98.4,1
+1524,Female,Group A,Some College,Free/Reduced,Completed,9.8,1.0,Yes,Yes,75.8,87.9,75.8,79.8,1
+1525,Female,Group B,Associate's,Standard,Not Completed,6.6,0.919,No,No,58.1,62.2,55.8,58.7,0
+1526,Female,Group A,High School,Standard,Not Completed,6.9,1.0,Yes,No,58.8,58.3,61.4,59.5,0
+1527,Female,Group E,Associate's,Standard,Completed,4.5,0.828,No,Yes,56.9,55.6,52.6,55.0,0
+1528,Female,Group D,High School,Standard,Not Completed,3.7,0.898,Yes,Yes,67.7,78.2,69.2,71.7,1
+1529,Male,Group E,Some College,Standard,Completed,3.6,0.87,No,No,61.4,57.5,60.1,59.7,0
+1530,Male,Group C,Some College,Standard,Completed,12.3,0.813,No,No,74.9,90.7,80.2,81.9,1
+1531,Female,Group B,Associate's,Standard,Not Completed,7.4,0.888,No,Yes,82.3,84.2,84.2,83.6,1
+1532,Male,Group D,High School,Standard,Completed,3.8,0.933,No,Yes,60.1,56.3,55.9,57.4,0
+1533,Male,Group B,Associate's,Standard,Not Completed,7.1,0.942,No,Yes,76.9,71.4,67.1,71.8,1
+1534,Female,Group B,Bachelor's,Standard,Completed,2.1,1.0,Yes,Yes,96.4,83.2,91.7,90.4,1
+1535,Female,Group B,High School,Free/Reduced,Not Completed,3.8,0.937,Yes,Yes,55.6,59.0,49.7,54.8,0
+1536,Female,Group A,High School,Free/Reduced,Not Completed,12.9,0.992,Yes,No,94.1,91.1,89.5,91.6,1
+1537,Female,Group B,High School,Free/Reduced,Not Completed,4.8,0.905,No,No,56.4,51.1,53.6,53.7,0
+1538,Male,Group B,Bachelor's,Standard,Completed,12.0,1.0,Yes,No,91.8,93.2,92.8,92.6,1
+1539,Female,Group D,Associate's,Standard,Not Completed,6.3,1.0,No,Yes,90.5,86.2,98.3,91.7,1
+1540,Male,Group A,Some College,Standard,Not Completed,9.9,0.942,Yes,No,82.3,87.5,96.8,88.9,1
+1541,Male,Group B,High School,Standard,Not Completed,3.2,0.821,No,Yes,63.2,63.5,52.6,59.8,0
+1542,Female,Group D,Associate's,Standard,Not Completed,9.0,0.856,No,No,75.1,80.0,83.8,79.6,1
+1543,Male,Group A,Bachelor's,Standard,Not Completed,1.3,0.923,Yes,No,58.5,61.4,64.1,61.3,1
+1544,Female,Group B,Bachelor's,Free/Reduced,Not Completed,5.1,0.937,Yes,No,86.1,83.3,87.1,85.5,1
+1545,Male,Group E,Associate's,Standard,Not Completed,13.3,0.956,No,No,81.1,76.6,80.4,79.4,1
+1546,Female,Group B,High School,Standard,Not Completed,6.8,0.937,Yes,No,70.4,70.3,72.7,71.1,1
+1547,Male,Group A,High School,Free/Reduced,Not Completed,3.6,0.901,No,No,54.3,56.4,54.0,54.9,0
+1548,Male,Group C,High School,Standard,Not Completed,12.7,0.849,Yes,No,72.3,74.4,63.0,69.9,1
+1549,Female,Group B,Some College,Free/Reduced,Not Completed,19.6,0.932,No,Yes,91.5,87.6,91.6,90.2,1
+1550,Male,Group C,High School,Free/Reduced,Completed,5.7,1.0,No,Yes,77.0,65.7,72.6,71.8,1
+1551,Male,Group D,Some College,Free/Reduced,Not Completed,2.2,0.982,No,No,53.5,64.8,55.7,58.0,0
+1552,Male,Group A,Some College,Standard,Completed,6.9,0.943,No,Yes,75.9,78.8,78.1,77.6,1
+1553,Male,Group C,Master's,Free/Reduced,Completed,10.2,0.982,Yes,Yes,87.6,86.0,93.5,89.0,1
+1554,Male,Group C,Associate's,Standard,Not Completed,5.9,0.87,No,No,63.2,65.0,70.3,66.2,1
+1555,Female,Group A,Bachelor's,Standard,Completed,1.4,0.859,No,Yes,68.1,72.8,62.3,67.7,1
+1556,Female,Group C,Bachelor's,Standard,Completed,9.6,0.84,No,Yes,72.7,81.4,84.2,79.4,1
+1557,Male,Group B,High School,Standard,Not Completed,4.2,0.89,No,No,71.6,62.3,60.1,64.7,1
+1558,Female,Group C,Bachelor's,Standard,Not Completed,5.0,0.866,Yes,Yes,68.2,69.6,61.2,66.3,1
+1559,Male,Group A,Some College,Standard,Completed,2.3,0.997,No,Yes,80.9,89.1,79.8,83.3,1
+1560,Male,Group C,Associate's,Free/Reduced,Not Completed,1.0,0.862,No,Yes,59.5,55.2,48.1,54.3,0
+1561,Female,Group B,Some College,Free/Reduced,Completed,3.1,0.836,No,Yes,43.7,52.6,46.5,47.6,0
+1562,Female,Group D,Master's,Free/Reduced,Not Completed,4.8,1.0,No,No,59.9,59.7,57.6,59.1,0
+1563,Male,Group A,Some College,Standard,Completed,4.7,0.864,Yes,No,79.4,82.1,75.2,78.9,1
+1564,Female,Group C,Some College,Free/Reduced,Not Completed,14.9,0.912,No,Yes,72.5,77.4,70.0,73.3,1
+1565,Male,Group C,Master's,Standard,Not Completed,3.4,0.936,No,Yes,73.4,78.7,66.6,72.9,1
+1566,Female,Group D,High School,Free/Reduced,Not Completed,11.5,0.809,Yes,Yes,81.1,76.5,70.9,76.2,1
+1567,Male,Group C,Associate's,Free/Reduced,Not Completed,7.3,0.999,No,Yes,71.0,65.4,63.0,66.5,1
+1568,Female,Group D,Bachelor's,Standard,Completed,16.1,0.951,Yes,No,92.3,87.4,88.4,89.4,1
+1569,Male,Group D,Bachelor's,Free/Reduced,Not Completed,6.4,1.0,No,No,74.1,79.5,75.8,76.5,1
+1570,Female,Group E,Master's,Standard,Completed,1.5,0.846,Yes,Yes,71.7,74.9,79.0,75.2,1
+1571,Male,Group B,Master's,Standard,Not Completed,6.0,0.908,No,Yes,61.8,71.8,70.0,67.9,1
+1572,Female,Group C,High School,Standard,Not Completed,1.1,0.903,No,Yes,60.8,73.4,66.1,66.8,1
+1573,Male,Group D,Bachelor's,Standard,Not Completed,3.0,0.921,No,Yes,50.1,54.7,43.1,49.3,0
+1574,Male,Group E,Associate's,Free/Reduced,Not Completed,6.1,0.784,Yes,No,71.1,71.9,65.8,69.6,1
+1575,Female,Group E,Associate's,Standard,Not Completed,6.2,0.909,Yes,Yes,78.9,79.9,82.4,80.4,1
+1576,Female,Group C,High School,Standard,Not Completed,11.3,0.786,No,Yes,64.7,61.9,56.7,61.1,1
+1577,Female,Group B,Associate's,Standard,Completed,8.6,0.929,Yes,Yes,67.8,62.3,56.3,62.1,1
+1578,Male,Group C,Master's,Free/Reduced,Completed,15.3,0.73,No,No,84.3,97.0,85.8,89.0,1
+1579,Male,Group D,Master's,Free/Reduced,Not Completed,11.2,0.752,Yes,No,69.1,79.3,66.5,71.6,1
+1580,Male,Group C,Some College,Free/Reduced,Not Completed,10.5,0.965,Yes,Yes,72.5,76.4,64.4,71.1,1
+1581,Female,Group C,High School,Free/Reduced,Not Completed,18.7,0.856,No,No,71.0,73.1,70.4,71.5,1
+1582,Female,Group D,Some College,Standard,Not Completed,10.9,0.821,Yes,Yes,81.6,73.1,76.4,77.0,1
+1583,Male,Group B,Bachelor's,Standard,Not Completed,13.8,1.0,No,No,99.4,84.7,81.5,88.5,1
+1584,Female,Group E,Bachelor's,Standard,Not Completed,2.1,0.926,No,No,73.2,77.3,68.1,72.9,1
+1585,Male,Group C,Some College,Standard,Completed,5.5,0.97,No,Yes,86.4,96.1,80.9,87.8,1
+1586,Female,Group B,High School,Free/Reduced,Completed,8.4,0.887,Yes,Yes,76.5,83.0,76.2,78.6,1
+1587,Male,Group C,Some College,Standard,Not Completed,7.0,1.0,Yes,Yes,81.5,89.0,81.3,83.9,1
+1588,Female,Group D,Some College,Free/Reduced,Not Completed,4.1,0.852,Yes,No,53.7,55.9,54.5,54.7,0
+1589,Female,Group A,Master's,Standard,Not Completed,10.5,1.0,Yes,Yes,81.2,88.4,78.2,82.6,1
+1590,Male,Group B,Associate's,Standard,Completed,12.0,0.895,Yes,No,92.4,83.9,85.0,87.1,1
+1591,Male,Group E,Some College,Standard,Not Completed,6.3,0.768,No,No,62.0,70.8,64.4,65.7,1
+1592,Male,Group B,Associate's,Free/Reduced,Not Completed,5.7,0.939,No,Yes,76.0,70.6,64.4,70.3,1
+1593,Female,Group C,High School,Free/Reduced,Completed,4.8,0.925,No,Yes,60.7,59.6,55.8,58.7,0
+1594,Female,Group C,Master's,Free/Reduced,Not Completed,10.8,0.816,No,No,71.8,78.7,81.9,77.5,1
+1595,Male,Group C,Some College,Standard,Not Completed,5.6,0.826,No,Yes,47.9,51.8,51.5,50.4,0
+1596,Male,Group C,Some College,Free/Reduced,Not Completed,6.8,0.898,No,Yes,55.3,69.8,67.5,64.2,1
+1597,Female,Group B,Some College,Standard,Not Completed,13.0,0.928,Yes,Yes,77.0,81.6,75.0,77.9,1
+1598,Female,Group C,Associate's,Standard,Not Completed,7.9,0.702,Yes,Yes,77.1,76.1,79.0,77.4,1
+1599,Female,Group C,Associate's,Free/Reduced,Not Completed,6.8,0.984,No,Yes,57.0,60.2,57.8,58.3,0
+1600,Male,Group D,Bachelor's,Standard,Not Completed,4.6,0.86,Yes,No,95.6,80.3,78.6,84.8,1
+1601,Female,Group A,Some College,Free/Reduced,Not Completed,6.6,0.793,No,No,56.2,54.2,42.6,51.0,0
+1602,Female,Group C,Some College,Standard,Completed,4.2,0.975,Yes,Yes,79.1,73.0,84.9,79.0,1
+1603,Female,Group B,High School,Standard,Not Completed,7.6,0.898,No,Yes,58.1,65.1,59.2,60.8,1
+1604,Female,Group B,Associate's,Free/Reduced,Not Completed,5.0,0.997,No,No,60.9,65.5,64.4,63.6,1
+1605,Female,Group B,High School,Standard,Completed,5.4,0.935,Yes,No,72.6,69.0,81.6,74.4,1
+1606,Female,Group B,Associate's,Free/Reduced,Completed,6.6,0.9,No,No,61.2,63.1,64.9,63.1,1
+1607,Female,Group D,Bachelor's,Standard,Completed,16.3,0.888,No,Yes,80.3,89.2,80.3,83.3,1
+1608,Male,Group B,Bachelor's,Standard,Not Completed,8.3,0.939,No,Yes,71.0,74.9,71.9,72.6,1
+1609,Female,Group E,Some College,Standard,Not Completed,3.1,0.867,No,Yes,46.5,63.7,44.6,51.6,0
+1610,Male,Group E,Some College,Standard,Completed,5.6,0.832,Yes,Yes,70.9,74.6,67.4,71.0,1
+1611,Male,Group C,High School,Standard,Completed,4.7,0.949,No,Yes,58.8,59.1,65.8,61.2,1
+1612,Male,Group A,Associate's,Standard,Not Completed,4.5,0.888,Yes,Yes,63.6,64.2,63.1,63.6,1
+1613,Male,Group C,Bachelor's,Free/Reduced,Completed,4.6,0.903,No,No,82.1,85.1,78.4,81.9,1
+1614,Female,Group D,High School,Standard,Not Completed,5.7,0.987,No,No,66.7,55.6,63.4,61.9,1
+1615,Female,Group B,Some College,Standard,Completed,4.2,0.891,No,No,63.6,55.5,59.1,59.4,0
+1616,Male,Group A,Bachelor's,Standard,Completed,4.2,0.901,Yes,Yes,84.3,81.3,82.0,82.5,1
+1617,Male,Group C,Bachelor's,Standard,Completed,4.7,0.852,No,Yes,65.5,71.1,69.0,68.5,1
+1618,Male,Group D,High School,Free/Reduced,Completed,4.5,0.934,No,Yes,80.1,85.7,80.2,82.0,1
+1619,Male,Group D,Associate's,Free/Reduced,Completed,3.8,0.928,No,No,69.6,66.7,66.7,67.7,1
+1620,Male,Group B,High School,Standard,Not Completed,9.4,0.972,No,Yes,83.7,82.6,82.0,82.8,1
+1621,Female,Group D,High School,Free/Reduced,Not Completed,5.2,0.854,Yes,Yes,74.7,62.1,69.6,68.8,1
+1622,Female,Group B,Master's,Standard,Not Completed,5.9,0.863,No,No,81.8,75.2,83.3,80.1,1
+1623,Male,Group B,Bachelor's,Standard,Not Completed,5.6,0.963,No,Yes,76.7,80.4,70.4,75.8,1
+1624,Male,Group E,Bachelor's,Free/Reduced,Completed,4.4,0.92,No,Yes,78.1,67.3,75.6,73.7,1
+1625,Female,Group B,High School,Standard,Not Completed,3.7,0.828,No,Yes,75.6,67.7,73.8,72.4,1
+1626,Male,Group B,Bachelor's,Free/Reduced,Not Completed,9.9,1.0,No,Yes,65.6,79.7,68.6,71.3,1
+1627,Female,Group A,Some College,Free/Reduced,Not Completed,3.9,0.764,No,No,42.1,44.1,49.1,45.1,0
+1628,Male,Group E,Some College,Standard,Completed,4.0,0.963,No,No,70.0,69.6,64.7,68.1,1
+1629,Female,Group D,Associate's,Free/Reduced,Not Completed,11.6,0.799,No,Yes,42.3,49.7,42.5,44.8,0
+1630,Female,Group C,High School,Free/Reduced,Not Completed,4.7,1.0,No,Yes,65.2,67.4,69.3,67.3,1
+1631,Male,Group D,Bachelor's,Standard,Not Completed,6.6,0.776,Yes,No,46.9,41.9,52.1,47.0,0
+1632,Female,Group B,Associate's,Standard,Completed,5.4,0.992,Yes,No,82.7,86.7,83.8,84.4,1
+1633,Male,Group C,High School,Standard,Not Completed,6.5,0.893,No,Yes,60.0,57.2,59.9,59.0,0
+1634,Male,Group B,High School,Free/Reduced,Completed,14.7,0.871,No,Yes,91.3,93.9,90.1,91.8,1
+1635,Male,Group A,High School,Free/Reduced,Not Completed,4.2,0.915,Yes,Yes,51.8,47.1,59.0,52.6,0
+1636,Female,Group C,High School,Standard,Not Completed,9.4,0.951,Yes,No,66.7,69.0,61.1,65.6,1
+1637,Female,Group E,Associate's,Standard,Completed,9.9,0.828,No,No,72.0,75.2,77.3,74.8,1
+1638,Female,Group A,Bachelor's,Standard,Not Completed,9.5,0.835,Yes,No,68.1,77.8,73.9,73.3,1
+1639,Male,Group B,High School,Standard,Not Completed,14.3,0.952,Yes,Yes,82.4,75.7,72.0,76.7,1
+1640,Male,Group B,High School,Standard,Not Completed,1.5,0.763,No,No,44.7,56.3,46.9,49.3,0
+1641,Male,Group B,Associate's,Standard,Not Completed,2.6,0.853,No,Yes,45.1,43.3,42.5,43.6,0
+1642,Male,Group E,Bachelor's,Standard,Not Completed,3.7,1.0,Yes,Yes,82.7,82.5,77.7,81.0,1
+1643,Male,Group C,Some College,Standard,Not Completed,4.9,0.823,No,No,37.3,47.3,39.9,41.5,0
+1644,Male,Group C,Some College,Standard,Not Completed,7.7,0.992,Yes,Yes,75.7,82.7,69.6,76.0,1
+1645,Female,Group D,Associate's,Standard,Not Completed,3.8,0.853,Yes,Yes,63.6,59.5,63.9,62.3,1
+1646,Male,Group B,Some College,Free/Reduced,Completed,3.8,0.941,Yes,Yes,79.4,79.0,75.2,77.9,1
+1647,Female,Group C,High School,Standard,Completed,7.0,0.952,No,Yes,99.3,84.7,79.5,87.8,1
+1648,Male,Group C,Bachelor's,Standard,Not Completed,8.8,0.99,No,No,76.8,82.2,70.8,76.6,1
+1649,Male,Group C,Associate's,Standard,Not Completed,6.5,0.884,No,No,81.7,76.9,88.5,82.4,1
+1650,Male,Group E,Associate's,Standard,Not Completed,9.0,1.0,Yes,Yes,70.5,83.4,69.3,74.4,1
+1651,Female,Group D,Bachelor's,Standard,Not Completed,2.2,0.853,Yes,Yes,56.0,63.6,61.5,60.4,1
+1652,Female,Group C,Associate's,Standard,Not Completed,4.2,0.919,No,No,75.1,94.4,75.8,81.8,1
+1653,Female,Group D,High School,Standard,Not Completed,3.6,0.92,No,Yes,60.3,68.6,62.3,63.7,1
+1654,Female,Group B,Some College,Free/Reduced,Not Completed,4.7,0.81,Yes,Yes,61.8,57.7,61.8,60.4,1
+1655,Female,Group A,High School,Free/Reduced,Not Completed,6.3,0.877,Yes,No,73.5,63.0,70.1,68.9,1
+1656,Male,Group B,High School,Free/Reduced,Not Completed,1.8,0.913,No,Yes,58.0,56.9,51.9,55.6,0
+1657,Male,Group B,Associate's,Free/Reduced,Completed,4.7,0.865,No,No,64.8,67.4,58.2,63.5,1
+1658,Female,Group C,Bachelor's,Free/Reduced,Not Completed,4.2,1.0,Yes,Yes,61.7,55.8,67.0,61.5,1
+1659,Female,Group C,Master's,Standard,Completed,2.4,0.833,Yes,Yes,80.0,72.9,76.2,76.4,1
+1660,Female,Group E,Associate's,Standard,Completed,9.2,0.994,Yes,No,100.0,97.6,91.7,96.4,1
+1661,Male,Group C,High School,Standard,Not Completed,6.5,0.969,No,Yes,67.3,65.9,67.8,67.0,1
+1662,Female,Group C,High School,Standard,Not Completed,4.7,0.899,No,Yes,73.0,75.1,65.0,71.0,1
+1663,Male,Group A,Bachelor's,Free/Reduced,Not Completed,15.7,0.831,No,Yes,80.0,72.5,73.2,75.2,1
+1664,Female,Group A,Associate's,Standard,Not Completed,2.5,0.839,Yes,No,61.3,62.9,56.6,60.3,1
+1665,Male,Group C,Associate's,Standard,Not Completed,16.2,0.859,Yes,Yes,67.2,79.6,74.6,73.8,1
+1666,Male,Group C,Bachelor's,Standard,Completed,5.7,0.757,Yes,Yes,69.6,78.9,72.6,73.7,1
+1667,Female,Group D,Bachelor's,Standard,Not Completed,4.0,0.82,No,Yes,61.2,53.4,60.7,58.4,0
+1668,Male,Group B,Bachelor's,Free/Reduced,Not Completed,4.8,0.781,Yes,Yes,71.9,69.4,61.0,67.4,1
+1669,Female,Group A,High School,Free/Reduced,Completed,5.1,1.0,No,No,60.3,63.0,71.3,64.9,1
+1670,Male,Group C,Bachelor's,Standard,Completed,17.4,0.949,No,No,80.0,85.1,87.5,84.2,1
+1671,Female,Group B,Bachelor's,Free/Reduced,Not Completed,7.7,0.963,No,Yes,78.7,81.1,79.6,79.8,1
+1672,Male,Group A,Some College,Standard,Completed,3.2,0.947,Yes,No,82.7,75.1,70.1,76.0,1
+1673,Male,Group D,Associate's,Free/Reduced,Not Completed,9.9,0.913,Yes,Yes,61.1,75.7,67.1,68.0,1
+1674,Male,Group A,Some College,Standard,Not Completed,5.2,1.0,No,Yes,65.0,75.5,72.6,71.0,1
+1675,Male,Group C,Master's,Standard,Not Completed,0.8,0.851,No,Yes,75.9,71.4,78.0,75.1,1
+1676,Female,Group B,High School,Standard,Not Completed,9.7,0.909,Yes,Yes,74.9,73.9,82.3,77.0,1
+1677,Female,Group B,Associate's,Free/Reduced,Completed,9.9,0.96,No,Yes,86.7,83.8,85.3,85.3,1
+1678,Female,Group C,High School,Free/Reduced,Not Completed,5.3,0.794,Yes,Yes,44.4,52.2,50.9,49.2,0
+1679,Female,Group D,Bachelor's,Standard,Not Completed,4.4,1.0,No,No,81.3,90.0,79.7,83.7,1
+1680,Male,Group C,High School,Standard,Not Completed,10.5,0.902,No,No,93.3,92.8,83.0,89.7,1
+1681,Female,Group D,High School,Free/Reduced,Not Completed,4.2,0.911,No,No,44.8,53.1,54.7,50.9,0
+1682,Male,Group A,Some College,Standard,Not Completed,11.8,1.0,No,Yes,77.3,70.6,73.6,73.8,1
+1683,Male,Group D,Master's,Standard,Not Completed,4.3,0.973,No,Yes,72.0,70.5,71.0,71.2,1
+1684,Male,Group B,High School,Standard,Completed,6.1,0.903,No,No,80.9,85.1,79.2,81.7,1
+1685,Female,Group D,High School,Standard,Not Completed,8.2,0.91,No,Yes,63.7,65.3,67.8,65.6,1
+1686,Male,Group C,Bachelor's,Free/Reduced,Not Completed,7.2,0.78,No,No,47.0,62.5,46.1,51.9,0
+1687,Male,Group E,Associate's,Free/Reduced,Not Completed,4.1,0.855,Yes,Yes,60.3,65.8,64.5,63.5,1
+1688,Female,Group C,Master's,Standard,Not Completed,7.9,0.941,No,No,86.3,95.7,77.3,86.4,1
+1689,Male,Group A,High School,Standard,Not Completed,9.6,0.936,No,Yes,66.3,71.4,53.2,63.6,1
+1690,Male,Group A,Associate's,Free/Reduced,Completed,3.3,0.998,Yes,Yes,88.1,77.3,80.7,82.0,1
+1691,Female,Group D,High School,Standard,Completed,8.3,0.89,No,Yes,88.2,80.0,81.3,83.2,1
+1692,Female,Group C,High School,Free/Reduced,Not Completed,6.0,0.789,No,No,48.1,55.2,52.5,51.9,0
+1693,Female,Group D,Associate's,Standard,Not Completed,3.4,0.985,Yes,Yes,68.0,71.9,87.6,75.8,1
+1694,Female,Group B,Associate's,Standard,Completed,7.7,1.0,Yes,No,87.6,94.3,95.0,92.3,1
+1695,Female,Group B,Bachelor's,Free/Reduced,Not Completed,10.2,0.972,Yes,Yes,70.2,69.9,74.5,71.5,1
+1696,Female,Group A,Some College,Free/Reduced,Not Completed,4.5,0.887,No,Yes,56.9,53.5,52.6,54.3,0
+1697,Female,Group E,Some College,Standard,Not Completed,8.0,0.984,Yes,Yes,79.1,79.5,73.1,77.2,1
+1698,Female,Group D,Some College,Free/Reduced,Completed,5.1,1.0,No,Yes,66.5,66.2,72.8,68.5,1
+1699,Male,Group E,Master's,Standard,Not Completed,9.1,0.909,No,Yes,71.9,83.7,72.8,76.1,1
+1700,Male,Group B,Some College,Standard,Completed,11.3,0.795,Yes,Yes,99.6,94.9,93.1,95.9,1
+1701,Male,Group C,Some College,Free/Reduced,Completed,7.5,0.853,No,No,94.4,82.7,80.7,85.9,1
+1702,Female,Group D,Some College,Free/Reduced,Not Completed,9.6,0.95,Yes,No,72.9,65.5,62.8,67.1,1
+1703,Female,Group B,Associate's,Standard,Completed,10.5,0.772,No,No,59.9,75.5,69.7,68.4,1
+1704,Female,Group D,Some College,Standard,Completed,4.5,0.914,No,No,71.1,70.4,70.1,70.5,1
+1705,Female,Group E,Master's,Standard,Not Completed,5.1,0.93,Yes,Yes,93.0,94.2,85.1,90.8,1
+1706,Female,Group E,Some College,Standard,Not Completed,8.1,1.0,No,Yes,86.1,86.3,85.4,85.9,1
+1707,Male,Group D,Bachelor's,Standard,Not Completed,12.7,1.0,Yes,No,79.9,72.3,74.1,75.4,1
+1708,Female,Group B,High School,Free/Reduced,Not Completed,2.9,0.969,Yes,Yes,69.5,78.1,68.9,72.2,1
+1709,Male,Group B,Associate's,Standard,Not Completed,8.6,0.727,Yes,No,49.2,59.5,49.5,52.7,0
+1710,Male,Group E,Master's,Free/Reduced,Not Completed,12.1,0.974,No,Yes,91.8,96.9,96.2,95.0,1
+1711,Female,Group A,High School,Standard,Not Completed,5.8,0.956,No,Yes,67.8,72.3,65.2,68.4,1
+1712,Female,Group D,Master's,Standard,Completed,6.4,0.92,Yes,Yes,85.8,84.8,71.8,80.8,1
+1713,Male,Group D,Some College,Standard,Not Completed,6.4,0.762,Yes,Yes,57.3,55.9,59.3,57.5,0
+1714,Female,Group C,Master's,Standard,Not Completed,6.1,0.838,No,No,70.2,70.7,74.6,71.8,1
+1715,Female,Group E,Associate's,Standard,Not Completed,4.0,0.807,Yes,Yes,70.3,68.5,60.5,66.4,1
+1716,Male,Group B,Some College,Free/Reduced,Not Completed,6.0,0.739,No,No,68.4,65.0,60.1,64.5,1
+1717,Female,Group B,High School,Standard,Not Completed,4.1,0.9,Yes,No,55.9,54.4,59.1,56.5,0
+1718,Male,Group A,Some College,Free/Reduced,Not Completed,9.2,0.836,No,Yes,68.1,75.8,87.3,77.1,1
+1719,Male,Group C,High School,Standard,Not Completed,2.0,1.0,No,No,79.7,86.8,73.0,79.8,1
+1720,Female,Group B,High School,Free/Reduced,Completed,10.3,0.886,No,Yes,73.8,71.2,58.9,68.0,1
+1721,Female,Group B,High School,Standard,Completed,11.2,1.0,No,Yes,86.2,68.2,75.8,76.7,1
+1722,Female,Group D,Some College,Free/Reduced,Not Completed,7.2,0.774,Yes,No,70.6,82.3,79.2,77.4,1
+1723,Female,Group E,Bachelor's,Standard,Completed,15.6,0.858,No,Yes,91.7,98.7,91.8,94.1,1
+1724,Female,Group B,High School,Free/Reduced,Completed,8.3,0.908,Yes,Yes,66.3,69.5,68.2,68.0,1
+1725,Male,Group C,High School,Free/Reduced,Not Completed,7.7,0.827,No,Yes,73.2,60.1,52.9,62.1,1
+1726,Female,Group E,Associate's,Standard,Completed,1.9,0.866,No,Yes,89.3,88.2,94.3,90.6,1
+1727,Female,Group A,High School,Standard,Completed,11.6,0.883,No,No,73.1,75.0,81.2,76.4,1
+1728,Male,Group A,High School,Standard,Not Completed,3.7,0.881,No,No,52.8,50.0,56.9,53.2,0
+1729,Male,Group B,High School,Free/Reduced,Not Completed,3.4,1.0,No,No,61.2,58.0,53.8,57.7,0
+1730,Male,Group C,Master's,Standard,Not Completed,7.4,0.93,No,Yes,87.2,76.2,81.4,81.6,1
+1731,Female,Group B,Bachelor's,Standard,Not Completed,4.1,0.938,Yes,No,66.4,75.1,62.1,67.9,1
+1732,Male,Group E,Some College,Standard,Completed,5.8,0.943,No,No,84.1,80.4,77.5,80.7,1
+1733,Male,Group C,Associate's,Standard,Not Completed,12.1,0.949,No,Yes,69.2,73.4,68.7,70.4,1
+1734,Female,Group C,Associate's,Free/Reduced,Completed,14.5,0.893,Yes,Yes,86.7,82.3,81.2,83.4,1
+1735,Female,Group B,Associate's,Standard,Completed,4.5,0.874,No,Yes,84.8,72.3,78.5,78.5,1
+1736,Male,Group C,Associate's,Standard,Not Completed,5.9,0.913,No,Yes,54.9,58.9,53.4,55.7,0
+1737,Female,Group D,Associate's,Free/Reduced,Completed,20.0,0.993,No,Yes,99.7,98.3,90.5,96.2,1
+1738,Female,Group D,Some College,Standard,Not Completed,14.5,0.99,No,Yes,66.5,71.4,67.8,68.6,1
+1739,Female,Group D,High School,Free/Reduced,Not Completed,10.6,0.881,No,No,49.3,45.9,49.3,48.2,0
+1740,Female,Group C,Some College,Standard,Not Completed,4.1,0.961,No,Yes,54.7,61.6,57.5,57.9,0
+1741,Male,Group E,Bachelor's,Standard,Not Completed,4.6,0.884,Yes,No,83.1,75.5,66.5,75.0,1
+1742,Male,Group D,Associate's,Standard,Not Completed,10.6,0.903,Yes,No,90.8,94.9,96.2,94.0,1
+1743,Male,Group D,Bachelor's,Free/Reduced,Completed,1.7,0.862,No,Yes,60.1,68.8,71.1,66.7,1
+1744,Female,Group A,Master's,Standard,Completed,11.7,0.885,Yes,No,79.5,92.0,92.4,88.0,1
+1745,Female,Group A,High School,Standard,Not Completed,13.3,1.0,No,Yes,71.3,94.4,78.5,81.4,1
+1746,Female,Group B,Associate's,Standard,Completed,5.4,0.907,No,No,70.8,59.8,53.4,61.3,1
+1747,Female,Group D,Associate's,Standard,Completed,14.7,0.911,No,No,84.3,84.2,90.2,86.2,1
+1748,Female,Group C,Master's,Free/Reduced,Not Completed,8.5,0.784,No,Yes,54.2,53.1,57.3,54.9,0
+1749,Male,Group C,Master's,Standard,Not Completed,3.1,0.875,No,Yes,71.6,62.4,66.3,66.8,1
+1750,Female,Group E,Associate's,Free/Reduced,Completed,7.0,0.881,No,Yes,66.8,67.8,74.0,69.5,1
+1751,Male,Group E,High School,Standard,Not Completed,4.3,0.834,Yes,Yes,57.9,60.6,58.4,59.0,0
+1752,Female,Group E,Bachelor's,Free/Reduced,Not Completed,7.5,0.902,Yes,No,75.7,74.2,75.1,75.0,1
+1753,Female,Group B,High School,Standard,Not Completed,2.9,0.866,No,Yes,57.6,58.3,57.2,57.7,0
+1754,Female,Group D,Bachelor's,Standard,Completed,15.3,0.906,Yes,No,96.3,97.6,100.0,98.0,1
+1755,Male,Group B,Master's,Standard,Not Completed,9.1,0.91,Yes,Yes,66.5,68.6,73.0,69.4,1
+1756,Male,Group B,Some College,Free/Reduced,Not Completed,5.1,0.824,No,No,58.4,55.1,50.1,54.5,0
+1757,Male,Group B,Associate's,Standard,Not Completed,7.6,0.868,No,Yes,58.5,67.1,63.0,62.9,1
+1758,Female,Group B,Some College,Free/Reduced,Completed,6.5,0.906,No,Yes,82.3,69.9,70.7,74.3,1
+1759,Female,Group C,Some College,Free/Reduced,Not Completed,15.6,0.995,No,No,97.7,85.7,91.7,91.7,1
+1760,Male,Group D,Some College,Standard,Not Completed,6.4,0.921,No,Yes,74.9,79.0,73.3,75.7,1
+1761,Female,Group A,Bachelor's,Standard,Completed,7.4,0.847,No,No,77.8,70.1,65.9,71.3,1
+1762,Male,Group D,Master's,Standard,Not Completed,2.6,0.932,No,No,82.0,69.8,77.8,76.5,1
+1763,Female,Group C,Master's,Standard,Completed,7.5,1.0,No,Yes,73.3,84.4,70.7,76.1,1
+1764,Female,Group B,High School,Free/Reduced,Completed,8.3,0.973,No,No,59.8,64.5,65.3,63.2,1
+1765,Female,Group C,Bachelor's,Free/Reduced,Completed,3.4,0.944,No,No,72.4,68.7,69.5,70.2,1
+1766,Female,Group B,Bachelor's,Standard,Not Completed,9.8,0.958,No,Yes,76.3,72.2,81.4,76.6,1
+1767,Male,Group C,Some College,Standard,Not Completed,1.6,1.0,No,Yes,66.3,81.0,78.3,75.2,1
+1768,Female,Group C,High School,Standard,Completed,5.9,0.986,No,No,44.9,48.7,50.3,48.0,0
+1769,Female,Group B,Some College,Standard,Completed,2.6,0.945,Yes,Yes,85.1,85.6,89.0,86.6,1
+1770,Female,Group A,Master's,Free/Reduced,Not Completed,6.8,0.985,No,Yes,72.0,75.5,82.1,76.5,1
+1771,Female,Group C,Associate's,Standard,Completed,5.2,0.813,No,Yes,63.9,62.3,54.5,60.2,1
+1772,Male,Group E,Bachelor's,Free/Reduced,Not Completed,8.6,0.78,No,Yes,64.9,64.9,63.1,64.3,1
+1773,Male,Group B,Some College,Standard,Not Completed,6.4,0.913,Yes,Yes,85.7,85.2,84.5,85.1,1
+1774,Male,Group D,Bachelor's,Standard,Not Completed,8.5,0.905,Yes,Yes,82.7,86.6,86.4,85.2,1
+1775,Male,Group D,High School,Standard,Completed,6.9,0.856,No,No,71.0,78.2,71.9,73.7,1
+1776,Female,Group E,Some College,Standard,Not Completed,12.0,0.966,No,No,60.1,63.9,54.7,59.6,0
+1777,Male,Group D,Associate's,Standard,Not Completed,11.1,0.751,No,Yes,57.6,73.2,60.3,63.7,1
+1778,Female,Group C,High School,Free/Reduced,Completed,4.2,0.857,No,Yes,54.7,47.7,41.5,48.0,0
+1779,Female,Group D,Bachelor's,Free/Reduced,Not Completed,11.5,0.861,Yes,Yes,93.0,94.4,84.4,90.6,1
+1780,Male,Group E,High School,Standard,Not Completed,8.3,0.769,No,No,66.1,66.9,57.7,63.6,1
+1781,Female,Group C,Associate's,Standard,Not Completed,12.6,1.0,No,Yes,97.7,100.0,100.0,99.2,1
+1782,Male,Group B,Some College,Standard,Not Completed,3.5,0.791,No,Yes,52.3,61.2,55.4,56.3,0
+1783,Female,Group A,Associate's,Free/Reduced,Completed,2.9,0.853,No,Yes,52.5,59.0,61.8,57.8,0
+1784,Male,Group D,High School,Standard,Completed,3.0,0.973,Yes,Yes,75.6,78.3,75.2,76.4,1
+1785,Male,Group D,High School,Free/Reduced,Not Completed,14.7,0.952,No,Yes,86.6,95.1,86.4,89.4,1
+1786,Male,Group A,Master's,Standard,Completed,12.8,0.811,Yes,No,80.0,87.6,88.2,85.3,1
+1787,Male,Group C,Some College,Standard,Not Completed,11.0,0.955,No,Yes,81.4,73.2,63.1,72.6,1
+1788,Male,Group C,Bachelor's,Free/Reduced,Not Completed,2.7,0.923,No,Yes,76.4,64.8,63.7,68.3,1
+1789,Female,Group A,Master's,Standard,Not Completed,11.1,1.0,No,No,90.9,82.2,76.8,83.3,1
+1790,Female,Group E,High School,Standard,Not Completed,2.8,0.932,No,No,54.5,59.2,56.9,56.9,0
+1791,Female,Group B,Some College,Standard,Not Completed,0.8,0.889,No,Yes,55.7,64.6,45.8,55.4,0
+1792,Male,Group A,Associate's,Standard,Not Completed,5.2,0.831,No,Yes,60.2,62.6,59.3,60.7,1
+1793,Female,Group C,Master's,Standard,Not Completed,6.0,0.84,Yes,No,71.4,69.1,76.9,72.5,1
+1794,Male,Group D,Master's,Free/Reduced,Not Completed,13.7,0.834,No,No,84.7,90.5,76.8,84.0,1
+1795,Female,Group A,Associate's,Free/Reduced,Not Completed,3.4,1.0,No,No,74.8,73.6,84.3,77.6,1
+1796,Female,Group D,Bachelor's,Standard,Not Completed,20.9,0.901,No,No,74.1,77.8,85.1,79.0,1
+1797,Male,Group C,High School,Free/Reduced,Completed,7.5,0.945,No,Yes,67.9,67.9,67.7,67.8,1
+1798,Female,Group A,Master's,Standard,Completed,6.2,1.0,Yes,Yes,85.1,88.2,87.4,86.9,1
+1799,Female,Group B,Master's,Standard,Not Completed,6.2,0.711,No,Yes,61.4,68.3,61.4,63.7,1
+1800,Female,Group C,High School,Standard,Completed,2.9,1.0,Yes,Yes,65.5,73.6,71.7,70.3,1
+1801,Male,Group B,Some College,Standard,Completed,5.4,0.904,No,No,75.2,84.5,72.8,77.5,1
+1802,Male,Group E,High School,Standard,Not Completed,7.8,0.935,Yes,No,76.1,83.4,80.0,79.8,1
+1803,Female,Group D,Some College,Free/Reduced,Not Completed,11.2,0.834,Yes,No,48.7,56.6,45.0,50.1,0
+1804,Female,Group E,Bachelor's,Standard,Completed,5.3,0.84,Yes,No,90.5,87.6,74.5,84.2,1
+1805,Female,Group B,Some College,Standard,Not Completed,7.4,0.939,No,No,69.5,61.8,63.6,65.0,1
+1806,Male,Group E,High School,Standard,Completed,10.3,1.0,No,Yes,77.7,85.7,81.6,81.7,1
+1807,Male,Group C,Some College,Free/Reduced,Completed,5.2,0.98,No,Yes,58.5,77.5,60.2,65.4,1
+1808,Female,Group B,Master's,Free/Reduced,Not Completed,11.7,1.0,No,Yes,93.5,92.3,96.0,93.9,1
+1809,Female,Group A,Associate's,Standard,Completed,9.2,0.885,No,Yes,78.0,83.5,78.0,79.8,1
+1810,Female,Group A,Some College,Standard,Not Completed,10.6,0.852,Yes,Yes,68.4,81.3,76.6,75.4,1
+1811,Male,Group D,High School,Standard,Not Completed,1.8,0.838,No,Yes,62.6,59.6,64.8,62.3,1
+1812,Male,Group C,Master's,Standard,Completed,5.6,0.861,Yes,No,78.1,74.5,80.0,77.5,1
+1813,Female,Group B,Bachelor's,Standard,Not Completed,4.5,0.736,No,Yes,56.3,53.6,59.1,56.3,0
+1814,Female,Group C,Some College,Standard,Completed,1.5,0.842,Yes,No,75.3,83.1,70.0,76.1,1
+1815,Female,Group B,High School,Standard,Completed,16.9,0.855,No,No,74.3,76.0,77.6,76.0,1
+1816,Male,Group C,High School,Standard,Completed,11.1,0.886,No,No,83.3,82.0,80.3,81.9,1
+1817,Female,Group B,High School,Standard,Not Completed,2.3,0.911,Yes,Yes,63.6,55.5,58.7,59.3,0
+1818,Male,Group D,Associate's,Free/Reduced,Not Completed,13.9,0.929,No,Yes,87.5,92.9,77.9,86.1,1
+1819,Male,Group D,Master's,Free/Reduced,Not Completed,6.5,0.899,Yes,Yes,89.7,93.1,88.3,90.4,1
+1820,Female,Group C,Some College,Standard,Not Completed,8.7,0.853,No,Yes,55.8,65.0,58.1,59.6,0
+1821,Female,Group B,Bachelor's,Standard,Not Completed,4.5,0.743,No,Yes,54.3,58.1,56.5,56.3,0
+1822,Female,Group B,Some College,Standard,Completed,11.6,0.854,Yes,Yes,85.9,93.9,84.3,88.0,1
+1823,Male,Group D,Bachelor's,Standard,Completed,6.3,0.822,No,Yes,81.6,89.9,83.9,85.1,1
+1824,Male,Group B,Bachelor's,Free/Reduced,Not Completed,9.0,0.937,Yes,Yes,64.6,74.1,73.4,70.7,1
+1825,Male,Group B,High School,Standard,Not Completed,12.3,0.973,No,No,73.4,75.5,71.2,73.4,1
+1826,Male,Group A,Some College,Free/Reduced,Completed,9.6,0.975,Yes,No,83.8,75.6,80.4,79.9,1
+1827,Female,Group C,Associate's,Free/Reduced,Not Completed,5.2,0.961,No,Yes,69.0,90.1,77.2,78.8,1
+1828,Male,Group C,High School,Standard,Not Completed,6.4,0.889,No,No,55.6,63.8,59.9,59.8,0
+1829,Male,Group D,Some College,Standard,Completed,10.8,0.858,No,Yes,77.1,76.6,74.1,75.9,1
+1830,Female,Group B,Associate's,Standard,Completed,0.5,0.84,No,Yes,59.4,60.7,66.2,62.1,1
+1831,Male,Group C,Master's,Standard,Not Completed,5.7,0.779,No,Yes,74.4,71.3,74.6,73.4,1
+1832,Male,Group D,Some College,Standard,Completed,6.7,0.979,No,No,78.5,78.9,78.3,78.6,1
+1833,Male,Group D,Bachelor's,Standard,Not Completed,8.0,0.886,No,Yes,70.9,54.3,61.3,62.2,1
+1834,Male,Group C,Some College,Free/Reduced,Completed,4.5,0.8,No,Yes,51.0,54.1,51.0,52.0,0
+1835,Male,Group C,Bachelor's,Standard,Not Completed,6.3,0.834,No,Yes,46.3,52.5,52.3,50.4,0
+1836,Male,Group B,Associate's,Standard,Not Completed,7.4,0.831,No,Yes,53.5,63.3,65.3,60.7,1
+1837,Female,Group E,Bachelor's,Standard,Completed,7.4,0.903,No,Yes,89.4,85.1,77.8,84.1,1
+1838,Female,Group A,Some College,Free/Reduced,Not Completed,7.2,0.985,No,Yes,79.2,77.2,81.4,79.3,1
+1839,Male,Group E,Associate's,Standard,Completed,5.3,0.872,No,No,80.4,79.2,81.8,80.5,1
+1840,Female,Group D,Associate's,Free/Reduced,Completed,7.6,0.72,Yes,Yes,74.1,64.9,62.6,67.2,1
+1841,Female,Group C,Some College,Standard,Completed,13.5,0.885,No,No,70.0,82.8,78.2,77.0,1
+1842,Female,Group A,High School,Standard,Completed,6.3,0.888,Yes,No,74.4,72.8,73.8,73.7,1
+1843,Female,Group C,High School,Standard,Not Completed,7.6,0.882,No,No,61.0,73.7,67.2,67.3,1
+1844,Male,Group C,High School,Standard,Completed,6.3,0.85,Yes,Yes,82.0,91.5,83.3,85.6,1
+1845,Male,Group B,Bachelor's,Free/Reduced,Not Completed,13.1,0.917,No,No,74.2,73.7,74.6,74.2,1
+1846,Female,Group D,High School,Standard,Not Completed,5.7,0.905,No,No,78.5,78.8,70.4,75.9,1
+1847,Female,Group E,High School,Free/Reduced,Completed,3.7,0.898,Yes,Yes,80.2,76.7,76.8,77.9,1
+1848,Female,Group C,Bachelor's,Standard,Not Completed,9.8,0.933,Yes,Yes,87.1,85.6,88.7,87.1,1
+1849,Male,Group D,Some College,Standard,Not Completed,5.5,0.866,No,No,45.7,38.9,47.1,43.9,0
+1850,Male,Group A,Associate's,Standard,Not Completed,9.5,0.861,No,Yes,73.9,81.0,77.3,77.4,1
+1851,Female,Group C,High School,Standard,Completed,5.0,1.0,No,Yes,73.4,71.0,74.8,73.1,1
+1852,Male,Group A,Master's,Free/Reduced,Completed,3.2,0.945,No,No,72.8,79.3,69.5,73.9,1
+1853,Male,Group C,Bachelor's,Free/Reduced,Not Completed,6.5,0.966,Yes,Yes,68.6,66.6,72.1,69.1,1
+1854,Male,Group E,Bachelor's,Standard,Not Completed,2.5,0.998,No,Yes,76.1,70.6,64.9,70.5,1
+1855,Male,Group D,Some College,Standard,Completed,7.9,0.942,No,Yes,66.1,88.6,67.9,74.2,1
+1856,Female,Group A,Bachelor's,Standard,Not Completed,10.5,0.974,No,Yes,69.9,75.6,60.6,68.7,1
+1857,Male,Group B,High School,Standard,Not Completed,17.6,0.774,No,Yes,65.4,42.2,47.1,51.6,0
+1858,Female,Group C,High School,Standard,Not Completed,4.8,0.916,No,No,63.9,65.7,68.5,66.0,1
+1859,Male,Group C,High School,Standard,Not Completed,4.1,0.885,Yes,Yes,77.1,66.5,73.2,72.3,1
+1860,Male,Group D,Associate's,Standard,Not Completed,10.4,1.0,No,No,79.5,79.0,86.1,81.5,1
+1861,Male,Group D,Some College,Standard,Completed,10.0,0.974,Yes,Yes,97.0,97.4,89.9,94.8,1
+1862,Male,Group C,Associate's,Standard,Not Completed,10.4,0.85,No,No,64.1,73.6,72.5,70.1,1
+1863,Female,Group C,High School,Standard,Completed,17.7,0.93,No,Yes,80.4,89.2,85.1,84.9,1
+1864,Male,Group B,Some College,Standard,Completed,6.7,0.913,No,No,70.3,74.1,66.5,70.3,1
+1865,Male,Group A,Bachelor's,Standard,Completed,19.7,0.936,No,Yes,89.2,90.0,86.9,88.7,1
+1866,Male,Group B,Some College,Free/Reduced,Not Completed,5.4,0.818,Yes,No,76.1,80.8,71.2,76.0,1
+1867,Female,Group C,Bachelor's,Standard,Not Completed,4.4,0.929,No,Yes,73.4,82.5,91.4,82.4,1
+1868,Female,Group D,High School,Standard,Not Completed,4.1,0.882,No,Yes,48.3,56.5,53.8,52.9,0
+1869,Female,Group D,Bachelor's,Standard,Completed,3.9,0.923,No,Yes,83.5,77.6,73.5,78.2,1
+1870,Male,Group A,Associate's,Standard,Not Completed,18.2,0.842,No,No,88.1,79.9,72.9,80.3,1
+1871,Male,Group C,High School,Free/Reduced,Not Completed,12.7,0.853,Yes,No,65.9,60.0,66.1,64.0,1
+1872,Female,Group B,High School,Standard,Not Completed,17.3,0.994,No,Yes,71.6,87.1,79.8,79.5,1
+1873,Female,Group B,Associate's,Free/Reduced,Not Completed,1.7,0.816,Yes,Yes,65.4,62.8,65.5,64.6,1
+1874,Male,Group D,Bachelor's,Free/Reduced,Not Completed,2.8,0.822,No,No,63.1,81.2,57.6,67.3,1
+1875,Male,Group A,Some College,Standard,Not Completed,5.5,0.896,No,No,72.8,68.1,68.5,69.8,1
+1876,Male,Group C,Some College,Standard,Not Completed,5.0,0.838,No,No,61.2,62.3,51.2,58.2,0
+1877,Male,Group B,Bachelor's,Free/Reduced,Not Completed,7.6,0.829,Yes,Yes,64.0,73.1,69.6,68.9,1
+1878,Female,Group E,Associate's,Standard,Not Completed,6.8,0.908,Yes,No,82.1,78.3,80.3,80.2,1
+1879,Female,Group C,Some College,Standard,Completed,3.4,0.78,No,Yes,71.9,69.2,74.1,71.7,1
+1880,Male,Group B,Some College,Standard,Not Completed,4.7,0.819,No,No,59.1,62.0,51.1,57.4,0
+1881,Male,Group C,High School,Standard,Not Completed,5.7,1.0,No,No,62.9,68.6,74.0,68.5,1
+1882,Male,Group D,Associate's,Standard,Not Completed,3.0,0.937,No,No,60.9,76.7,59.3,65.6,1
+1883,Male,Group E,Some College,Standard,Not Completed,6.2,0.84,No,Yes,54.9,56.2,51.1,54.1,0
+1884,Male,Group B,Master's,Free/Reduced,Completed,3.2,0.933,No,Yes,79.2,84.6,71.9,78.6,1
+1885,Female,Group E,Some College,Standard,Not Completed,6.1,0.945,No,No,64.1,69.3,60.3,64.6,1
+1886,Female,Group E,Some College,Free/Reduced,Completed,3.7,0.98,No,Yes,61.2,65.3,59.9,62.1,1
+1887,Female,Group E,Associate's,Standard,Completed,11.1,0.89,No,No,93.0,85.7,77.5,85.4,1
+1888,Female,Group C,Master's,Standard,Completed,8.5,0.978,Yes,Yes,77.5,97.9,84.2,86.5,1
+1889,Male,Group C,Bachelor's,Standard,Not Completed,8.3,0.737,No,Yes,63.1,55.8,52.7,57.2,0
+1890,Male,Group C,Some College,Standard,Not Completed,9.9,0.815,Yes,No,79.9,70.8,70.5,73.7,1
+1891,Female,Group D,Bachelor's,Standard,Completed,8.7,0.913,No,Yes,68.7,74.0,66.2,69.6,1
+1892,Female,Group C,Associate's,Standard,Not Completed,11.1,0.926,No,Yes,57.4,64.8,73.8,65.3,1
+1893,Male,Group D,Some College,Free/Reduced,Completed,7.2,0.827,No,No,71.3,65.7,71.3,69.4,1
+1894,Female,Group C,High School,Standard,Completed,9.8,0.921,No,Yes,71.9,82.7,76.9,77.2,1
+1895,Male,Group D,Some College,Standard,Completed,8.2,0.85,No,No,76.1,78.9,82.2,79.1,1
+1896,Male,Group D,High School,Free/Reduced,Not Completed,8.2,0.878,No,Yes,52.1,65.0,44.2,53.8,0
+1897,Male,Group A,Master's,Free/Reduced,Completed,2.4,0.982,Yes,No,76.7,80.3,82.5,79.8,1
+1898,Female,Group D,Some College,Standard,Completed,3.4,0.973,No,Yes,72.9,89.1,72.2,78.1,1
+1899,Female,Group C,Master's,Standard,Completed,7.6,0.82,Yes,No,72.2,68.4,71.8,70.8,1
+1900,Male,Group D,Associate's,Free/Reduced,Not Completed,4.1,0.815,No,No,61.6,71.6,65.0,66.1,1
+1901,Male,Group C,Associate's,Standard,Not Completed,6.4,0.867,No,No,80.8,74.9,59.7,71.8,1
+1902,Female,Group C,Associate's,Standard,Not Completed,4.8,0.898,No,No,50.6,59.4,44.2,51.4,0
+1903,Male,Group E,High School,Standard,Not Completed,4.9,0.847,Yes,Yes,65.1,69.8,66.5,67.1,1
+1904,Female,Group B,Some College,Free/Reduced,Not Completed,6.8,0.983,No,No,71.7,70.4,66.6,69.6,1
+1905,Male,Group D,High School,Standard,Completed,5.6,0.928,Yes,Yes,72.5,66.2,66.6,68.4,1
+1906,Female,Group C,Associate's,Free/Reduced,Not Completed,13.8,0.932,No,No,66.2,65.8,63.9,65.3,1
+1907,Male,Group C,Some College,Standard,Completed,2.6,0.799,Yes,Yes,73.4,72.1,66.1,70.5,1
+1908,Female,Group B,Bachelor's,Free/Reduced,Not Completed,9.1,0.993,No,Yes,95.5,93.8,95.2,94.8,1
+1909,Female,Group C,High School,Standard,Not Completed,10.1,0.674,No,Yes,52.6,54.9,50.2,52.6,0
+1910,Female,Group B,High School,Standard,Not Completed,14.3,0.967,No,Yes,90.4,93.8,90.1,91.4,1
+1911,Female,Group A,Some College,Free/Reduced,Not Completed,6.9,0.975,No,Yes,60.7,58.9,56.9,58.8,0
+1912,Male,Group B,Master's,Standard,Completed,9.6,0.865,No,Yes,80.1,88.6,84.6,84.4,1
+1913,Male,Group A,Bachelor's,Standard,Not Completed,13.7,1.0,No,No,92.7,93.6,97.5,94.6,1
+1914,Female,Group E,Some College,Standard,Not Completed,4.5,0.895,No,Yes,64.7,62.0,59.6,62.1,1
+1915,Female,Group E,Associate's,Standard,Not Completed,3.7,0.905,No,Yes,64.7,68.7,66.3,66.6,1
+1916,Male,Group C,High School,Standard,Completed,7.1,0.927,No,No,79.1,76.3,76.9,77.4,1
+1917,Male,Group D,Master's,Free/Reduced,Not Completed,5.8,1.0,No,Yes,89.5,90.4,93.3,91.1,1
+1918,Male,Group B,Associate's,Standard,Not Completed,9.7,1.0,No,No,80.7,83.4,80.7,81.6,1
+1919,Female,Group D,Some College,Standard,Not Completed,2.7,0.956,Yes,Yes,63.0,74.6,64.6,67.4,1
+1920,Female,Group D,Associate's,Standard,Not Completed,13.2,0.827,Yes,Yes,77.8,79.2,77.0,78.0,1
+1921,Male,Group E,High School,Standard,Not Completed,7.7,0.911,No,Yes,84.8,90.5,90.9,88.7,1
+1922,Female,Group C,Master's,Free/Reduced,Completed,5.7,0.835,Yes,Yes,79.0,78.6,78.3,78.6,1
+1923,Male,Group D,High School,Standard,Not Completed,6.6,0.966,No,Yes,67.8,64.4,64.2,65.5,1
+1924,Female,Group B,Associate's,Standard,Not Completed,11.5,0.911,No,Yes,62.9,68.2,63.6,64.9,1
+1925,Male,Group E,High School,Free/Reduced,Not Completed,8.8,0.81,No,Yes,45.4,45.9,49.3,46.9,0
+1926,Female,Group A,Bachelor's,Standard,Not Completed,6.6,0.906,Yes,No,80.0,80.4,82.1,80.8,1
+1927,Male,Group C,Bachelor's,Free/Reduced,Not Completed,5.9,0.832,No,No,77.9,76.5,67.2,73.9,1
+1928,Female,Group D,Associate's,Free/Reduced,Completed,6.0,0.912,Yes,Yes,71.8,73.0,71.2,72.0,1
+1929,Male,Group D,Associate's,Free/Reduced,Completed,9.5,0.831,Yes,No,79.1,69.1,79.5,75.9,1
+1930,Female,Group A,Bachelor's,Standard,Completed,5.6,0.902,No,No,67.6,83.3,63.5,71.5,1
+1931,Male,Group E,High School,Free/Reduced,Completed,9.0,0.96,No,Yes,66.9,74.2,64.0,68.4,1
+1932,Male,Group B,Some College,Free/Reduced,Not Completed,3.8,0.896,No,Yes,59.9,71.1,61.9,64.3,1
+1933,Male,Group C,High School,Standard,Not Completed,4.2,0.869,No,Yes,58.7,63.3,59.3,60.4,1
+1934,Male,Group B,Master's,Standard,Not Completed,6.5,0.916,No,No,86.8,95.7,95.9,92.8,1
+1935,Male,Group B,Some College,Standard,Not Completed,5.8,0.956,No,No,51.1,63.2,60.7,58.3,0
+1936,Male,Group C,Bachelor's,Standard,Not Completed,4.4,0.811,No,Yes,65.5,69.1,64.9,66.5,1
+1937,Female,Group C,Associate's,Standard,Not Completed,3.2,0.921,No,No,66.7,67.8,73.8,69.4,1
+1938,Male,Group B,High School,Standard,Completed,4.0,1.0,No,No,72.7,84.0,69.8,75.5,1
+1939,Female,Group B,High School,Standard,Completed,15.0,0.946,No,No,90.0,80.0,83.8,84.6,1
+1940,Female,Group C,Some College,Standard,Completed,4.4,0.905,No,No,62.9,59.8,57.6,60.1,1
+1941,Female,Group D,Some College,Standard,Completed,1.3,0.951,No,No,87.8,82.6,84.2,84.9,1
+1942,Female,Group E,High School,Standard,Not Completed,6.8,0.936,No,No,61.8,66.1,67.3,65.1,1
+1943,Male,Group A,High School,Free/Reduced,Not Completed,4.4,0.96,Yes,No,68.9,68.4,72.7,70.0,1
+1944,Male,Group C,Bachelor's,Standard,Completed,5.5,0.738,No,Yes,67.1,81.3,70.3,72.9,1
+1945,Male,Group A,Master's,Standard,Not Completed,10.7,0.776,No,No,64.0,74.2,76.1,71.4,1
+1946,Female,Group A,Some College,Standard,Not Completed,5.8,0.98,Yes,No,69.1,77.4,75.2,73.9,1
+1947,Female,Group D,Some College,Standard,Not Completed,5.4,0.78,No,Yes,61.9,68.5,68.7,66.4,1
+1948,Female,Group C,High School,Free/Reduced,Not Completed,4.5,0.932,Yes,Yes,61.7,62.2,50.0,58.0,0
+1949,Female,Group B,Associate's,Free/Reduced,Not Completed,5.6,0.872,No,No,68.2,78.3,77.1,74.5,1
+1950,Female,Group B,Bachelor's,Standard,Not Completed,8.2,0.82,Yes,Yes,74.8,77.8,67.5,73.4,1
+1951,Female,Group A,High School,Free/Reduced,Not Completed,1.9,0.928,Yes,No,56.9,53.3,45.8,52.0,0
+1952,Female,Group D,High School,Standard,Completed,2.9,0.916,No,No,69.8,75.4,64.8,70.0,1
+1953,Male,Group E,Bachelor's,Standard,Not Completed,8.3,1.0,No,Yes,91.9,98.9,95.6,95.5,1
+1954,Male,Group A,Associate's,Standard,Not Completed,6.7,0.85,Yes,Yes,47.5,57.8,54.7,53.3,0
+1955,Male,Group B,High School,Free/Reduced,Not Completed,4.7,1.0,Yes,Yes,64.2,75.1,57.2,65.5,1
+1956,Male,Group E,Associate's,Standard,Not Completed,8.6,0.928,Yes,Yes,84.8,94.7,80.0,86.5,1
+1957,Male,Group E,Some College,Free/Reduced,Completed,5.2,0.847,No,Yes,64.4,74.2,61.5,66.7,1
+1958,Female,Group C,Some College,Free/Reduced,Completed,10.6,0.964,Yes,No,81.0,92.6,85.1,86.2,1
+1959,Male,Group A,Bachelor's,Standard,Completed,4.6,0.945,No,No,78.2,77.4,76.6,77.4,1
+1960,Male,Group A,Bachelor's,Standard,Not Completed,3.7,0.903,No,Yes,71.6,62.6,72.4,68.9,1
+1961,Female,Group C,Some College,Free/Reduced,Not Completed,22.4,0.921,No,Yes,82.1,86.7,85.6,84.8,1
+1962,Female,Group C,Master's,Standard,Not Completed,9.5,0.852,No,No,67.0,63.9,59.3,63.4,1
+1963,Male,Group A,Some College,Standard,Not Completed,4.1,0.834,No,Yes,51.5,62.9,56.3,56.9,0
+1964,Female,Group C,Bachelor's,Standard,Not Completed,5.2,0.961,No,No,68.2,74.5,72.3,71.7,1
+1965,Male,Group A,Some College,Standard,Not Completed,4.6,0.882,No,Yes,61.7,51.3,60.6,57.9,0
+1966,Male,Group D,Bachelor's,Standard,Not Completed,2.2,0.894,No,Yes,69.8,70.2,72.0,70.7,1
+1967,Female,Group B,Master's,Standard,Completed,5.4,0.922,Yes,Yes,68.8,75.4,69.8,71.3,1
+1968,Female,Group A,High School,Standard,Not Completed,7.1,0.921,No,No,62.3,65.3,60.9,62.8,1
+1969,Female,Group C,Master's,Standard,Completed,13.4,0.786,No,No,99.4,100.0,100.0,99.8,1
+1970,Female,Group C,Bachelor's,Free/Reduced,Not Completed,6.2,1.0,No,Yes,63.0,59.7,63.7,62.1,1
+1971,Female,Group E,Bachelor's,Free/Reduced,Not Completed,4.9,0.91,No,No,78.4,74.4,70.2,74.3,1
+1972,Male,Group C,High School,Standard,Completed,14.3,0.884,No,No,69.7,86.7,85.9,80.8,1
+1973,Female,Group B,Bachelor's,Standard,Completed,12.7,0.934,No,Yes,82.9,85.3,74.8,81.0,1
+1974,Female,Group D,Bachelor's,Free/Reduced,Not Completed,7.1,0.919,No,Yes,60.6,62.5,40.3,54.5,0
+1975,Female,Group B,Some College,Standard,Not Completed,6.7,0.961,Yes,No,73.7,75.8,79.4,76.3,1
+1976,Male,Group E,Master's,Standard,Not Completed,8.1,0.943,No,Yes,88.3,92.8,94.3,91.8,1
+1977,Female,Group C,High School,Free/Reduced,Not Completed,4.5,0.957,No,Yes,54.9,47.7,58.3,53.6,0
+1978,Female,Group C,High School,Free/Reduced,Completed,6.6,1.0,No,No,69.0,77.7,63.9,70.2,1
+1979,Male,Group A,Associate's,Free/Reduced,Completed,4.4,0.971,No,Yes,80.6,91.6,79.3,83.8,1
+1980,Male,Group C,Associate's,Free/Reduced,Not Completed,12.9,0.887,No,No,75.4,71.4,72.3,73.0,1
+1981,Female,Group D,Associate's,Standard,Not Completed,3.9,0.81,No,No,36.6,44.4,43.4,41.5,0
+1982,Male,Group D,High School,Standard,Not Completed,7.4,1.0,No,No,74.7,75.6,77.5,75.9,1
+1983,Female,Group B,Master's,Free/Reduced,Not Completed,7.6,0.881,No,No,81.4,92.2,76.6,83.4,1
+1984,Female,Group B,High School,Standard,Completed,13.5,0.862,No,Yes,86.1,78.5,77.1,80.6,1
+1985,Female,Group D,High School,Standard,Completed,4.9,0.761,No,No,31.6,33.5,42.6,35.9,0
+1986,Female,Group E,High School,Free/Reduced,Not Completed,4.3,0.927,Yes,Yes,62.0,67.3,67.2,65.5,1
+1987,Male,Group A,Associate's,Free/Reduced,Not Completed,9.2,0.912,No,No,66.1,63.9,72.3,67.4,1
+1988,Female,Group C,Master's,Standard,Not Completed,8.5,0.779,No,No,57.2,53.8,57.0,56.0,0
+1989,Female,Group B,Associate's,Free/Reduced,Not Completed,17.5,0.936,No,Yes,57.7,68.0,68.6,64.8,1
+1990,Male,Group E,Bachelor's,Free/Reduced,Completed,7.2,0.86,Yes,Yes,81.1,82.6,86.1,83.3,1
+1991,Male,Group A,High School,Free/Reduced,Not Completed,12.8,1.0,Yes,Yes,75.7,70.9,74.8,73.8,1
+1992,Female,Group B,Associate's,Standard,Not Completed,12.0,0.854,No,Yes,60.9,68.0,62.7,63.9,1
+1993,Male,Group D,Some College,Standard,Not Completed,4.3,0.865,Yes,No,73.1,69.3,58.7,67.0,1
+1994,Female,Group A,Some College,Standard,Completed,2.4,0.83,No,Yes,56.0,53.1,62.0,57.0,0
+1995,Male,Group C,High School,Standard,Not Completed,5.5,1.0,Yes,No,69.5,77.9,78.8,75.4,1
+1996,Male,Group C,Associate's,Standard,Completed,10.4,0.87,No,Yes,79.7,76.7,76.9,77.8,1
+1997,Male,Group B,Associate's,Standard,Completed,13.6,0.842,No,Yes,79.1,76.7,67.4,74.4,1
+1998,Female,Group C,Bachelor's,Standard,Completed,0.4,0.957,No,No,71.4,75.2,60.5,69.0,1
+1999,Female,Group C,Some College,Free/Reduced,Not Completed,3.8,0.79,No,No,62.2,55.1,55.3,57.5,0
+2000,Female,Group B,High School,Standard,Not Completed,8.1,0.95,No,Yes,77.2,73.9,61.1,70.7,1
