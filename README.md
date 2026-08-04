@@ -1,8 +1,5 @@
 StudentReportAnalytics
-
-An end-to-end data analytics project demonstrating **SQL, Statistics, Machine Learning, Excel reporting,
-and BI-style dashboarding** — built around an education/assessment dataset (student demographics,
-study habits, and test scores).
+Analyzes student performance data using SQL queries, statistical hypothesis testing, and machine learning models (classification + regression), with automated Excel reporting and an interactive Streamlit dashboard.
 
 > Built to demonstrate the core Data Analyst skill set: **SQL · Tableau/Power BI-equivalent dashboarding ·
 > Statistics · Excel**, plus applied ML for predictive insight.
