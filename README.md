@@ -1,4 +1,4 @@
-# 🎓 StudentReportAnalytics
+StudentReportAnalytics
 
 An end-to-end data analytics project demonstrating **SQL, Statistics, Machine Learning, Excel reporting,
 and BI-style dashboarding** — built around an education/assessment dataset (student demographics,
@@ -9,7 +9,7 @@ study habits, and test scores).
 
 **Author:** [tushge23](https://github.com/tushge23)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 StudentReportAnalytics/
@@ -30,7 +30,7 @@ StudentReportAnalytics/
 └── requirements.txt
 ```
 
-## 🚀 Quickstart
+## Quickstart
 
 ```bash
 pip install -r requirements.txt
@@ -55,7 +55,7 @@ python excel/export_report.py
 streamlit run dashboard/app.py
 ```
 
-## 🔍 What each layer demonstrates
+## What each layer demonstrates
 
 | Skill | Where |
 |---|---|
@@ -65,14 +65,14 @@ streamlit run dashboard/app.py
 | **Excel** | `excel/export_report.py` — multi-sheet workbook with styled headers, pivot-style summaries, and a native Excel chart |
 | **BI Dashboard** | `dashboard/app.py` — interactive filters, KPI cards, and cross-filtered charts (Plotly) |
 
-## 📊 Key Findings (from the generated sample data)
+## Key Findings (from the generated sample data)
 
 - Students who completed **test preparation** score ~6.8 points higher on average (p < 0.001).
 - **Tutoring** is associated with a ~5.9 point increase in final grade (p < 0.001).
 - **Attendance rate** and **study hours/week** are the two strongest predictors of pass/fail in the ML model.
 - Parental education level shows a statistically significant effect on final grade (ANOVA, p < 0.001).
 
-## 📝 Note on Tableau / Power BI
+## Note on Tableau / Power BI
 
 Tableau (`.twbx`) and Power BI (`.pbix`) are proprietary desktop-tool file formats that can't be generated
 from a script/repo. This project ships an equivalent **interactive Plotly/Streamlit dashboard** instead
@@ -81,10 +81,10 @@ from a script/repo. This project ships an equivalent **interactive Plotly/Stream
 connect either tool directly to `data/students.csv` or `db/students.db` and rebuild the same visuals —
 the underlying data and queries are identical either way.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Python · pandas · SQLite · scipy · scikit-learn · openpyxl · Streamlit · Plotly
 
-## 📄 License
+## License
 
 MIT
